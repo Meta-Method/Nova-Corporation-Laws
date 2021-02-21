@@ -11,7 +11,7 @@ Class - Os hold the following responsibilities:
  **-** Reading applications  
  **-** Moderating the discord server and the games  
  **-** Following all rules and being a role model member of the community  
- **-** *Maintain maturity and grammar in Corporation-related spaces with the exception of off-topic or unrelated spaces.  
+ **-** Maintaining maturity and grammar in Corporation- related spaces with the exception of off-topic and unrelated spaces.  
 
 Class - Os must be added to their respective Class - O clearance trellos upon induction (Class - E Board, for example) and removed if demoted.  
 
