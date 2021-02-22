@@ -20,6 +20,7 @@ A special proposal that is related to Corporation Legislation, proposed by the D
 **REQUEST:**
 A Request is a formal expression of opinion from one group or individual to another group or individual for a reason.
 > Example: A formal request from SC to ID to begin to enforce public test logging.
+
 > Example: A formal request from the Regulations Department to promote user "JohnDoe"'s Class-E to permanent.
 
 ### Rules
