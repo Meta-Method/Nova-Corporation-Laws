@@ -58,6 +58,7 @@ Informing another Corporation Personnel that you are a member of a department or
 Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.
 Obtaining and/or playing as a team for a department or sub-department you are not a member of, with the exception of the Test Subject team.
 All Corporation Personnel are forbidden from colluding with any force hostile to the Nova Corporation.
+Corporation Personnel ranking Classification-E are not allowed to leave and rejoin the Corporation in the middle of their punishment sentence. Leaving in the middle of a C-E sentence would lead to an extension of the issued C-E sentence and a demotion to "Test Subject”.
 
 Section 2: On-Site Behaviour
 	Any clause within this section is to be followed on any and all official Nova Corporation sponsored sites. Current sites include the Nova Corporation Research Installment, designation 11.
@@ -78,7 +79,7 @@ Any article worn must not modify one's body parts.
 All Corporation Personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another Corporation Personnel’s duties, as outlined within this document and stated by, if applicable, the personnel’s department Class-X.
 All Corporation Personnel, with the exception of those who have access to weapons at-spawn, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self defence of themselves and those around them. They shall not actively pursue danger, and shall not directly or indirectly threaten the lives of other Corporation Personnel.
 Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.
-The following weapons are forbidden from use by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Plasma Rifles, Laser Rifles, Flamethrowers, and Miniguns.
+The following weapons are forbidden from use by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Plasma Rifles, Laser Rifles, Flamethrowers, Miniguns, RPG-7's, CDX-30 Sniper rifles, Laser pistols, M110 Sniper rifles, and AWM Sniper rifles.
 All Corporation Personnel may only pick up and carry keycards equal to or lower, in access, than said Corporation Personnel’s default keycard. Any keycard may be picked up off the ground given the personnel picking it up immediately respawns or returns the keycard to an employee wielding the proper clearance to keep the card.
 A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.
 The ability to designate personnel “Kill on Sight” has been granted to all Department of Operations Personnel, Personnel ranking Classification - X.
@@ -87,6 +88,8 @@ Corporation Personnel being detained by the Regulations Department, Security Cor
 Corporation Personnel may not avoid or attempt to avoid punishments being administered by those with the authority to do so, as described by Article 2, Section 3.
 No Corporation Personnel, with the exception of those who have access to weapons at-spawn and personnel ranking Classification - A or above, may utilize armored vest plating in any way shape or form.
 Personnel ranking Classification - O or above, or Security Personnel ranking Security Supervisor or above may temporarily grant other personnel access to utilizing armored vest plating.
+All Corporation Personnel, with the exception of on-duty Security Corps members, must always seek to reside in a location which is considered safe and under no imminent threat, if they are capable of thereof.
+No Corporation personnel, with the exception of those who are members of an authorized Task Force Detachment and personnel ranking Class-O and above may utilize and approve usage of the equipment the Underwater Sector provides.
 
 Section 3: Nova Corporation Hierarchy
 	Any clause within this section details specific hieratical placements of clearance, department, and sub department within the Nova Corporation, in terms of generalized command in a given moment, location, and situation. If a personnel applies to two ranking definitions within the same bracket, the higher ranking definition is to be used in calculating authority. Clauses within this section take priority by order in which listed, earlier clauses take less priority than later clauses.
@@ -287,7 +290,7 @@ Said Test Subject makes an attempt to, or succeeds in, escaping Nova Corporation
 Said Test Subject intentionally or unintentionally breaches an entity, unless granted permission by an Innovation Personnel overseeing a test, and an able-bodied representative of Security Corps Task Force Detachment “The Crazies”.
 Said Test Subject is affected with an anomalous effect, to which they pose an immediate threat to Corporation Personnel; Unless the immediate threat is a result of the test
 Termination order is given by the Innovation Personnel presiding over the test, and the said Test Subject is permanently affected by any anomalous effect.
-Security Corps Task Force Detachment “The Armed Gentleman” have been unequivocally granted the special ability to, when protecting Corporation Personnel ranking Classification - O or greater requests such in writing, for any Security Personnel of the Task Force Detachment to inherit the Legislative Immunities of such a Personnel, and act on behalf of said personnel allows such.
+Security Corps Task Force Detachment “The Armed Gentleman” have been unequivocally granted the special ability to, if a Corporation Personnel ranking Classification - O or greater requests such, for any Security Personnel of the Task Force Detachment to inherit the Legislative Immunities of such a Personnel, and act on behalf of said personnel allows such.
 “Legislative Immunities” defined as any sort of special cases where a Corporation Personnel may do something, or be allowed something which others cannot. Termination of other Corporation Personnel, Trespassing, and Dress Code are included, but this list is not exhaustive.
 Security Corps Task Force Detachment “The Armed Gentleman” does not enjoy the express authority of the personnel they are defending, and may not issue commands on behalf of said personnel, however may be granted permission to enter any location of access to continue protection of said personnel, so long as said personnel requests such.
 Termination of Corporation Personnel subordinate to the protected Corporation Personnel may be acceptable to ensure continuous security of a protected personnel, such as continuously breaching a security perimeter, threatening a protected personnel, et cetera.
@@ -312,6 +315,11 @@ Orange Threat Level Entities may be tested by Innovation Novices with supervisio
 Red Threat Level Entities may be tested by Innovation Advanced Innovators and above without supervision.
 Black Threat Level Entities may only be tested by Innovation Head Innovators with supervision and Innovation Deputy Director and above without supervision.
 White Level Entities may only be tested by Innovation Deputy Director and Director with supervision, and Innovation Overseer without supervision.
+All personnel present within a test must return to an area they have access to, as specified under Article 2, Subsection 3.1.
+Test Subjects, remaining after the test is concluded, may not be terminated by Security Corps personnel and must be escorted back to the Test Subject Zone unless the Test Subject(s) have been affected by an entity which possibly or indefinitely causes harm and/or effect to others and/or their surroundings.
+Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it.
+
+
 
 Section 4: The Regulations Department
 	The Regulations Department has the chief responsibility of maintaining, amending, and enforcing the Articles of Service under most circumstances, and forth internal policies disconnected from the Articles of Service for such actions. The following regulation clauses apply to all personnel of the Regulations Department, while being on their own team, and also include any regulations stated in the Regulations Departmental Guidelines:
