@@ -6,7 +6,8 @@ The Board of Advisors is a collection of Departmental Representatives charged wi
 ### Membership
 * Representatives must be a member of the Department they intend to represent.
 * Representatives must maintain good standing within their Department and the Corporation.
-* Amount of Representatives are TBD.
+* Amount of Representatives are controlled by the Class-X of the Department they are representing.
+* Personnel ranking Class-O and above who are not within a department are granted the ability to become a Representative, as an Independent or "NCM Representative".
 
 ### Procedure
 **PROPOSAL:**
@@ -21,8 +22,9 @@ A special proposal that is related to Corporation Legislation, proposed by the D
 A Request is a formal expression of opinion from one group or individual to another group or individual for a reason.
 > Example: A formal request from SC to ID to begin to enforce public test logging.
 
-> Example: A formal request from the Regulations Department to promote user "JohnDoe"'s Class-E to permanent.
+> Example: A formal request from the Regulations Department to upgrade user "JohnDoe"'s Class-E to permanent.
 
 ### Rules
-* Departmental Representatives must show respect from one to another.
-* Departmental Representatives must maintain professionalism within proposals.
+* Representatives must show respect from one to another.
+* Representatives must maintain professionalism within proposals.
+* Representatives must issue a show an opinion (Aye or Nay) on a minimum of 1 out of every 2 global votes, else risking dismissal from the Board of Advisors.
