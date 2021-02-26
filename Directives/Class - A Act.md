@@ -3,7 +3,6 @@ The rank of Class - A is the highest non-administrative rank of the Nova Corpora
 
 ### Membership
 A personnel ranking Class - B maybe be eligible for Class - A for a multiple ways, listed below:
-- Achieving a rank within a Department with elevated command privileges, specified by the Overseer of said department, and approved by confirmation vote by the Class - X Overwatch
 - Promotion approved by the Class - X Overwatch
 - Promotion granted by the Administrator, typically as an honor rank for development
 
