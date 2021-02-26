@@ -20,12 +20,12 @@ For personnel ranking Class - A and above, the Announcement Command ("**:a**") h
 - nil: Globally Announcement Across all Sites 
 
 Valid Announcements are listed below:
-- Increase of General threat in an area: ThreatLevelIncrease
-- Large Increase of General threat in an area: HighThreatLevel
-- Nuclear Threat Announcement: Nuke
-- Entity Containment Breach: Breach
-- Cafeteria Opening: CafeteriaOpen
-- Cafeteria Closing: CafeteriaClose
+- ThreatLevelIncrease: Increase of General threat in an area
+- HighThreatLevel: Large Increase of General threat in an area
+- Nuke: Nuclear Threat Announcement
+- Breach: Entity Containment Breach
+- CafeteriaOpen: Cafeteria Opening
+- CafeteriaClose: Cafeteria Closing
 
 ### Law History
 - March 2020: Introduced into Corporaton Law
