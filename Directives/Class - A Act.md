@@ -1,5 +1,5 @@
 ## The Class - A Act of March, 2020
-The rank of Class - A is hereby cordoned off as the highest non-administrative rank of the Nova Corporation. Typical eligibility results from administrative positions within individual Departments. Personnel ranking Class - A are held to a higher standard and scrutiny compared 
+The rank of Class - A is hereby cordoned off as the highest non-administrative rank of the Nova Corporation. Typical eligibility results from administrative positions within Corporation Departments. Personnel ranking Class - A are held to a higher standard and scrutiny compared to lower ranking personnel.
 
 ### Membership
 Eligibility for Class - A typically stems from achievement of a rank within a Department desginated as a Command Rank, although __special circumstances*__ could lead to promotion. Promotion of personnel to Class - A requires one of the following conditions:
