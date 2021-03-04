@@ -18,6 +18,8 @@ Innovation Personnel: Any and all applicable personnel that, when speaking outsi
 Operations Personnel: Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Department of Operations team.
 Regulations Personnel: Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Regulations Department team.
 Security Personnel: Any and all applicable personnel that have a loadout which includes weapons, including, but not limited to, the Security Corps.
+Engineering Personnel: Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Engineering Department team.
+
 
 Section 2: Base Law
 	Universal Corporation Legislation that, due to its fundamental nature, is required to take precedence over all otherwise stated clauses in other sections.
