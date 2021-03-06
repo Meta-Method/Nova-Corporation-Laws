@@ -18,24 +18,52 @@ At no point will the host become impatient or hostile towards attendees. If ther
 
 Phase 1
 
+Basic Information
+BEFORE/SETTING THE ORIENTATION
 At the start of Phase 1, the host will announce that a NCM orientation has begun within the upper viewing area, near the Innovation Department spawn at the Test Subject Zone. 
-After it has been announced, the host will wait until at least 6 individuals have come to the location, after which he will then wait another 2 minutes for any extra individuals, with a maximum capacity of 12 individuals per orientation.
+After it has been announced on radio, the host will wait until at least 3 individuals have come to the location, after which they will then wait another 2 minutes for any extra individuals, with a maximum capacity of 7 individuals per orientation. These individuals should be for C-D, however spectators from C-C+ may attend to refresh information
 -
-Once there are enough individuals or enough time has gone by, the host will announce on the radio that the orientation has begun and no further attendees are allowed, after which he will explain to the current attendees about what an orientation is.
+Once there are enough individuals or enough time has gone by, the host will announce on the radio that the orientation has begun and no further attendees are allowed, after which they will explain to the current attendees about what an orientation is.
 -
-The host is expected to tell the attendees to not speak, pay attention and be respectful and mature at all times. Once told that, the host is then expected to ask the attendees if they are in the Nova Corporation Discord, and that they need to DM or ping the host in #corporation_comms. If an NCM is not within the Discord, then the host shall tell them to join, if they are unwilling or unable to join, then they shall leave the orientation.
--
-Once done explaining about the orientation, the host will then proceed to explain to the NCMs about what the AoS is, starting with the most important articles, such as Article 2 and Article 1. The host shall then tell the attendees that they are expected to note everything told by the host.
+The host is expected to tell the attendees to not speak, pay attention and be respectful and mature at all times. Any questions you have can be asked at the end, during the Q&A session.
 
-At least 2 articles must be explained to the attendees, said articles will be chosen by the host. The host will have to outline and explain 5 clauses from each Article, of which he will expect the attendees to take notes about.
+
+
+
+
+
+
+
+
+
+
+
+START OF ORIENTATION
+Once done explaining about the orientation, the host will then proceed to explain to the NCMs about what the AoS is, starting with the most important articles, such as Article 2 and Article 1. The host shall then tell the attendees that they are expected to note everything told by the host.
 -
-Once done explaining to the attendees, the host will then proceed to move into Phase 2 of the NCM Orientation.
+At least 2 articles must be explained to the attendees, said articles will be chosen by the host. The host will have to outline and explain 5 clauses from each Article, of which they will expect the attendees to take notes about.
+-
+After which, the host should start to explain about the clearance classes, departments, divisions and the Red Wolves, all of which information can be found in the first section of the Articles of Service and the Nova Corporation Wiki.
+-
+Once done explaining to the attendees, the host will give a quick quiz to the individuals to see if they learned anything then mark the orientation as complete and request the passed C-Ds to be ranked to C-C. These C-C may then attend Phase 2 of the NCM Orientation. The quick quiz should be similar to the application questions for C-C.
+
+
+
+
+
+
+
 
 Phase 2 
-By the point the host has reached Phase 2, the attendees should atleast have
-some basic knowledge about the orientation and Articles of Service, they should also all have been told about the clauses that will fall into the following questions.
-The host is expected to tell the NCMs to DM him the answers to any questions on Discord.  The host shall always ask the NCMs at least 10 questions during Phase 2. 
-During the questioning, the host is supposed to note how many questions the attendees got right, and give them 1 point per correct answer. To pass the orientation, an attendee will require at least 7 points.
+BEFORE/SETTING THE ORIENTATION
+At the start of Phase 2, the host will announce that a NCM orientation has begun within the upper viewing area, near the Innovation Department spawn at the Test Subject Zone. 
+After it has been announced on radio, the host will wait until at least 3 individuals have come to the location, after which they will then wait another 2 minutes for any extra individuals, with a maximum capacity of 7 individuals per orientation. These individuals should be for C-C, however spectators from C-B+ may attend to refresh information.
 -
+Once there are enough individuals or enough time has gone by, the host will announce on the radio that the orientation has begun and no further attendees are allowed, after which they will explain to the current attendees about what an orientation is.
+-
+The host is expected to tell the attendees to not speak, pay attention and be respectful and mature at all times. Any questions you have can be asked at the end, during the Q&A session
 
-Once that is done, the host will then proceed to arrange the NCMs for a clear screenshot (with their names shown). Once everything has been completed, the host will then log the orientation in the appropriate channel for orientation logs.
+STARTING THE ORIENTATION
+Once done explaining about the orientation, the host will then proceed to explain to the NCMs about what the Nova Corporation is, the importance of the C-X Overwatch, at least 3 different entities and the different threat levels, all of which information can be found in the Nova Corporation Wiki.
+-
+Once done explaining to the attendees, the host will give a quick quiz to the individuals to see if they learned anything then mark the orientation as complete and request the passed C-Cs to be ranked to C-B. The quick quiz should be similar to the application questions for C-B.
