@@ -54,6 +54,7 @@ Should a violation reference a clause within Article 2, such a violation is to b
 Should a violation reference any other perceived clause be for a personnel on a specific department, the violation would then be reported to the department’s high command, and transferred from there.
 All Corporation Personnel receiving a formal inquiry regarding their actions or past actions by an authorized representative from the Regulations Department or Department of Operations must respond accurately with their side in the situation, and provide all possible available evidence, and cooperate with said personnel. 
 Personnel may not falsely claim to be a witness in an infraction. In addition, personnel may not abstain from questioning to protect the infractor.
+The forgery of images that may affect an investigation (An example would be someone forging evidence to incriminate an employee/forging proof countering the actual evidence ) is prohibited. Such actions will result in the forger facing punishment regardless if it has a small or large impact on the case.
 All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel, within any Nova Corporation Site or communications platform. Impersonation of personnel includes the following actions:
 Wearing an official, or something closely resembling that of an department or sub-department uniform without being a member of said department or sub-department.
 Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.
