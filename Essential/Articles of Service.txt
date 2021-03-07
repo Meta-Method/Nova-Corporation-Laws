@@ -79,6 +79,7 @@ Any article worn must not be immature, inappropriate, or subversive in any form 
 Any article worn must not change the form and appearance of one's body to the extent of which no longer can be realistically achieved.
 Any article worn must not obscure rank title or name title to the point which it can no longer be reasonably discerned a precise rank or name.
 Any article worn must not modify one's body parts.
+Corporation Personnel may not wear uniforms that are associated with hostile groups to the Nova Corporation.
 All Corporation Personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another Corporation Personnel’s duties, as outlined within this document and stated by, if applicable, the personnel’s department Class-X.
 All Corporation Personnel, with the exception of those who have access to weapons at-spawn, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self defence of themselves and those around them. They shall not directly or indirectly threaten the lives of other Corporation Personnel and may terminate escaping Test Subjects should they not violate any other applicable clause of the Articles of Service.
 Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.
@@ -252,6 +253,7 @@ Areas that can be reasonably described as being owned by a force that is not the
 The Underwater Sector in general is restricted to Security Personnel.
 Innovation Personnel internally ranking Expert Innovator or above may enter, along with proper testing personnel, for the express purpose of Innovation. When not testing, permission from the Innovation Department directorate is required.
 Regulation Personnel internally ranking Chief Regulating Official or above may enter for the express purpose of spectating aforementioned Innovation Personnel.
+Ore deposit areas at TSZ, and Power Plant are restricted to members of the Security Corps, Engineering Department, and NCM's ranking Classification-O+
 
 
 	
@@ -274,6 +276,8 @@ The Security Corps have been granted the ability to regulate all Humvees, regard
 “Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.
 Laws on termination also apply to vehicles, with the exception of termination via “running over” personnel, which may be acceptable should said personnel walk in front of a moving vehicle.
 The Security Corps has been granted the ability to terminate all Nova Corporation Personnel found actively assisting hostile groups.
+The terminology "Hostile Groups" includes The Red Wolves, any possible remaining Nova Dominion Operatives, or any group that poses a threat to the Corporation.
+Hostile Test Subjects are considered under the terminology "Hostile Groups".
 For the UH-60 “Black Hawk” vehicles and CV-22 “Osprey” vehicles, the ability to regulate said vehicles is delegated to the respective authority whomever has ownership of said vehicle.
 “Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.
 Laws on termination also apply to vehicles, with the exception of termination via “unintentionally killing” personnel, which may be acceptable should said personnel is in the way of a moving vehicle.
