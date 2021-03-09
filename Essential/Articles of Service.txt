@@ -102,6 +102,9 @@ Personnel ranking Classification - O may utilize all mineral resources within re
 Personnel ranking Classification - X may temporarily grant other personnel access to utilizing mineral resources.
 Only Corporation Personnel as "Engineering Department", "Security Corps", and "Department of Operations" may manipulate and manage objects that interfere with, or extend radio signals.
 High Command personnel within each stated departmental authority may temporarily expand authorized personnel through granting permission, and may set forth individual policies regarding such.
+When an area such as Test Subject Zone or Entity Area is under assault by hostile forces, employees are to be informed of the situation and warned to stay away from the area until properly dealt with.
+If employees refuse to leave the area under assault, they are in violation of this clause and may be subject to punishment.
+
 
 Section 3: Nova Corporation Hierarchy
 	Any clause within this section details specific hieratical placements of clearance, department, and sub department within the Nova Corporation, in terms of generalized command in a given moment, location, and situation. If a personnel applies to two ranking definitions within the same bracket, the higher ranking definition is to be used in calculating authority. Clauses within this section take priority by order in which listed, earlier clauses take less priority than later clauses.
@@ -254,7 +257,10 @@ Areas that can be reasonably described as being owned by a force that is not the
 The Underwater Sector in general is restricted to Security Personnel.
 Innovation Personnel internally ranking Expert Innovator or above may enter, along with proper testing personnel, for the express purpose of Innovation. When not testing, permission from the Innovation Department directorate is required.
 Regulation Personnel internally ranking Chief Regulating Official or above may enter for the express purpose of spectating aforementioned Innovation Personnel.
-Ore deposit areas at TSZ, and Power Plant are restricted to members of the Security Corps, Engineering Department, and NCM's ranking Classification-O+
+Ore deposit areas at TSZ, and Power Plant are restricted to members of the Security Corps, Engineering Department, and NCM's ranking Classification-O+.
+The Regulations Department interview room and area within the Test Subject Zone is restricted to Regulation Personnel, personnel who spawn with weapons  and personnel ranking Classification - O. 
+Members of the Regulations Department may grant access to the interview room to other personnel during interviews. 
+
 
 
 	
@@ -309,6 +315,11 @@ Security Corps Task Force Detachment “The Armed Gentleman” have been unequiv
 “Legislative Immunities” defined as any sort of special cases where a Corporation Personnel may do something, or be allowed something which others cannot. Termination of other Corporation Personnel, Trespassing, and Dress Code are included, but this list is not exhaustive.
 Security Corps Task Force Detachment “The Armed Gentleman” does not enjoy the express authority of the personnel they are defending, and may not issue commands on behalf of said personnel, however may be granted permission to enter any location of access to continue protection of said personnel, so long as said personnel requests such.
 Termination of Corporation Personnel subordinate to the protected Corporation Personnel may be acceptable to ensure continuous security of a protected personnel, such as continuously breaching a security perimeter, threatening a protected personnel, et cetera.
+Security Corps personnel are forbidden to disable the power generators located at the Main Encampment unless the following conditions are met:
+Security Corps personnel internally ranking "Security Supervisor" and above have authorized the deactivation.
+Hostile forces are currently raiding any facility located within a Corporation site.
+It will guarantee an advantage to Security personnel against the Hostile Forces.
+
 
 Section 3: The Innovation Department
 	The Innovation Department has been tasked with research and development of the Nova Corporation’s various anomalies. The following regulation clauses apply to all personnel of the Innovation Department, while being on their own team, and also include any regulations stated in the Innovation Departmental Guidelines:
