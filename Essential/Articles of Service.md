@@ -7,10 +7,14 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 # **Definitions**
 > **Class-X Overwatch:** A group of individuals holding the highest clearance within The Nova Corporation, Classification - X, and are the only beings with the authority to regulate entities of the White threat level.
+
 > **Department:** A specialized group within the Nova Corporation, led typically by one personnel ranking Class-O, assisted by another personnel ranking Classification - O, and broadly overseen by one member of the Class-X Overwatch.
+
 > **Entity:** An anomalous person, place, or thing that typically does not follow the current knowledge of reality. The Nova Corporation captures and contains entities for Innovation and Research.
+
 > **Site Overwatch:** Personnel holding the rank of Classification - O.
-Threat Level: A method of classification for entities. Threat Levels range from, in ascending order of security, Green, Yellow, Orange, Red, Black, and White.
+
+> **Threat Level:** A method of classification for entities. Threat Levels range from, in ascending order of security, Green, Yellow, Orange, Red, Black, and White.
 
 # **Clarification**
 > **Corporation Personnel:** Any and all personnel ranking Classification - D, to Classification - O, while on a team related to the Nova Corporation.
