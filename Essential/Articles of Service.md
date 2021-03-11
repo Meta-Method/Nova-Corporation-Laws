@@ -122,34 +122,61 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 
 4) Corporation Personnel below Classification - A are to follow proper attire rules, to which extent may be enforced.
 
-Any article worn must not be immature, inappropriate, or subversive in any form from all distances.
-Any article worn must not change the form and appearance of one's body to the extent of which no longer can be realistically achieved.
-Any article worn must not obscure rank title or name title to the point which it can no longer be reasonably discerned a precise rank or name.
-Any article worn must not modify one's body parts.
-Corporation Personnel may not wear uniforms that are associated with hostile groups to the Nova Corporation.
-All Corporation Personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another Corporation Personnel’s duties, as outlined within this document and stated by, if applicable, the personnel’s department Class-X.
-All Corporation Personnel, with the exception of those who have access to weapons at-spawn, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self defence of themselves and those around them. They shall not directly or indirectly threaten the lives of other Corporation Personnel and may terminate escaping Test Subjects should they not violate any other applicable clause of the Articles of Service.
-Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.
-The following weapons are forbidden from use by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Plasma Rifles, Laser Rifles, Flamethrowers, Miniguns, RPG-7's, CDX-30 Sniper rifles, Laser pistols, M110 Sniper rifles, and AWM Sniper rifles.
-All Corporation Personnel may only pick up and carry keycards equal to or lower, in access, than said Corporation Personnel’s default keycard. Any keycard may be picked up off the ground given the personnel picking it up immediately respawns or returns the keycard to an employee wielding the proper clearance to keep the card.
-A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.
-The ability to designate personnel “Kill on Sight” has been granted to all Department of Operations Personnel, Personnel ranking Classification - X.
-Corporation Personnel ranking Classification - O or above, and Department of Operations Personnel may not be designated Kill on Sight, unless the employee issuing the order wields the clearance of Classification - X or above.
-Corporation Personnel being detained by the Regulations Department, Security Corps or Department of Operations may not evade or attempt to evade being detained.
-Corporation Personnel may not avoid or attempt to avoid punishments being administered by those with the authority to do so, as described by Article 2, Section 3.
-No Corporation Personnel, with the exception of those who have access to weapons at-spawn and personnel ranking Classification - A or above, may utilize armored vest plating in any way shape or form.
-Personnel ranking Classification - O or above, or Security Personnel ranking Security Supervisor or above may temporarily grant other personnel access to utilizing armored vest plating.
-All Corporation Personnel, with the exception of on-duty Security Corps members, must always seek to reside in a location which is considered safe and under no imminent threat, if they are capable of thereof.
-No Corporation personnel, with the exception of those who are members of an authorized Task Force Detachment and personnel ranking Class-O and above may utilize and approve usage of the equipment the Underwater Sector provides.
-Only Corporation Personnel who spawn with weapons or are within the team defined as the "Engineering Department" may manipulate, manage, and store all mineral resources.
-High Command personnel within each stated departmental authority may set forth internal policies regarding manipulation, management, and storage of mineral resources, within reason.
-Personnel listed above may terminate personnel beneath in command as listed in Article 2, Section 3 violating this clause within reason.
-Personnel ranking Classification - O may utilize all mineral resources within reason.
-Personnel ranking Classification - X may temporarily grant other personnel access to utilizing mineral resources.
-Only Corporation Personnel as "Engineering Department", "Security Corps", and "Department of Operations" may manipulate and manage objects that interfere with, or extend radio signals.
-High Command personnel within each stated departmental authority may temporarily expand authorized personnel through granting permission, and may set forth individual policies regarding such.
-When an area such as Test Subject Zone or Entity Area is under assault by hostile forces, employees are to be informed of the situation and warned to stay away from the area until properly dealt with.
-If employees refuse to leave the area under assault, they are in violation of this clause and may be subject to punishment.
+*a) Any article worn must not be immature, inappropriate, or subversive in any form from all distances.*
+
+*b) Any article worn must not change the form and appearance of one's body to the extent of which no longer can be realistically achieved.*
+
+*c) Any article worn must not obscure rank title or name title to the point which it can no longer be reasonably discerned a precise rank or name.*
+
+*d) Any article worn must not modify one's body parts.*
+
+*e) Corporation Personnel may not wear uniforms that are associated with hostile groups to the Nova Corporation.*
+
+5) All Corporation Personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another Corporation Personnel’s duties, as outlined within this document and stated by, if applicable, the personnel’s department Class-X.
+
+6) All Corporation Personnel, with the exception of those who have access to weapons at-spawn, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self defence of themselves and those around them. They shall not directly or indirectly threaten the lives of other Corporation Personnel and may terminate escaping Test Subjects should they not violate any other applicable clause of the Articles of Service.
+
+*a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
+
+*b) The following weapons are forbidden from use by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Plasma Rifles, Laser Rifles, Flamethrowers, Miniguns, RPG-7's, CDX-30 Sniper rifles, Laser pistols, M110 Sniper rifles, and AWM Sniper rifles.*
+
+*c) All Corporation Personnel may only pick up and carry keycards equal to or lower, in access, than said Corporation Personnel’s default keycard. Any keycard may be picked up off the ground given the personnel picking it up immediately respawns or returns the keycard to an employee wielding the proper clearance to keep the card.*
+
+7) A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.
+
+*a) The ability to designate personnel “Kill on Sight” has been granted to all Department of Operations Personnel, Personnel ranking Classification - X.*
+
+*b) Corporation Personnel ranking Classification - O or above, and Department of Operations Personnel may not be designated Kill on Sight, unless the employee issuing the order wields the clearance of Classification - X or above.*
+
+8) Corporation Personnel being detained by the Regulations Department, Security Corps or Department of Operations may not evade or attempt to evade being detained.
+
+9) Corporation Personnel may not avoid or attempt to avoid punishments being administered by those with the authority to do so, as described by Article 2, Section 3.
+
+10) No Corporation Personnel, with the exception of those who have access to weapons at-spawn and personnel ranking Classification - A or above, may utilize armored vest plating in any way shape or form.
+
+*a) Personnel ranking Classification - O or above, or Security Personnel ranking Security Supervisor or above may temporarily grant other personnel access to utilizing armored vest plating.*
+
+11) All Corporation Personnel, with the exception of on-duty Security Corps members, must always seek to reside in a location which is considered safe and under no imminent threat, if they are capable of thereof.
+
+12) No Corporation personnel, with the exception of those who are members of an authorized Task Force Detachment and personnel ranking Class-O and above may utilize and approve usage of the equipment the Underwater Sector provides.
+
+13) Only Corporation Personnel who spawn with weapons or are within the team defined as the "Engineering Department" may manipulate, manage, and store all mineral resources.
+
+*a) High Command personnel within each stated departmental authority may set forth internal policies regarding manipulation, management, and storage of mineral resources, within reason.*
+
+*b) Personnel listed above may terminate personnel beneath in command as listed in Article 2, Section 3 violating this clause within reason.*
+
+*c) Personnel ranking Classification - O may utilize all mineral resources within reason.*
+
+*d) Personnel ranking Classification - X may temporarily grant other personnel access to utilizing mineral resources.*
+
+14) Only Corporation Personnel as "Engineering Department", "Security Corps", and "Department of Operations" may manipulate and manage objects that interfere with, or extend radio signals.
+
+*a) High Command personnel within each stated departmental authority may temporarily expand authorized personnel through granting permission, and may set forth individual policies regarding such.*
+
+15) When an area such as Test Subject Zone or Entity Area is under assault by hostile forces, employees are to be informed of the situation and warned to stay away from the area until properly dealt with.
+
+*a) If employees refuse to leave the area under assault, they are in violation of this clause and may be subject to punishment.*
 
 
 Section 3: Nova Corporation Hierarchy
