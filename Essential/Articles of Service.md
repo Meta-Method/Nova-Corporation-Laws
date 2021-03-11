@@ -101,18 +101,27 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 
 8) All Corporation Personnel are forbidden from encouraging others to break the clauses in the Articles of Services for any reason.
 
-Section 2: On-Site Behaviour
-	Any clause within this section is to be followed on any and all official Nova Corporation sponsored sites. Current sites include the Nova Corporation Research Installment, designation 11.
+## **Section 2: On-Site Behaviour**
+> Any clause within this section is to be followed on any and all official Nova Corporation sponsored sites. Current sites include the Nova Corporation Research Installment, designation 11.
 
-All Corporation Personnel trespassing in locations to which said personnel does not have access to are in violation of this clause.
-Trespassing is defined as: Attempting to, or succeeding in, gaining access to a location to which you, given your currently assigned team, clearance, and, when applicable, department rank, do not have access to.
-Authorization of personnel to enter an area that they are not, by default, allowed to have access to depends on the situation, location, and prior access detailed in Article 2, Subsection 3.1.
-All Corporation Personnel are to follow orders, within reason, of personnel superior to their own authority. The first priority for authority is a personnel’s assigned rank within the department of a team a personnel is a part of, if applicable, followed by rank within the sub-department, as allowed by the Class-X Overseer of the specific department. Secondly, authority outside of one department is to be followed as described in Article 2, Section 3.
-“Within reason” defined as an order that does not directly violate, or cause an indirect violation of the Articles of Service.
-All Corporation Personnel are not allowed to willingly come into contact with an entity, and are not allowed to willingly allow an entity or anomalous effect to come into effect upon themselves or others; And prevent such to the best of their ability.
-Members of the Security Corps internally ranking as Security Supervisor or above, and members of the Department of Operations have been granted the sole ability to authorize the usage of entities and anomalous effects if such is required. Any Class-X ranking individual may grant usage of entities and anomalous effects to any Corporation Personnel.
-The ability to regulate and authorize the usage of Entity - 004 has been fully delegated to the Innovation Department directorate.
-All Corporation Personnel below Classification - A are to follow proper attire rules, to which extent may be enforced.
+1) All Corporation Personnel trespassing in locations to which said personnel does not have access to are in violation of this clause.
+
+*a) Trespassing is defined as: Attempting to, or succeeding in, gaining access to a location to which you, given your currently assigned team, clearance, and, when applicable, department rank, do not have access to.*
+
+*b) Authorization of personnel to enter an area that they are not, by default, allowed to have access to depends on the situation, location, and prior access detailed in Article 2, Subsection 3.1.*
+
+2) All Corporation Personnel are to follow orders, within reason, of personnel superior to their own authority. The first priority for authority is a personnel’s assigned rank within the department of a team a personnel is a part of, if applicable, followed by rank within the sub-department, as allowed by the Class-X Overseer of the specific department. Secondly, authority outside of one department is to be followed as described in Article 2, Section 3.
+
+*a) “Within reason” defined as an order that does not directly violate, or cause an indirect violation of the Articles of Service.*
+
+3) All Corporation Personnel are not allowed to willingly come into contact with an entity, and are not allowed to willingly allow an entity or anomalous effect to come into effect upon themselves or others; And prevent such to the best of their ability.
+
+*a) Members of the Security Corps internally ranking as Security Supervisor or above, and members of the Department of Operations have been granted the sole ability to authorize the usage of entities and anomalous effects if such is required. Any Class-X ranking individual may grant usage of entities and anomalous effects to any Corporation Personnel.*
+
+*b) The ability to regulate and authorize the usage of Entity - 004 has been fully delegated to the Innovation Department directorate.*
+
+4) Corporation Personnel below Classification - A are to follow proper attire rules, to which extent may be enforced.
+
 Any article worn must not be immature, inappropriate, or subversive in any form from all distances.
 Any article worn must not change the form and appearance of one's body to the extent of which no longer can be realistically achieved.
 Any article worn must not obscure rank title or name title to the point which it can no longer be reasonably discerned a precise rank or name.
