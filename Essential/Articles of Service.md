@@ -33,17 +33,17 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 ## **Section 2: Base Law**
 > Universal Corporation Legislation that, due to its fundamental nature, is required to take precedence over all otherwise stated clauses in other sections.
 
-Classification - X is the highest ranking clearance in the Nova Corporation. The corporation was created entirely to serve members ranking Classification - X, henceforth shortened to the Class-X Overwatch. These Articles of Service are not bound to the Class-X Overwatch, and management of the Class-X Overwatch is outside the scope of this document.
+1) Classification - X is the highest ranking clearance in the Nova Corporation. The corporation was created entirely to serve members ranking Classification - X, henceforth shortened to the Class-X Overwatch. These Articles of Service are not bound to the Class-X Overwatch, and management of the Class-X Overwatch is outside the scope of this document.
 
-Classification - O is the second highest clearance in the Nova Corporation. Members ranking Classification - O, henceforth shortened to the Site Overwatch, are entrusted with access to a majority of the Nova Corporation’s entities and personnel. Because of their responsibilities, all members with the rank of Classification - O are required to maintain permanent loyalty to the Nova Corporation, from promotion to departure.
+2) Classification - O is the second highest clearance in the Nova Corporation. Members ranking Classification - O, henceforth shortened to the Site Overwatch, are entrusted with access to a majority of the Nova Corporation’s entities and personnel. Because of their responsibilities, all members with the rank of Classification - O are required to maintain permanent loyalty to the Nova Corporation, from promotion to departure.
 
-Classification - A is the highest rank available without reaching administrative levels of control, and is granted to personnel who usually hold high ranks within departments, or their sub-departments.
+3) Classification - A is the highest rank available without reaching administrative levels of control, and is granted to personnel who usually hold high ranks within departments, or their sub-departments.
 
-Classification - B, Classification - C, and Classification - D are ranks with no special privileges, other than higher classifications being granted more access to more documents and areas.
+4) Classification - B, Classification - C, and Classification - D are ranks with no special privileges, other than higher classifications being granted more access to more documents and areas.
 
-Classification - E is a delegation rank given to personnel who are found to have broken the Articles of Service, or otherwise ordered by the Class-X Overwatch.
+5) Classification - E is a delegation rank given to personnel who are found to have broken the Articles of Service, or otherwise ordered by the Class-X Overwatch.
 
-Any and all Corporation documents and laws are deemed publicly visible for anyone unless otherwise stated in a subclause below.
+6) Any and all Corporation documents and laws are deemed publicly visible for anyone unless otherwise stated in a subclause below.
 
 *a) A document may be restricted if it is internal to a department or subdivision, restriction depending on the Class-X of that particular department. The Class-X of that department may also grant permission to members outside of their department or subdivision.*
 
@@ -53,21 +53,27 @@ Any and all Corporation documents and laws are deemed publicly visible for anyon
 
 *d) A document may be restricted if directly ordered by the Class-X Overwatch.*
 
-When detailing any actions “On-Site”, the Articles of Service is only bound upon states considered as “public servers”. States considered “private servers” are unbounded by the Articles of Service, and may have separate clauses only for actions “On-Site”.
+7) When detailing any actions “On-Site”, the Articles of Service is only bound upon states considered as “public servers”. States considered “private servers” are unbounded by the Articles of Service, and may have separate clauses only for actions “On-Site”.
 
 
 # **Article 2: Code of Conduct**
 > Any clause within this article is to be followed at all times by any personnel bound to these Articles of Service, from time of admittance to the Corporation to the time of departure to the Corporation.
 
-Section 1: Overall Etiquette
-Any clause within this section is to be followed at all times within any Nova Corporation related system or forum, whether it be On-Site, or within a communication platform.
+## **Section 1: Overall Etiquette**
+> Any clause within this section is to be followed at all times within any Nova Corporation related system or forum, whether it be On-Site, or within a communication platform.
 
-All Nova Corporation Personnel are to treat all other Nova Corporation Personnel, and Nova Corporation Property with respect, with no discrimination or exception.
-Nova Corporation Property includes, but is not limited to, Test Subjects, Vehicles, and Weapons.
-All Nova Corporation Personnel are disallowed to issue unnecessary insults with an offensive tone to them.
-Discussion, Hinting, and Distribution of restricted material is strictly prohibited in an area where personnel of relatively lower access to said material is present or could be present. Restricted material may be discussed with fellow Corporation Personnel who also have the required access, but in a private environment.
-Should a breach of restricted material occur, actions dictated within the Information Breach Procedures are to be followed at all times.
-Should a Corporation Personnel state that he or she violated, or will violate the Articles of Service, they may be treated as suspects of a violation and evidence of such is to be added to any subsequent investigations.
+1) All Nova Corporation Personnel are to treat all other Nova Corporation Personnel, and Nova Corporation Property with respect, with no discrimination or exception.
+
+*a) Nova Corporation Property includes, but is not limited to, Test Subjects, Vehicles, and Weapons.*
+
+*b) All Nova Corporation Personnel are disallowed to issue unnecessary insults with an offensive tone to them.*
+
+2) Discussion, Hinting, and Distribution of restricted material is strictly prohibited in an area where personnel of relatively lower access to said material is present or could be present. Restricted material may be discussed with fellow Corporation Personnel who also have the required access, but in a private environment.
+
+*a) Should a breach of restricted material occur, actions dictated within the Information Breach Procedures are to be followed at all times.*
+
+3) Should a Corporation Personnel state that he or she violated, or will violate the Articles of Service, they may be treated as suspects of a violation and evidence of such is to be added to any subsequent investigations.
+
 Should a Corporation Personnel witness a perceived violation of the Articles of Service, they are to report such violation to the proper authority.
 Should a violation reference a clause within Article 2, such a violation is to be reported to the Regulations Department Public Discord.
 Should a violation reference any other perceived clause be for a personnel on a specific department, the violation would then be reported to the department’s high command, and transferred from there.
