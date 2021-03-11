@@ -394,31 +394,48 @@ Personnel as “Security Corps” not yet listed
 
 Any Personnel not yet listed
 
-Subsection 3.1: Area Restrictions
-	Any clause within this subsection details restrictions for all Nova Corporation Personnel on locations throughout the Nova Corporation Research Installment, designation 11. Restriction is written through descending priority. When describing a tangible location, it is to be assumed that the affected area also includes the 20 stud radius around the described location, or otherwise close to a tangible border.
+## **Subsection 3.1: Area Restrictions**
+> Any clause within this subsection details restrictions for all Nova Corporation Personnel on locations throughout the Nova Corporation Research Installment, designation 11. Restriction is written through descending priority. When describing a tangible location, it is to be assumed that the affected area also includes the 20 stud radius around the described location, or otherwise close to a tangible border.
 
 
+1) All personnel ranking Classification - X have been granted unrestricted access to any location in the installment. Operations Personnel have been granted unrestricted access to any location in the installment unless said area is restricted to only personnel ranking Classification - X.
 
-All personnel ranking Classification - X have been granted unrestricted access to any location in the installment. Operations Personnel have been granted unrestricted access to any location in the installment unless said area is restricted to only personnel ranking Classification - X.
-A given area is always accessible by those which can reasonably spawn within the area's border, unless they are incapable of accessing it with the cards that they spawn with or if specified otherwise.
-All personnel ranking Classification - O have been granted the ability to grant other personnel access to an area, granted that they too have access, with proper reason.
-Areas that can be reasonably deduced as being within the “tundra”, unincorporated, organized space outside of bounds of any establishment, have been restricted to only personnel ranking Classification - O and Security Personnel.
-The Forward Operating Base has been restricted to Security Personnel under normal circumstances. The Forward Operating Base can be unrestricted to all Corporation Personnel pending Security Corps High Command order, due to a site-wide evacuation or other calamity of equal magnitude.
-The Entity Area in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
-The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Innovation Personnel internally ranking Novice Innovator or above, and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3.
-Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3.
-Security Personnel within the Task Force Detachment “The Crazies”, internally ranking Triggerman or above have been granted the ability to grant other personnel access to any area within the Entity Area, given they too have access, with proper reason.
-The Test Subject Zone in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
-Areas within the Test Subject Zone used solely for the purpose of guarding from Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel.
-Areas within the Test Subject Zone used solely for the purpose of guarding from Security Personnel, such as watchtowers, are restricted to Security Personnel.
-The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
-Areas that can be reasonably described as being owned by a force that is not the Nova Corporation is restricted to all personnel except personnel ranking Classification - O and Security Personnel.
-The Underwater Sector in general is restricted to Security Personnel.
-Innovation Personnel internally ranking Expert Innovator or above may enter, along with proper testing personnel, for the express purpose of Innovation. When not testing, permission from the Innovation Department directorate is required.
-Regulation Personnel internally ranking Chief Regulating Official or above may enter for the express purpose of spectating aforementioned Innovation Personnel.
-Ore deposit areas at TSZ, and Power Plant are restricted to members of the Security Corps, Engineering Department, and NCM's ranking Classification-O+.
-The Regulations Department interview room and area within the Test Subject Zone is restricted to Regulation Personnel, personnel who spawn with weapons  and personnel ranking Classification - O. 
-Members of the Regulations Department may grant access to the interview room to other personnel during interviews. 
+2) A given area is always accessible by those which can reasonably spawn within the area's border, unless they are incapable of accessing it with the cards that they spawn with or if specified otherwise.
+
+3) All personnel ranking Classification - O have been granted the ability to grant other personnel access to an area, granted that they too have access, with proper reason.
+
+4) Areas that can be reasonably deduced as being within the “tundra”, unincorporated, organized space outside of bounds of any establishment, have been restricted to only personnel ranking Classification - O and Security Personnel.
+
+5) The Forward Operating Base has been restricted to Security Personnel under normal circumstances. The Forward Operating Base can be unrestricted to all Corporation Personnel pending Security Corps High Command order, due to a site-wide evacuation or other calamity of equal magnitude.
+
+6) The Entity Area in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
+
+*a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Innovation Personnel internally ranking Novice Innovator or above, and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
+
+*b) Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
+
+*c) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking Triggerman or above have been granted the ability to grant other personnel access to any area within the Entity Area, given they too have access, with proper reason.*
+
+7) The Test Subject Zone in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
+
+*a) Areas within the Test Subject Zone used solely for the purpose of guarding from Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel.*
+
+*b) Areas within the Test Subject Zone used solely for the purpose of guarding from Security Personnel, such as watchtowers, are restricted to Security Personnel.*
+
+8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
+
+9) Areas that can be reasonably described as being owned by a force that is not the Nova Corporation is restricted to all personnel except personnel ranking Classification - O and Security Personnel.
+
+10) The Underwater Sector in general is restricted to Security Personnel.
+
+*a) Innovation Personnel internally ranking Expert Innovator or above may enter, along with proper testing personnel, for the express purpose of Innovation. When not testing, permission from the Innovation Department directorate is required.*
+*b) Regulation Personnel internally ranking Chief Regulating Official or above may enter for the express purpose of spectating aforementioned Innovation Personnel.*
+
+11) Ore deposit areas at TSZ, and Power Plant are restricted to members of the Security Corps, Engineering Department, and NCM's ranking Classification-O+.
+
+12) The Regulations Department interview room and area within the Test Subject Zone is restricted to Regulation Personnel, personnel who spawn with weapons  and personnel ranking Classification - O. 
+
+*a) Members of the Regulations Department may grant access to the interview room to other personnel during interviews.*
 
 
 
