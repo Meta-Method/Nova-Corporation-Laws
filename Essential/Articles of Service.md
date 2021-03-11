@@ -30,19 +30,25 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 **Engineering Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Engineering Department team.
 
 
-Section 2: Base Law
+## **Section 2: Base Law**
 > Universal Corporation Legislation that, due to its fundamental nature, is required to take precedence over all otherwise stated clauses in other sections.
 
-Classification - X is the highest ranking clearance in the Nova Corporation. The corporation was created entirely to serve members ranking Classification - X, henceforth shortened to the Class-X Overwatch. These Articles of Service are not bound to the Class-X Overwatch, and management of the Class-X Overwatch is outside the scope of this document.
-Classification - O is the second highest clearance in the Nova Corporation. Members ranking Classification - O, henceforth shortened to the Site Overwatch, are entrusted with access to a majority of the Nova Corporation’s entities and personnel. Because of their responsibilities, all members with the rank of Classification - O are required to maintain permanent loyalty to the Nova Corporation, from promotion to departure.
-Classification - A is the highest rank available without reaching administrative levels of control, and is granted to personnel who usually hold high ranks within departments, or their sub-departments.
-Classification - B, Classification - C, and Classification - D are ranks with no special privileges, other than higher classifications being granted more access to more documents and areas.
-Classification - E is a delegation rank given to personnel who are found to have broken the Articles of Service, or otherwise ordered by the Class-X Overwatch.
+*Classification - X* is the highest ranking clearance in the Nova Corporation. The corporation was created entirely to serve members ranking Classification - X, henceforth shortened to the Class-X Overwatch. These Articles of Service are not bound to the Class-X Overwatch, and management of the Class-X Overwatch is outside the scope of this document.
+
+*Classification - O* is the second highest clearance in the Nova Corporation. Members ranking Classification - O, henceforth shortened to the Site Overwatch, are entrusted with access to a majority of the Nova Corporation’s entities and personnel. Because of their responsibilities, all members with the rank of Classification - O are required to maintain permanent loyalty to the Nova Corporation, from promotion to departure.
+
+*Classification - A* is the highest rank available without reaching administrative levels of control, and is granted to personnel who usually hold high ranks within departments, or their sub-departments.
+
+*Classification - B, Classification - C, and Classification - D* are ranks with no special privileges, other than higher classifications being granted more access to more documents and areas.
+
+*Classification - E* is a delegation rank given to personnel who are found to have broken the Articles of Service, or otherwise ordered by the Class-X Overwatch.
+
 Any and all Corporation documents and laws are deemed publicly visible for anyone unless otherwise stated in a subclause below.
 a) A document may be restricted if it is internal to a department or subdivision, restriction depending on the Class-X of that particular department. The Class-X of that department may also grant permission to members outside of their department or subdivision.
 b) A document may be temporarily restricted by the Class-X Overwatch motion / law. This includes evidence against any member of the Corporation, regardless of rank.
 c) A document may be restricted if it is considered a guide (See clause a) or contains classified development information.
 d) A document may be restricted if directly ordered by the Class-X Overwatch.
+
 When detailing any actions “On-Site”, the Articles of Service is only bound upon states considered as “public servers”. States considered “private servers” are unbounded by the Articles of Service, and may have separate clauses only for actions “On-Site”.
 
 
