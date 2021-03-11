@@ -8,6 +8,7 @@ The Board of Advisors is a collection of Departmental Representatives charged wi
 * Representatives must have good standing within their Department and the Corporation.
 * Amount of Representatives are controlled by the Class-X of the Department they are representing.
 * Personnel ranking Class-O and above who are not within a department are granted the ability to become a Representative, as an Independent or "NCM Representative".
+* Each department may have as many members as they want, but are required to have a minimum of 5 members
 
 ### Procedure
 > Example Format
