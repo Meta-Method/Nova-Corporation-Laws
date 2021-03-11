@@ -45,13 +45,13 @@ Classification - E is a delegation rank given to personnel who are found to have
 
 Any and all Corporation documents and laws are deemed publicly visible for anyone unless otherwise stated in a subclause below.
 
-*a) A document may be restricted if it is internal to a department or subdivision, restriction depending on the Class-X of that particular department. The Class-X of that department may also grant permission to members outside of their department or subdivision.
+*a) A document may be restricted if it is internal to a department or subdivision, restriction depending on the Class-X of that particular department. The Class-X of that department may also grant permission to members outside of their department or subdivision.*
 
-*b) A document may be temporarily restricted by the Class-X Overwatch motion / law. This includes evidence against any member of the Corporation, regardless of rank.
+*b) A document may be temporarily restricted by the Class-X Overwatch motion / law. This includes evidence against any member of the Corporation, regardless of rank.*
 
-*c) A document may be restricted if it is considered a guide (See clause a) or contains classified development information.
+*c) A document may be restricted if it is considered a guide (See clause a) or contains classified development information.*
 
-*d) A document may be restricted if directly ordered by the Class-X Overwatch.
+*d) A document may be restricted if directly ordered by the Class-X Overwatch.*
 
 When detailing any actions “On-Site”, the Articles of Service is only bound upon states considered as “public servers”. States considered “private servers” are unbounded by the Articles of Service, and may have separate clauses only for actions “On-Site”.
 
