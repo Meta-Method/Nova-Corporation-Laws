@@ -185,15 +185,25 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 0) Unless elsewise overridden by a different clause or law, the following list describes the hierarchy while on site, from most authority to least authority:
 
 Personnel ranking Classification - O
+
 ↓
+
 Personnel as “Security Corps”, internally ranking “TFD” or above
+
 ↓
+
 Personnel as “Regulations Department”, internally ranking “Regulation Official” or above
+
 ↓
+
 Personnel as “Security Corps” not yet listed
+
 ↓
+
 Personnel ranking Classification - A as “Nova Corporation Personnel”
+
 ↓
+
 Any Personnel not yet listed
 
 1) Within the following locations, including the land 50 studs away from the perimeter of the official boundary of the location, or elsewise close to reasonable boundary, during normal operation:
