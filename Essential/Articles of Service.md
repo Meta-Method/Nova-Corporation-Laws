@@ -179,10 +179,10 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 *a) If employees refuse to leave the area under assault, they are in violation of this clause and may be subject to punishment.*
 
 
-Section 3: Nova Corporation Hierarchy
-	Any clause within this section details specific hieratical placements of clearance, department, and sub department within the Nova Corporation, in terms of generalized command in a given moment, location, and situation. If a personnel applies to two ranking definitions within the same bracket, the higher ranking definition is to be used in calculating authority. Clauses within this section take priority by order in which listed, earlier clauses take less priority than later clauses.
+## **Section 3: Nova Corporation Hierarchy**
+> Any clause within this section details specific hieratical placements of clearance, department, and sub department within the Nova Corporation, in terms of generalized command in a given moment, location, and situation. If a personnel applies to two ranking definitions within the same bracket, the higher ranking definition is to be used in calculating authority. Clauses within this section take priority by order in which listed, earlier clauses take less priority than later clauses.
 
-Unless elsewise overridden by a different clause or law, the following list describes the hierarchy while on site, from most authority to least authority:
+0) Unless elsewise overridden by a different clause or law, the following list describes the hierarchy while on site, from most authority to least authority:
 
 Personnel ranking Classification - O
 ↓
@@ -196,8 +196,9 @@ Personnel ranking Classification - A as “Nova Corporation Personnel”
 ↓
 Any Personnel not yet listed
 
-Within the following locations, including the land 50 studs away from the perimeter of the official boundary of the location, or elsewise close to reasonable boundary, during normal operation:
-The Test Subject Zone, “Lower Area”:
+1) Within the following locations, including the land 50 studs away from the perimeter of the official boundary of the location, or elsewise close to reasonable boundary, during normal operation:
+
+*a) The Test Subject Zone, “Lower Area”:*
 
 Personnel ranking Classification - O
 ↓
@@ -209,7 +210,7 @@ Personnel ranking Classification - A
 ↓
 Any Personnel not yet listed
 
-The Test Subject Zone, “Surface Area”:
+*b) The Test Subject Zone, “Surface Area”:*
 
 
 Personnel ranking Classification - O
@@ -222,7 +223,7 @@ Personnel ranking Classification - A as “Nova Corporation Personnel”
 ↓
 Any Personnel not yet listed
 
-The Entity Area:
+*c) The Entity Area:*
 
 Personnel ranking Classification - O
 ↓
@@ -240,7 +241,7 @@ Personnel as “Innovation Department”
 ↓
 Any Personnel not yet listed
 
-The Main Encampment:
+*d) The Main Encampment:*
 
 Personnel ranking Classification - O
 ↓
@@ -254,7 +255,7 @@ Personnel as “Security Corps” not yet listed
 ↓
 Any Personnel not yet listed
 
-During an official, valid Innovation Department Test not in violation of any clause within Article 3, Section 3:
+2) During an official, valid Innovation Department Test not in violation of any clause within Article 3, Section 3:
 
 Personnel as “Regulations Department”, internal ranking “Regulation Official” or above
 ↓
@@ -264,7 +265,7 @@ Personnel as “Security Corps” not yet listed
 ↓
 Personnel not yet listed spectating the test
 
-During a “Increased Threat Level” at any of the applicable locations:
+3) During a “Increased Threat Level” at any of the applicable locations:
 
 Personnel as “Security Corps”, internal ranking “Security Captain” or above
 ↓
@@ -278,7 +279,7 @@ Personnel ranking Classification - A
 ↓
 Personnel not yet listed
 
-During an evacuation due to a perceived site-wide threat:
+4) During an evacuation due to a perceived site-wide threat:
 
 Personnel ranking Classification - O
 ↓
@@ -288,7 +289,7 @@ Personnel ranking Classification - A
 ↓
 Any Personnel not yet listed
 
-It is to be mentioned that, in all cases no matter the situation, the following two ranking definitions are above all other ranking definitions in all other clauses. This is a simplification to save space.
+5) It is to be mentioned that, in all cases no matter the situation, the following two ranking definitions are above all other ranking definitions in all other clauses. This is a simplification to save space.
 
 Personnel ranking Classification - X
 ↓
@@ -296,7 +297,7 @@ Personnel as “Department of Operations”
 ↓
 ...
 
-During any Biological Attack at any Nova Corporation owned site or facility, the hierarchy is as follows:
+6) During any Biological Attack at any Nova Corporation owned site or facility, the hierarchy is as follows:
 
 Personnel ranking Classification - O
 ↓
