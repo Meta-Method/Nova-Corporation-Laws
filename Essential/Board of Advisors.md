@@ -37,3 +37,4 @@ A Special Request created as a referendum for the rank status of someone within 
 * Representatives must maintain professionalism within proposals.
 * Representatives must issue a show an opinion (Aye or Nay) on a minimum of 1 out of every 2 global votes, else risking dismissal from the Board of Advisors.
 * This document seeks to establish this discord as an official system, setup rules, and make guidelines on proposals. It is recommended that suggested changes be passed through mystery3525 for wording consistency.
+* Demanding somebody votes on a law is always punishable, this is not allowed to be done. You may tell somebody why you believe they should vote in a certain manner and encourage them to with reasoning that is plausible and makes sense and hasn't been changed or missing context.
