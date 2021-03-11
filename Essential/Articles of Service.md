@@ -438,32 +438,43 @@ Any Personnel not yet listed
 *a) Members of the Regulations Department may grant access to the interview room to other personnel during interviews.*
 
 
+# **Article 3: Specific Precept**
 
-	
+## **Section 1: Miscellaneous Rights and Restrictions**
 
+1) All Test Subjects are to be considered Nova Corporation Property, as such, unnecessary termination of Test Subjects is unlawful.
 
-Article 3: Specific Precept
+*a) Test Subjects may be terminated if a Security Personnel has the ability to do so under Article 3, Section 2, Clause 3.*
 
+*b) Test Subjects may be terminated if found to have acquired any tool not granted to them through lawful circumstances, hereby referred to as “contraband”.*
 
-Section 1: Miscellaneous Rights and Restrictions
+*c) Test Subjects may be terminated if they are directly or indirectly threatening the life of a Corporation Personnel.*
 
-All Test Subjects are to be considered Nova Corporation Property, as such, unnecessary termination of Test Subjects is unlawful.
-Test Subjects may be terminated if a Security Personnel has the ability to do so under Article 3, Section 2, Clause 3.
-Test Subjects may be terminated if found to have acquired any tool not granted to them through lawful circumstances, hereby referred to as “contraband”.
-Test Subjects may be terminated if they are directly or indirectly threatening the life of a Corporation Personnel.
-Test Subjects have been granted the single right to decline testing or questioning, so long as there are other available Test Subjects.
-The Security Corps Task Force Detachment “Iron Fist”, and by proxy any authority higher, have been granted the ability to regulate all Leopard 2a6 tanks.
-“Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.
-Laws on termination also apply to vehicles, with the exception of termination via “running over” personnel, which may be acceptable should said personnel walk in front of a moving vehicle.
-The Security Corps have been granted the ability to regulate all Humvees, regardless of whether it is armed or not.
-“Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.
-Laws on termination also apply to vehicles, with the exception of termination via “running over” personnel, which may be acceptable should said personnel walk in front of a moving vehicle.
-The Security Corps has been granted the ability to terminate all Nova Corporation Personnel found actively assisting hostile groups.
-The terminology "Hostile Groups" includes The Red Wolves, any possible remaining Nova Dominion Operatives, or any group that poses a threat to the Corporation.
-Hostile Test Subjects are considered under the terminology "Hostile Groups".
-For the UH-60 “Black Hawk” vehicles and CV-22 “Osprey” vehicles, the ability to regulate said vehicles is delegated to the respective authority whomever has ownership of said vehicle.
-“Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.
-Laws on termination also apply to vehicles, with the exception of termination via “unintentionally killing” personnel, which may be acceptable should said personnel is in the way of a moving vehicle.
+*d) Test Subjects have been granted the single right to decline testing or questioning, so long as there are other available Test Subjects.*
+
+2) The Security Corps Task Force Detachment “Iron Fist”, and by proxy any authority higher, have been granted the ability to regulate all Leopard 2a6 tanks.
+
+*a) “Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.*
+
+*b) Laws on termination also apply to vehicles, with the exception of termination via “running over” personnel, which may be acceptable should said personnel walk in front of a moving vehicle.*
+
+3) The Security Corps have been granted the ability to regulate all Humvees, regardless of whether it is armed or not.
+
+*a) “Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.*
+
+*b) Laws on termination also apply to vehicles, with the exception of termination via “running over” personnel, which may be acceptable should said personnel walk in front of a moving vehicle.*
+
+4) The Security Corps has been granted the ability to terminate all Nova Corporation Personnel found actively assisting hostile groups.
+
+*a) The terminology "Hostile Groups" includes The Red Wolves, any possible remaining Nova Dominion Operatives, or any group that poses a threat to the Corporation.*
+
+*b) Hostile Test Subjects are considered under the terminology "Hostile Groups".*
+
+5) For the UH-60 “Black Hawk” vehicles and CV-22 “Osprey” vehicles, the ability to regulate said vehicles is delegated to the respective authority whomever has ownership of said vehicle.
+
+*a) “Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.*
+
+*b) Laws on termination also apply to vehicles, with the exception of termination via “unintentionally killing” personnel, which may be acceptable should said personnel is in the way of a moving vehicle.*
 
 
 
