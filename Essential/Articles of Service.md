@@ -74,20 +74,32 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 3) Should a Corporation Personnel state that he or she violated, or will violate the Articles of Service, they may be treated as suspects of a violation and evidence of such is to be added to any subsequent investigations.
 
-Should a Corporation Personnel witness a perceived violation of the Articles of Service, they are to report such violation to the proper authority.
-Should a violation reference a clause within Article 2, such a violation is to be reported to the Regulations Department Public Discord.
-Should a violation reference any other perceived clause be for a personnel on a specific department, the violation would then be reported to the department’s high command, and transferred from there.
-All Corporation Personnel receiving a formal inquiry regarding their actions or past actions by an authorized representative from the Regulations Department or Department of Operations must respond accurately with their side in the situation, and provide all possible available evidence, and cooperate with said personnel. 
-Personnel may not falsely claim to be a witness in an infraction. In addition, personnel may not abstain from questioning to protect the infractor.
-The forgery of images that may affect an investigation (An example would be someone forging evidence to incriminate an employee/forging proof countering the actual evidence ) is prohibited. Such actions will result in the forger facing punishment regardless if it has a small or large impact on the case.
-All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel, within any Nova Corporation Site or communications platform. Impersonation of personnel includes the following actions:
-Wearing an official, or something closely resembling that of an department or sub-department uniform without being a member of said department or sub-department.
-Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.
-Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.
-Obtaining and/or playing as a team for a department or sub-department you are not a member of, with the exception of the Test Subject team.
-All Corporation Personnel are forbidden from colluding with any force hostile to the Nova Corporation.
+4) Should a Corporation Personnel witness a perceived violation of the Articles of Service, they are to report such violation to the proper authority.
+
+*a) Should a violation reference a clause within Article 2, such a violation is to be reported to the Regulations Department Public Discord.*
+
+*b) Should a violation reference any other perceived clause be for a personnel on a specific department, the violation would then be reported to the department’s high command, and transferred from there.*
+
+5) All Corporation Personnel receiving a formal inquiry regarding their actions or past actions by an authorized representative from the Regulations Department or Department of Operations must respond accurately with their side in the situation, and provide all possible available evidence, and cooperate with said personnel. 
+
+*a) Personnel may not falsely claim to be a witness in an infraction. In addition, personnel may not abstain from questioning to protect the infractor.*
+
+*b) The forgery of images that may affect an investigation (An example would be someone forging evidence to incriminate an employee/forging proof countering the actual evidence ) is prohibited. Such actions will result in the forger facing punishment regardless if it has a small or large impact on the case.*
+
+6) All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel, within any Nova Corporation Site or communications platform. Impersonation of personnel includes the following actions:
+
+*a) Wearing an official, or something closely resembling that of an department or sub-department uniform without being a member of said department or sub-department.*
+
+*b) Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.
+
+*c) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.
+
+*d) Obtaining and/or playing as a team for a department or sub-department you are not a member of, with the exception of the Test Subject team.
+
+7) All Corporation Personnel are forbidden from colluding with any force hostile to the Nova Corporation.
 Corporation Personnel ranking Classification-E are not allowed to leave and rejoin the Corporation in the middle of their punishment sentence. Leaving in the middle of a C-E sentence would lead to an extension of the issued C-E sentence and a demotion to "Test Subject”.
-All Corporation Personnel are forbidden from encouraging others to break the clauses in the Articles of Services for any reason.
+
+8) All Corporation Personnel are forbidden from encouraging others to break the clauses in the Articles of Services for any reason.
 
 Section 2: On-Site Behaviour
 	Any clause within this section is to be followed on any and all official Nova Corporation sponsored sites. Current sites include the Nova Corporation Research Installment, designation 11.
