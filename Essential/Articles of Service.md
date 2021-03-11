@@ -5,7 +5,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 ## **Section 1: Prose**
 > The Nova Corporation’s sole purpose is to uphold the will of the Class-X Overwatch. These Articles are approved by the Class-X Overwatch as a method of regulating any personnel of ranking Class-D or above, with the exception of members ranking Class-X.
 
-# **Definitions**
+##### **Definitions**
 **Class-X Overwatch:** A group of individuals holding the highest clearance within The Nova Corporation, Classification - X, and are the only beings with the authority to regulate entities of the White threat level.
 
 **Department:** A specialized group within the Nova Corporation, led typically by one personnel ranking Class-O, assisted by another personnel ranking Classification - O, and broadly overseen by one member of the Class-X Overwatch.
@@ -16,7 +16,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 **Threat Level:** A method of classification for entities. Threat Levels range from, in ascending order of security, Green, Yellow, Orange, Red, Black, and White.
 
-# **Clarification**
+##### **Clarification**
 **Corporation Personnel:** Any and all personnel ranking Classification - D, to Classification - O, while on a team related to the Nova Corporation.
 
 **Innovation Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Innovation Department team.
