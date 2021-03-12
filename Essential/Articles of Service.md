@@ -478,34 +478,58 @@ Any Personnel not yet listed
 
 
 
-Section 2: The Security Corps
-	The Security Corps has been tasked with maintaining overall security over The Nova Corporation’s assets, personnel, and entities, through disciplined training and administration. The following regulation clauses apply to all personnel of the Security Corps, while being on their own team, and also include any regulations stated in the Security Corps Guidelines:
+## **Section 2: The Security Corps**
+> The Security Corps has been tasked with maintaining overall security over The Nova Corporation’s assets, personnel, and entities, through disciplined training and administration. The following regulation clauses apply to all personnel of the Security Corps, while being on their own team, and also include any regulations stated in the Security Corps Guidelines:
 
-Corporation Personnel may be terminated by the Security Corps if a below condition is satisfied:
-The person(s) may be terminated if they are in violation of Article 2, Section 2, Clause 1 at high security locations.
-The person(s) may be terminated if they are directly violating Article 2, Section 2, Clause 3.
-The person(s) may be terminated if they are in violation of Article 2, Section 2, Clause 5.
-The person(s) may be terminated if they are designated “Kill on Sight” through Article 2, Section 2, Clause 7.
-The person(s) may not be terminated under any circumstance if they are at or above the ranking Classification - O, or are within the Department of Operations team.
-The Security Personnel are required to satisfy requests for Test Subjects from the Innovation Department and Regulations Department in a timely manner, granting or declining the requests utilizing the radio.
-Security Personnel may decline a test or interview with valid reason, some include: multiple security emergencies throughout the site, active hostile raid, on-going Test Subject riot, insufficient amount of Security Personnel to maintain security and host tests.
-Test Subjects may be terminated by the Security Corps at any time if a below condition is satisfied:
-Said Test Subject is able to be lawfully terminated under Article 3, Section 1, Clause 1 unless Article 3, Section 1, Clause 1 conflicts with a subclause below.
-Said Test Subject displays or discharges a firearm of any caliber, unless the firearm is utilized during testing and granted permission by the both Innovation Personnel and Security Personnel.
-Said Test Subject surpasses the allocated three warnings.
-Said Test Subject becomes physically unresponsive to commands or inquiry for several minutes.
-Said Test Subject makes an attempt to, or succeeds in, escaping Nova Corporation custody, disrupting other Nova Corporation processes, or otherwise causing disruptions through stealing Nova Corporation Property.
-Said Test Subject intentionally or unintentionally breaches an entity, unless granted permission by an Innovation Personnel overseeing a test, and an able-bodied representative of Security Corps Task Force Detachment “The Crazies”.
-Said Test Subject is affected with an anomalous effect, to which they pose an immediate threat to Corporation Personnel; Unless the immediate threat is a result of the test
-Termination order is given by the Innovation Personnel presiding over the test, and the said Test Subject is permanently affected by any anomalous effect.
-Security Corps Task Force Detachment “The Armed Gentleman” have been unequivocally granted the special ability to, if a Corporation Personnel ranking Classification - O or greater requests such, for any Security Personnel of the Task Force Detachment to inherit the Legislative Immunities of such a Personnel, and act on behalf of said personnel allows such.
-“Legislative Immunities” defined as any sort of special cases where a Corporation Personnel may do something, or be allowed something which others cannot. Termination of other Corporation Personnel, Trespassing, and Dress Code are included, but this list is not exhaustive.
-Security Corps Task Force Detachment “The Armed Gentleman” does not enjoy the express authority of the personnel they are defending, and may not issue commands on behalf of said personnel, however may be granted permission to enter any location of access to continue protection of said personnel, so long as said personnel requests such.
-Termination of Corporation Personnel subordinate to the protected Corporation Personnel may be acceptable to ensure continuous security of a protected personnel, such as continuously breaching a security perimeter, threatening a protected personnel, et cetera.
-Security Corps personnel are forbidden to disable the power generators located at the Main Encampment unless the following conditions are met:
-Security Corps personnel internally ranking "Security Supervisor" and above have authorized the deactivation.
-Hostile forces are currently raiding any facility located within a Corporation site.
-It will guarantee an advantage to Security personnel against the Hostile Forces.
+1) Corporation Personnel may be terminated by the Security Corps if a below condition is satisfied:
+
+*a) The person(s) may be terminated if they are in violation of Article 2, Section 2, Clause 1 at high security locations.*
+
+*b) The person(s) may be terminated if they are directly violating Article 2, Section 2, Clause 3.*
+
+*c) The person(s) may be terminated if they are in violation of Article 2, Section 2, Clause 5.*
+
+*d) The person(s) may be terminated if they are designated “Kill on Sight” through Article 2, Section 2, Clause 7.*
+
+*e) The person(s) may not be terminated under any circumstance if they are at or above the ranking Classification - O, or are within the Department of Operations team.*
+
+2) The Security Personnel are required to satisfy requests for Test Subjects from the Innovation Department and Regulations Department in a timely manner, granting or declining the requests utilizing the radio.
+
+*a) Security Personnel may decline a test or interview with valid reason, some include: multiple security emergencies throughout the site, active hostile raid, on-going Test Subject riot, insufficient amount of Security Personnel to maintain security and host tests.*
+
+3) Test Subjects may be terminated by the Security Corps at any time if a below condition is satisfied:
+
+*a) Said Test Subject is able to be lawfully terminated under Article 3, Section 1, Clause 1 unless Article 3, Section 1, Clause 1 conflicts with a subclause below.*
+
+*b) Said Test Subject displays or discharges a firearm of any caliber, unless the firearm is utilized during testing and granted permission by the both Innovation Personnel and Security Personnel.*
+
+*c) Said Test Subject surpasses the allocated three warnings.*
+
+*d) Said Test Subject becomes physically unresponsive to commands or inquiry for several minutes.*
+
+*e) Said Test Subject makes an attempt to, or succeeds in, escaping Nova Corporation custody, disrupting other Nova Corporation processes, or otherwise causing disruptions through stealing Nova Corporation Property.*
+
+*f) Said Test Subject intentionally or unintentionally breaches an entity, unless granted permission by an Innovation Personnel overseeing a test, and an able-bodied representative of Security Corps Task Force Detachment “The Crazies”.*
+
+*g) Said Test Subject is affected with an anomalous effect, to which they pose an immediate threat to Corporation Personnel; Unless the immediate threat is a result of the test.*
+
+*h) Termination order is given by the Innovation Personnel presiding over the test, and the said Test Subject is permanently affected by any anomalous effect.*
+
+4) Security Corps Task Force Detachment “The Armed Gentleman” have been unequivocally granted the special ability to, if a Corporation Personnel ranking Classification - O or greater requests such, for any Security Personnel of the Task Force Detachment to inherit the Legislative Immunities of such a Personnel, and act on behalf of said personnel allows such.
+
+*a) “Legislative Immunities” defined as any sort of special cases where a Corporation Personnel may do something, or be allowed something which others cannot. Termination of other Corporation Personnel, Trespassing, and Dress Code are included, but this list is not exhaustive.*
+
+*b) Security Corps Task Force Detachment “The Armed Gentleman” does not enjoy the express authority of the personnel they are defending, and may not issue commands on behalf of said personnel, however may be granted permission to enter any location of access to continue protection of said personnel, so long as said personnel requests such.*
+
+*c) Termination of Corporation Personnel subordinate to the protected Corporation Personnel may be acceptable to ensure continuous security of a protected personnel, such as continuously breaching a security perimeter, threatening a protected personnel, et cetera.*
+
+5) Security Corps personnel are forbidden to disable the power generators located at the Main Encampment unless the following conditions are met:
+
+*a) Security Corps personnel internally ranking "Security Supervisor" and above have authorized the deactivation.*
+
+*b) Hostile forces are currently raiding any facility located within a Corporation site.*
+
+*c) It will guarantee an advantage to Security personnel against the Hostile Forces.*
 
 
 Section 3: The Innovation Department
