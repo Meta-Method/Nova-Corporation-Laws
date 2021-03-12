@@ -532,67 +532,120 @@ Any Personnel not yet listed
 *c) It will guarantee an advantage to Security personnel against the Hostile Forces.*
 
 
-Section 3: The Innovation Department
-	The Innovation Department has been tasked with research and development of the Nova Corporation’s various anomalies. The following regulation clauses apply to all personnel of the Innovation Department, while being on their own team, and also include any regulations stated in the Innovation Departmental Guidelines:
+## **Section 3: The Innovation Department**
+> The Innovation Department has been tasked with research and development of the Nova Corporation’s various anomalies. The following regulation clauses apply to all personnel of the Innovation Department, while being on their own team, and also include any regulations stated in the Innovation Departmental Guidelines:
 
-All testing must be logical in nature and properly enacted, and not cost the Nova Corporation an unnecessary amount of resources.
-All testing must be relatively safe in nature, and not cost the lives of Corporation Personnel.
-All Test Subjects and Security Personnel participating are to be informed of what they are to do prior to the test occuring.
-All Test Subjects and Security Personnel are not to be subjected to extra steps not related to the test specifically.
-All tests must seem hypothetically possible in the sense that the testing question does not seem random; An invalid question being if one action causes or is related to a completely different reaction.
-Any test conducted with the intention of terminating an anomaly requires a majority approval from the Class-X Overwatch
-Corporation Personnel ranking Classification - O and above, Regulations Personnel, and Operations Personnel may question any Innovation Personnel in regards to any aspect of their test.
-Said Innovation Personnel must answer truthfully to the best of their ability.
-Said Innovation Personnel must allow the listed Personnel above to spectate the entirety of the test as applicable.
-Said Innovation Personnel may disallow the listed Personnel above to question them and spectate if the test in question has been restricted by the Innovation Department’s assigned personnel ranking Classification - X; And proof must be provided at the time of request.
-Internally enforced by the Innovation Department, Innovation Personnel are only allowed to test on Entity Threat Levels granted to them as such by the highest authority of the Innovation Department, or listed below:
-Green Threat Level Entities may be tested by Innovation Interns and above without supervision.
-Yellow Threat Level Entities may be tested by Innovation Interns during orientation, and Innovation Novice and above without supervision.
-Orange Threat Level Entities may be tested by Innovation Novices with supervision, and Innovation Innovator and above without supervision.
-Red Threat Level Entities may be tested by Innovation Advanced Innovators and above without supervision.
-Black Threat Level Entities may only be tested by Innovation Head Innovators with supervision and Innovation Deputy Director and above without supervision.
-White Level Entities may only be tested by Innovation Deputy Director and Director with supervision, and Innovation Overseer without supervision.
-All personnel present within a test must return to an area they have access to, as specified under Article 2, Subsection 3.1.
-Test Subjects, remaining after the test is concluded, may not be terminated by Security Corps personnel and must be escorted back to the Test Subject Zone unless the Test Subject(s) have been affected by an entity which possibly or indefinitely causes harm and/or effect to others and/or their surroundings.
-Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it.
+1) All testing must be logical in nature and properly enacted, and not cost the Nova Corporation an unnecessary amount of resources.
 
+*a) All testing must be relatively safe in nature, and not cost the lives of Corporation Personnel.*
 
+*b) All Test Subjects and Security Personnel participating are to be informed of what they are to do prior to the test occuring.*
 
-Section 4: The Regulations Department
-	The Regulations Department has the chief responsibility of maintaining, amending, and enforcing the Articles of Service under most circumstances, and forth internal policies disconnected from the Articles of Service for such actions. The following regulation clauses apply to all personnel of the Regulations Department, while being on their own team, and also include any regulations stated in the Regulations Departmental Guidelines:
+*c) All Test Subjects and Security Personnel are not to be subjected to extra steps not related to the test specifically.*
 
-Regulation Personnel may not intentionally mislead or fabricate any official response to a question regarding regulations or legislation.
-Regulation Personnel may not divulge elements relating to an active case, including witnesses into any location to which personnel below the ranking of Classification - O, or other Regulation Personnel, may view.
-Regulation Personnel who are in the process of investigating Corporation Personnel may not ask questions not related to the case, arbitrarily question Corporation Personnel without reasonable evidence of involvement or witness to the event, and abuse any tools or resources provided to investigate a case.
-Upon issuing a punishment, the Regulations Department must inform the plaintiff of the punishment, with appropriate documentation detailing the case.
+*d) All tests must seem hypothetically possible in the sense that the testing question does not seem random; An invalid question being if one action causes or is related to a completely different reaction.*
 
-Section 5: The Department of Operations
-	The Department of Operations has been tasked with maintaining the security of the Nova Corporation, and managing the Nova Corporation's overall operations within all of the Nova Corporation’s holdings and subsidiaries.
+*e) Any test conducted with the intention of terminating an anomaly requires a majority approval from the Class-X Overwatch.*
 
-Operations Personnel may temporarily override any clause under Article 2, Section 2 with proper reasoning through public declaration, unless such an action will put overall Nova Corporation Operations under jeopardy or directly or indirectly cause harm to a Corporation Personnel ranking Classification - X.
-Operations Personnel may not directly override departmental commands from said Department's or Sub-Department’s High Command, unless the situation is in a critical state and an improper decision could result in a major loss of Nova Corporation Personnel, Property, and Information.
-Operations Personnel may terminate any Corporation Personnel below the ranking of Classification - X, should their lives be directly put in any danger by the stated Corporation Personnel.
+2) Corporation Personnel ranking Classification - O and above, Regulations Personnel, and Operations Personnel may question any Innovation Personnel in regards to any aspect of their test.
 
-Section 6: The Engineering Department
-	The Engineering Department has been tasked with maintaining and managing the technical components of the Nova Corporation’s facilities, and logistics of the Nova Corporation’s facilities.
+*a) Said Innovation Personnel must answer truthfully to the best of their ability.*
 
+*b) Said Innovation Personnel must allow the listed Personnel above to spectate the entirety of the test as applicable.*
 
+*c) Said Innovation Personnel may disallow the listed Personnel above to question them and spectate if the test in question has been restricted by the Innovation Department’s assigned personnel ranking Classification - X; And proof must be provided at the time of request.*
 
-Article 4: Amending the Articles of Service
-	Any clauses within this Article details procedures and restrictions relating to changing the Articles of Service.
+3) Internally enforced by the Innovation Department, Innovation Personnel are only allowed to test on Entity Threat Levels granted to them as such by the highest authority of the Innovation Department, or listed below:
 
-Upon being ratified under the terms of Article 5, the Regulations Department’s Legislative authority has been granted the ability to modify the Articles of Service, with the restrictions stated in future clauses.
-Upon the ratification of the Articles of Service, signatures under Article 5 may only be changed to defined personnel in the event that positions are changed, and being approved by a member of the Regulations Department Directorate.
-Through majority approval from the Regulations Department’s Legislative authority, any clause with the exception of those underneath Article 3 may be changed.
-Through approval from the Regulations Department’s Legislative authority and the directorate of the department in question, clauses underneath Article 3 may be changed.
-Clauses underneath Article 3, Section 1 require approval from all related department directorates before being changed.
-Through majority approval from members ranking Classification - X, any clause may be changed.
+*a) Green Threat Level Entities may be tested by Innovation Interns and above without supervision.*
+
+*b) Yellow Threat Level Entities may be tested by Innovation Interns during orientation, and Innovation Novice and above without supervision.*
+
+*c) Orange Threat Level Entities may be tested by Innovation Novices with supervision, and Innovation Innovator and above without supervision.*
+
+*d) Red Threat Level Entities may be tested by Innovation Advanced Innovators and above without supervision.*
+
+*e) Black Threat Level Entities may only be tested by Innovation Head Innovators with supervision and Innovation Deputy Director and above without supervision.*
+
+*f) White Level Entities may only be tested by Innovation Deputy Director and Director with supervision, and Innovation Overseer without supervision.*
+
+4) All personnel present within a test must return to an area they have access to, as specified under Article 2, Subsection 3.1.
+
+*a) Test Subjects, remaining after the test is concluded, may not be terminated by Security Corps personnel and must be escorted back to the Test Subject Zone unless the Test Subject(s) have been affected by an entity which possibly or indefinitely causes harm and/or effect to others and/or their surroundings.*
+
+*b) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it.*
 
 
 
+## **Section 4: The Regulations Department**
+> The Regulations Department has the chief responsibility of maintaining, amending, and enforcing the Articles of Service under most circumstances, and forth internal policies disconnected from the Articles of Service for such actions. The following regulation clauses apply to all personnel of the Regulations Department, while being on their own team, and also include any regulations stated in the Regulations Departmental Guidelines:
+
+1) Regulation Personnel may not intentionally mislead or fabricate any official response to a question regarding regulations or legislation.
+
+*a) Regulation Personnel may not divulge elements relating to an active case, including witnesses into any location to which personnel below the ranking of Classification - O, or other Regulation Personnel, may view.*
+
+2) Regulation Personnel who are in the process of investigating Corporation Personnel may not ask questions not related to the case, arbitrarily question Corporation Personnel without reasonable evidence of involvement or witness to the event, and abuse any tools or resources provided to investigate a case.
+
+*a) Upon issuing a punishment, the Regulations Department must inform the plaintiff of the punishment, with appropriate documentation detailing the case.*
 
 
+## **Section 5: The Department of Operations**
+> The Department of Operations has been tasked with maintaining the security of the Nova Corporation, and managing the Nova Corporation's overall operations within all of the Nova Corporation’s holdings and subsidiaries.
 
-Article 5: Ratifying the Articles of Service
-	Upon finalization of the Articles of Service draft, the Regulations Department Legislative is tasked with reviewing and changing the Articles of Service to ensure proper transition from the previous Legislation.
-	Ratification of the Articles of Service requires signature denoting approval from at least one directorate representative from each valid Nova Corporation Department, and the signatures denoting approval from the Overseers of such departments if applicable. Above that, any personnel ranking Classification - O who are a part of a department’s directorate, any personnel ranking Classification - X, and a maximum of 2 senior Legislative Officials may additionally sign the Articles of Service.
+1) Operations Personnel may temporarily override any clause under Article 2, Section 2 with proper reasoning through public declaration, unless such an action will put overall Nova Corporation Operations under jeopardy or directly or indirectly cause harm to a Corporation Personnel ranking Classification - X.
+
+2) Operations Personnel may not directly override departmental commands from said Department's or Sub-Department’s High Command, unless the situation is in a critical state and an improper decision could result in a major loss of Nova Corporation Personnel, Property, and Information.
+
+3) Operations Personnel may terminate any Corporation Personnel below the ranking of Classification - X, should their lives be directly put in any danger by the stated Corporation Personnel.
+
+
+## **Section 6: The Engineering Department**
+> The Engineering Department has been tasked with maintaining and managing the technical components of the Nova Corporation’s facilities, and logistics of the Nova Corporation’s facilities.
+
+WIP
+
+
+# **Article 4: Amending the Articles of Service**
+> Any clauses within this Article details procedures and restrictions relating to changing the Articles of Service.
+
+1) Upon being ratified under the terms of Article 5, the Regulations Department’s Legislative authority has been granted the ability to modify the Articles of Service, with the restrictions stated in future clauses.
+
+2) Upon the ratification of the Articles of Service, signatures under Article 5 may only be changed to defined personnel in the event that positions are changed, and being approved by a member of the Regulations Department Directorate.
+
+3) Through majority approval from the Regulations Department’s Legislative authority, any clause with the exception of those underneath Article 3 may be changed.
+
+4) Through approval from the Regulations Department’s Legislative authority and the directorate of the department in question, clauses underneath Article 3 may be changed.
+
+*a) Clauses underneath Article 3, Section 1 require approval from all related department directorates before being changed.*
+
+5) Through majority approval from members ranking Classification - X, any clause may be changed.
+
+
+# **Article 5: Ratifying the Articles of Service**
+Upon finalization of the Articles of Service draft, the Regulations Department Legislative is tasked with reviewing and changing the Articles of Service to ensure proper transition from the previous Legislation.
+
+Ratification of the Articles of Service requires signature denoting approval from at least one directorate representative from each valid Nova Corporation Department, and the signatures denoting approval from the Overseers of such departments if applicable. Above that, any personnel ranking Classification - O who are a part of a department’s directorate, any personnel ranking Classification - X, and a maximum of 2 senior Legislative Officials may additionally sign the Articles of Service.
+
+## **Section 1: Signatures**
+> Upon submitting a signature to be placed below, you hereby affirm you hold a position that satisfies the condition mentioned in Article 5, and agree to establish the Article of Service as the Supreme Law of the Land, until otherwise unanimously voted to be removed by the same body voting to establish the Articles of Service.
+
+
+EntropicLocality, C-X Commandant, Department of Operations
+
+lolnowhat2, General, Security Corps
+
+TimorousDasher, Overseer, Regulations Department
+
+dinosaurtom, Head Commander, Security Corps
+
+epicdragon1786, Commander, Security Corps
+
+(Pending Director), Director, Innovation Department
+
+marionette230, Deputy Director, Innovation Department
+
+(Pending Director), Director of Regulations, Regulations Department
+
+AviatorCxxl, Assistant Director, Regulations Department
+
+mystery3525, Executive Drone, Department of Operations
