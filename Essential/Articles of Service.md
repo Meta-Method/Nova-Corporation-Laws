@@ -120,6 +120,8 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 
 *b) The ability to regulate and authorize the usage of Entity - 004 has been fully delegated to the Innovation Department directorate.*
 
+*c) Members of the Task Force Detachment "The Crazies" internally ranking "Pointman" have been granted the ability to permit the usage of entities for other members belonging to "The Crazies".*
+
 4) Corporation Personnel below Classification - A are to follow proper attire rules, to which extent may be enforced.
 
 *a) Any article worn must not be immature, inappropriate, or subversive in any form from all distances.*
@@ -141,6 +143,10 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 *b) The following weapons are forbidden from use by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Plasma Rifles, Laser Rifles, Flamethrowers, Miniguns, RPG-7's, CDX-30 Sniper rifles, Laser pistols, M110 Sniper rifles, and AWM Sniper rifles.*
 
 *c) All Corporation Personnel may only pick up and carry keycards equal to or lower, in access, than said Corporation Personnel’s default keycard. Any keycard may be picked up off the ground given the personnel picking it up immediately respawns or returns the keycard to an employee wielding the proper clearance to keep the card.*
+
+*d) All Task Force Detachment members reserve the right to request TFD specified weapons be dropped to them, or the holder respawn, this request must be followed.*
+
+*e) The Task Force Detachment members known as "Nothing To See Here" reserve the right to request any Nova Corporation Member or Security Corporation Member, except for Classification - O or higher, to drop any NTSH weaponry currently in their possession. This order must be followed, if not followed the infractor may be terminated or presented to Regulation Department for punishment.*
 
 7) A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.
 
@@ -429,7 +435,10 @@ Any Personnel not yet listed
 10) The Underwater Sector in general is restricted to Security Personnel.
 
 *a) Innovation Personnel internally ranking Expert Innovator or above may enter, along with proper testing personnel, for the express purpose of Innovation. When not testing, permission from the Innovation Department directorate is required.*
+
 *b) Regulation Personnel internally ranking Chief Regulating Official or above may enter for the express purpose of spectating aforementioned Innovation Personnel.*
+
+*c) Regulation Personnel are authorized to enter the Underwater Sector regardless of rank , under the condition that there is an AoS infractor inside the Underwater Sector, and there are Security Personnel available to escort them out of the sector.*
 
 11) Ore deposit areas at TSZ, and Power Plant are restricted to members of the Security Corps, Engineering Department, and NCM's ranking Classification-O+.
 
