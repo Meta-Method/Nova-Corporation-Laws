@@ -140,7 +140,7 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
-*b) The following weapons are forbidden from use by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Plasma Rifles, Laser Rifles, Flamethrowers, Miniguns, RPG-7's, CDX-30 Sniper rifles, Laser pistols, M110 Sniper rifles, and AWM Sniper rifles.*
+*b) The following weapons are forbidden from use by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Plasma Rifles, Laser Rifles, Flamethrowers, Miniguns, RPG-7's, CDX-30 Sniper rifles, Laser pistols, M110 Sniper rifles, AN-94 assault rifles, Glock-18 pistols, and AWM Sniper rifles.*
 
 *c) All Corporation Personnel may only pick up and carry keycards equal to or lower, in access, than said Corporation Personnel’s default keycard. Any keycard may be picked up off the ground given the personnel picking it up immediately respawns or returns the keycard to an employee wielding the proper clearance to keep the card.*
 
