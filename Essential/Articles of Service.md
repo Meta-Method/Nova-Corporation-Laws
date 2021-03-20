@@ -540,6 +540,8 @@ Any Personnel not yet listed
 
 *c) It will guarantee an advantage to Security personnel against the Hostile Forces.*
 
+*d) It will aid in the recontainment or the handling of an entity. This condition can be met without meeting the other conditions.*
+
 
 ## **Section 3: The Innovation Department**
 > The Innovation Department has been tasked with research and development of the Nova Corporation’s various anomalies. The following regulation clauses apply to all personnel of the Innovation Department, while being on their own team, and also include any regulations stated in the Innovation Departmental Guidelines:
