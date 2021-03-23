@@ -122,7 +122,7 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 
 *c) Members of the Task Force Detachment "The Crazies" internally ranking "Pointman" have been granted the ability to permit the usage of entities for other members belonging to "The Crazies".*
 
-4) Corporation Personnel below Classification - A are to follow proper attire rules, to which extent may be enforced.
+4) Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
 *a) Any article worn must not be immature, inappropriate, or subversive in any form from all distances.*
 
@@ -183,6 +183,13 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 15) When an area such as Test Subject Zone or Entity Area is under assault by hostile forces, employees are to be informed of the situation and warned to stay away from the area until properly dealt with.
 
 *a) If employees refuse to leave the area under assault, they are in violation of this clause and may be subject to punishment.*
+
+16) Outer dimensions of any kind may not be accessed, or used in any way. 
+
+*a) Task Force Detachment "The Crazies" members are exempt from this law, and are authorized to fully have access to all dimensions in every shape or form.*
+
+*b) The following have been granted the ability to authorize anyone to enter a given dimension; Classification - X, Security Corps General, The Crazies members ranking "Crazy Advisor"+.*
+
 
 
 ## **Section 3: Nova Corporation Hierarchy**
@@ -426,8 +433,6 @@ Any Personnel not yet listed
 
 *a) Areas within the Test Subject Zone used solely for the purpose of guarding from Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel.*
 
-*b) Areas within the Test Subject Zone used solely for the purpose of guarding from Security Personnel, such as watchtowers, are restricted to Security Personnel.*
-
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
 9) Areas that can be reasonably described as being owned by a force that is not the Nova Corporation is restricted to all personnel except personnel ranking Classification - O and Security Personnel.
@@ -445,6 +450,15 @@ Any Personnel not yet listed
 12) The Regulations Department interview room and area within the Test Subject Zone is restricted to Regulation Personnel, personnel who spawn with weapons  and personnel ranking Classification - O. 
 
 *a) Members of the Regulations Department may grant access to the interview room to other personnel during interviews.*
+
+13) The Power Plant in general is restricted to the Security Personnel, Regulations Personnel and Engineering Personnel.
+
+*a) Security Personnel internally ranking Junior Guard or above can enter the Power Plant, and to prevent unauthorized personnel from entering the site.*
+
+*b) Regulation Personnel internally ranking Senior Regulating Official may enter Power Plant to spectate Engineering Personnel and their duties.*
+
+*c) Engineering Personnel are granted full access to the power plant to fulfill their duties.*
+
 
 
 # **Article 3: Specific Precept**
@@ -484,6 +498,8 @@ Any Personnel not yet listed
 *a) “Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.*
 
 *b) Laws on termination also apply to vehicles, with the exception of termination via “unintentionally killing” personnel, which may be acceptable should said personnel is in the way of a moving vehicle.*
+
+6) Any Nova Corporation Personnel in violation of Article 2, Section 3, Sub-Section 3.1 may be terminated.
 
 
 
