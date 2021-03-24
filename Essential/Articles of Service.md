@@ -140,7 +140,7 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
-*b) The following weapons are forbidden from use by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Plasma Rifles, Laser Rifles, Flamethrowers, Miniguns, RPG-7's, CDX-30 Sniper rifles, Laser pistols, M110 Sniper rifles, AN-94 assault rifles, Glock-18 pistols, and AWM Sniper rifles.*
+*b) The following weapons are forbidden to be used/carried by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Plasma Rifles, Laser Rifles, Flamethrowers, Miniguns, RPG-7's, CDX-30 Sniper rifles, Laser pistols, M110 Sniper rifles, AN-94 assault rifles, Glock-18 pistols, and AWM Sniper rifles.*
 
 *c) All Corporation Personnel may only pick up and carry keycards equal to or lower, in access, than said Corporation Personnel’s default keycard. Any keycard may be picked up off the ground given the personnel picking it up immediately respawns or returns the keycard to an employee wielding the proper clearance to keep the card.*
 
@@ -189,6 +189,10 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 *a) Task Force Detachment "The Crazies" members are exempt from this law, and are authorized to fully have access to all dimensions in every shape or form.*
 
 *b) The following have been granted the ability to authorize anyone to enter a given dimension; Classification - X, Security Corps General, The Crazies members ranking "Crazy Advisor"+.*
+
+17) If a gun fight occurs between Security Personnel and any hostile offender, no matter the place, any Non-Combative Corporation Member must leave the area and not intervene with the bout.
+
+*a) Given a Non-Combative Corporation Member has a weapon not banned in Article 2, Section 2, Clause 6, Sub-Clause B, and the said persons is already in the way of the confrontation, the Corporation Member may take action to defend themselves, and prevent harm to a Security Corps Member.*
 
 
 
@@ -590,7 +594,7 @@ Any Personnel not yet listed
 
 *c) Orange Threat Level Entities may be tested by Innovation Novices with supervision, and Innovation Innovator and above without supervision.*
 
-*d) Red Threat Level Entities may be tested by Innovation Advanced Innovators and above without supervision.*
+*d) Red Threat Level Entities may be tested by Innovation Innovator and above without supervision.*
 
 *e) Black Threat Level Entities may only be tested by Innovation Head Innovators with supervision and Innovation Deputy Director and above without supervision.*
 
