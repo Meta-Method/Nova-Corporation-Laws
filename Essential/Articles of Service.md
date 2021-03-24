@@ -192,7 +192,7 @@ Corporation Personnel ranking Classification-E are not allowed to leave and rejo
 
 17) If a gun fight occurs between Security Personnel and any hostile offender, no matter the place, any Non-Combative Corporation Member must leave the area and not intervene with the bout.
 
-*a) Given a Non-Combative Corporation Member has a weapon not banned in Article 2, Section 2, Clause 6, Sub-Clause B, and the said persons is already in the way of the confrontation, the Corporation Member may take action to defend themselves, and prevent harm to a Security Corps Member.*
+*a) Given a Non-Combative Corporation Member has a weapon not banned in Article 2, Section 2, Clause 6, Sub-Clause B, and the said persons is already in the way of the confrontation, the Corporation Member may take action to defend themselves, and prevent harm to a Security Personnel.*
 
 
 
