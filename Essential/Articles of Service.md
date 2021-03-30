@@ -96,10 +96,11 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *d) Obtaining and/or playing as a team for a department or sub-department you are not a member of, with the exception of the Test Subject team.
 
-7) All Corporation Personnel are forbidden from colluding with any force hostile to the Nova Corporation.
-Corporation Personnel ranking Classification-E are not allowed to leave and rejoin the Corporation in the middle of their punishment sentence. Leaving in the middle of a C-E sentence would lead to an extension of the issued C-E sentence and a demotion to "Test Subject”.
+7) All Corporation Personnel are forbidden from colluding with any force hostile to the Nova Corporation, unless and if it is about your survival.
 
-8) All Corporation Personnel are forbidden from encouraging others to break the clauses in the Articles of Services for any reason.
+8) Corporation Personnel ranking Classification-E are not allowed to leave and rejoin the Corporation in the middle of their punishment sentence. Leaving in the middle of a C-E sentence would lead to an extension of the issued C-E sentence and a demotion to "Test Subject”.
+
+9) All Corporation Personnel are forbidden from encouraging others to break the clauses in the Articles of Services for any reason.
 
 ## **Section 2: On-Site Behaviour**
 > Any clause within this section is to be followed on any and all official Nova Corporation sponsored sites. Current sites include the Nova Corporation Research Installment, designation 11.
@@ -427,7 +428,7 @@ Any Personnel not yet listed
 
 6) The Entity Area in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
-*a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Innovation Personnel internally ranking Novice Innovator or above, and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
+*a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Innovation Personnel internally ranking Novice Innovator or above, Regulations Personnel internally ranking Regulating Official or higher, to attempt the apprehending of any unauthorized personnel trespassing in the underground zone of the Entity Area, who has not been granted access, whether by rank, department, or temporary access by authorized personnel and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
 
 *b) Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
 
