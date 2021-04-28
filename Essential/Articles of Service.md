@@ -189,7 +189,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) Task Force Detachment "The Crazies" members are exempt from this law, and are authorized to fully have access to all dimensions in every shape or form.*
 
-*b) The following have been granted the ability to authorize anyone to enter a given dimension; Classification - X, Security Corps General, The Crazies members ranking "Crazy Advisor"+.*
+*b) The following have been granted the ability to authorize anyone to enter a given dimension following this chain of command; Security Corps General; Classification - X and The Crazies members internally ranking "Crazy Advisor"+; Any personnel not yet listed.*
 
 17) If a gun fight occurs between Security Personnel and any hostile offender, no matter the place, any Non-Combative Corporation Member must leave the area and not intervene with the bout.
 
@@ -454,7 +454,7 @@ Any Personnel not yet listed
 
 12) The Regulations Department interview room and area within the Test Subject Zone is restricted to Regulation Personnel, personnel who spawn with weapons  and personnel ranking Classification - O. 
 
-*a) Members of the Regulations Department may grant access to the interview room to other personnel during interviews.*
+*a) Members of the Regulations Department may grant access to the interview room to other personnel during interviews or for other affairs that involve those concerned and the Regulations Department.*
 
 13) The Power Plant in general is restricted to the Security Personnel, Regulations Personnel and Engineering Personnel.
 
