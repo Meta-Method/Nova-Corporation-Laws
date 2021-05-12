@@ -664,22 +664,26 @@ Ratification of the Articles of Service requires signature denoting approval fro
 > Upon submitting a signature to be placed below, you hereby affirm you hold a position that satisfies the condition mentioned in Article 5, and agree to establish the Article of Service as the Supreme Law of the Land, until otherwise unanimously voted to be removed by the same body voting to establish the Articles of Service.
 
 
-TimorousDasher, Overseer, Regulations Department
+**TimorousDasher**, Overseer, Regulations Department
 
-EntropicLocality, C-X Commandant, Department of Operations
+**EntropicLocality**, C-X Commandant, Department of Operations
 
-lolnowhat2, General, Security Corps
+**lolnowhat2**, General, Security Corps
 
-epicdragon1786, Head Commander, Security Corps
+**epicdragon1786**, Head Commander, Security Corps
 
-(Pending Commander), Commander, Security Corps
+**dinosaurtom**, Commander, Security Corps
 
-(Pending Director), Director, Innovation Department
+**marionette230**, Director, Innovation Department
 
-(Pending Deputy Director), Deputy Director, Innovation Department
+**DrRhovus**, Deputy Director, Innovation Department
 
-AviatorCxxl, Director of Regulations, Regulations Department
+**AviatorCxxl**, Director of Regulations, Regulations Department
 
-(Pending Assistant Director), Assistant Director, Regulations Department
+**(Pending Assistant Director)**, Assistant Director, Regulations Department
 
-mystery3525, Executive Drone, Department of Operations
+**Rickew**, Legislative Head, Regulations Department
+
+**thegamingswatpro123**, Legislative Experienced Regulator, Regulations Department
+
+**mystery3525**, Executive Drone, Department of Operations
