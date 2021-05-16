@@ -325,7 +325,11 @@ Any Personnel not yet listed
 
 2) During an official, valid Innovation Department Test not in violation of any clause within Article 3, Section 3:
 
-Personnel as “Regulations Department”, internal ranking “Regulation Official” or above
+Personnel as “Security Corps” as Task Force Detachment “The Crazies”
+
+↓
+
+Personnel as “Regulations Department”, internally ranking “Regulation Official” or above, and AoS sanctioned test supervisors.
 
 ↓
 
@@ -423,6 +427,8 @@ Any Personnel not yet listed
 3) All personnel ranking Classification - O have been granted the ability to grant other personnel access to an area, granted that they too have access, with proper reason.
 
 4) Areas that can be reasonably deduced as being within the “tundra”, unincorporated, organized space outside of bounds of any establishment, have been restricted to only personnel ranking Classification - O and Security Personnel.
+
+*a) Tram tunnels between locations are considered as "tundra", and are restricted to only personnel ranking Classification - O and Security Personnel, EXCEPT for when on a tram.*
 
 5) The Forward Operating Base has been restricted to Security Personnel under normal circumstances. The Forward Operating Base can be unrestricted to all Corporation Personnel pending Security Corps High Command order, due to a site-wide evacuation or other calamity of equal magnitude.
 
