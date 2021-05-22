@@ -444,6 +444,10 @@ Any Personnel not yet listed
 
 *a) Areas within the Test Subject Zone used solely for the purpose of guarding from Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel.*
 
+*b) The Regulations Department interview room and area within the Test Subject Zone is restricted to Regulation Personnel, personnel who spawn with weapons  and personnel ranking Classification - O.*
+
+*i) Members of the Regulations Department may grant access to the interview room to other personnel during interviews or for other affairs that involve those concerned and the Regulations Department.*
+
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
 9) Areas that can be reasonably described as being owned by a force that is not the Nova Corporation is restricted to all personnel except personnel ranking Classification - O and Security Personnel.
@@ -452,17 +456,15 @@ Any Personnel not yet listed
 
 *a) Innovation Personnel internally ranking Expert Innovator or above may enter, along with proper testing personnel, for the express purpose of Innovation. When not testing, permission from the Innovation Department directorate is required.*
 
-*b) Regulation Personnel internally ranking Chief Regulating Official or above may enter for the express purpose of spectating aforementioned Innovation Personnel.*
+*b) Regulation Personnel internally ranking Experienced Regulator or above may enter for the express purpose of spectating aforementioned Innovation Personnel.*
 
 *c) Regulation Personnel are authorized to enter the Underwater Sector regardless of rank , under the condition that there is an AoS infractor inside the Underwater Sector, and there are Security Personnel available to escort them out of the sector.*
 
 11) Ore deposit areas at TSZ, and Power Plant are restricted to members of the Security Corps, Engineering Department, and NCM's ranking Classification-O+.
 
-12) The Regulations Department interview room and area within the Test Subject Zone is restricted to Regulation Personnel, personnel who spawn with weapons  and personnel ranking Classification - O. 
+*a) Regulations personnel are permitted to enter the ore deposit areas at TSZ and Power Plant, under the condition that there is an AoS infractor in that given area.*
 
-*a) Members of the Regulations Department may grant access to the interview room to other personnel during interviews or for other affairs that involve those concerned and the Regulations Department.*
-
-13) The Power Plant in general is restricted to the Security Personnel, Regulations Personnel and Engineering Personnel.
+12) The Power Plant in general is restricted to the Security Personnel, Regulations Personnel and Engineering Personnel.
 
 *a) Security Personnel internally ranking Junior Guard or above can enter the Power Plant, and to prevent unauthorized personnel from entering the site.*
 
@@ -470,7 +472,7 @@ Any Personnel not yet listed
 
 *c) Engineering Personnel are granted full access to the power plant to fulfill their duties.*
 
-14) All personnel are not allowed to loiter around or repeatedly open the entrances to areas that they do not have access to under the Articles of Service. This includes the TSZ airlock, Entity Area hangar doors, Ore Depot fence gate, etc.
+13) All personnel are not allowed to loiter around or repeatedly open the entrances to areas that they do not have access to under the Articles of Service. This includes the TSZ airlock, Entity Area hangar doors, Ore Depot fence gate, etc.
 
 
 
