@@ -123,6 +123,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *c) Members of the Task Force Detachment "The Crazies" internally ranking "Pointman" have been granted the ability to permit the usage of entities for other members belonging to "The Crazies".*
 
+*d) Obtainable entities may be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Department Member need them to for that specific test. The entity must be returned to its respective containment chamber after the test has concluded.*
+
 4) Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
 *a) Any article worn must not be immature, inappropriate, or subversive in any form from all distances.*
@@ -164,6 +166,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 *a) Personnel ranking Classification - O or above, or Security Personnel ranking Security Supervisor or above may temporarily grant other personnel access to utilizing armored vest plating.*
 
 11) All Corporation Personnel, with the exception of on-duty Security Corps members, must always seek to reside in a location which is considered safe and under no imminent threat, if they are capable of thereof.
+
+*a) The one and only exception to this clause is the case of an Red Wolf inside of lower Entity Area; If an Innovation Department Member is on their way to Entity Area to perform a test, and an Red Wolf threat is inside lower Entity Area then the Innovation Department Member and Test Subject must wait in the lounge building until the hostile is dealt with. If the Innovation Department Member wants to stop the test instead of waiting, they must verify it first with their escort, after which the TS is to be escorted back to Test Subject Zone as part of Article 3, Section 2, Clause 3, Sub-Clause g.*
 
 12) No Corporation personnel, with the exception of those who are members of an authorized Task Force Detachment and personnel ranking Class-O and above may utilize and approve usage of the equipment the Underwater Sector provides.
 
