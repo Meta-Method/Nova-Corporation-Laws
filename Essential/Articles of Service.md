@@ -151,6 +151,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *e) The Task Force Detachment members known as "Nothing To See Here" reserve the right to request any Nova Corporation Member or Security Corporation Member, except for Classification - O or higher, to drop any NTSH weaponry currently in their possession. This order must be followed, if not followed the infractor may be terminated or presented to Regulation Department for punishment.*
 
+*f) Security Personnel internally ranking “Senior Guard” and above reserve the right to request Nova Corporation personnel, except for of Classification - O and over, to drop any SC weaponry in their possession with reason.
+
 7) A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.
 
 *a) The ability to designate personnel “Kill on Sight” has been granted to all Department of Operations Personnel, Personnel ranking Classification - X.*
