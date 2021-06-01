@@ -400,7 +400,7 @@ Personnel ranking Classification - O
 
 ↓
 
-Personnel as “Department of Operations”
+Personnel as “Department of Operations” internally ranking “Autonomous Sentinel” and above
 
 ↓
 
