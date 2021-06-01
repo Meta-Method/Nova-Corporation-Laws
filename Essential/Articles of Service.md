@@ -396,6 +396,10 @@ Personnel ranking Classification - X
 
 ↓
 
+Personnel ranking Classification - O
+
+↓
+
 Personnel as “Department of Operations”
 
 ↓
