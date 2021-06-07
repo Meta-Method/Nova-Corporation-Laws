@@ -25,7 +25,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 **Regulations Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Regulations Department team.
 
-**Security Personnel:** Any and all applicable personnel that have a loadout which includes weapons, including, but not limited to, the Security Corps.
+**Security Personnel:** Any and all applicable personnel that are normally tasked with defending sites/Corporation personnel/Corporation property and such. Examples of Security Personnel are, of course, the Security Corps and it's respective Task Force Detachments.
 
 **Engineering Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Engineering Department team.
 
@@ -143,7 +143,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
-*b) The following weapons are forbidden to be used/carried by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Plasma Rifles, Laser Rifles, Flamethrowers, Miniguns, RPG-7's, CDX-30 Sniper rifles, Laser pistols, M110 Sniper rifles, AN-94 assault rifles, Glock-18 pistols, AWM Sniper rifles, and AA-12 shotguns.*
+*b) The following weapons are forbidden to be used/carried by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Any weapon that may only be obtained via commands, Any experimental/anomalous weapons, Nova Dominion weaponry, Flamethrowers, RPG-7's and Miniguns.*
 
 *c) All Corporation Personnel may only pick up and carry keycards equal to or lower, in access, than said Corporation Personnel’s default keycard. Any keycard may be picked up off the ground given the personnel picking it up immediately respawns or returns the keycard to an employee wielding the proper clearance to keep the card.*
 
@@ -469,6 +469,8 @@ Any Personnel not yet listed
 *b) Regulation Personnel internally ranking Experienced Regulator or above may enter for the express purpose of spectating aforementioned Innovation Personnel.*
 
 *c) Regulation Personnel are authorized to enter the Underwater Sector regardless of rank , under the condition that there is an AoS infractor inside the Underwater Sector, and there are Security Personnel available to escort them out of the sector.*
+
+*d) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking Triggerman or above have been granted the ability to grant other personnel access to any area within the Under Water Sector.*
 
 11) Ore deposit areas at TSZ, and Power Plant are restricted to members of the Security Corps, Engineering Department, and NCM's ranking Classification-O+.
 
