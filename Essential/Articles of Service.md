@@ -205,6 +205,15 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) Given a Non-Combative Corporation Member has a weapon not banned in Article 2, Section 2, Clause 6, Sub-Clause B, and the said persons is already in the way of the confrontation, the Corporation Member may take action to defend themselves, and prevent harm to a Security Personnel.*
 
+18) Nova Corporation Personnel, combative and non combative are to refrain from, and can only rope one body at any given time provided the body is not satisfying the following conditions:
+
+*a) The body in question is not of any member of the Security Corps.*
+
+*b) The body in question is not of any Nova Corporation Personnel ranking Classification - A or higher.*
+
+*c) Those ranking Classification - A or lower may only rope the body of the same classification or lower.*
+
+
 
 
 ## **Section 3: Nova Corporation Hierarchy**
