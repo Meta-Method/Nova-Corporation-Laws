@@ -161,11 +161,15 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 8) Corporation Personnel being detained by the Regulations Department, Security Corps or Department of Operations may not evade or attempt to evade being detained.
 
+*a) “Detain evading” is defined as attempting to or succeeding in un-detaining yourself, using means including, but not limited to resetting, redeploying, rejoining, leaving and requesting others to terminate you without express permission of the detainer. The only acceptable way to be un-detained is for the detainer to un-detain you themselves.*
+
 9) Corporation Personnel may not avoid or attempt to avoid punishments being administered by those with the authority to do so, as described by Article 2, Section 3.
 
 10) No Corporation Personnel, with the exception of those who have access to weapons at-spawn and personnel ranking Classification - A or above, may utilize armored vest plating in any way shape or form.
 
 *a) Personnel ranking Classification - O or above, or Security Personnel ranking Security Supervisor or above may temporarily grant other personnel access to utilizing armored vest plating.*
+
+*b) Personnel may temporarily be granted access to an area to retrieve the vest under the circumstances that the location is not owned by a hostile force. Any activities not related to getting a vest and not leaving the area immediately after violates this clause.*
 
 11) All Corporation Personnel, with the exception of on-duty Security Corps members, must always seek to reside in a location which is considered safe and under no imminent threat, if they are capable of thereof.
 
