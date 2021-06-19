@@ -598,6 +598,10 @@ Any Personnel not yet listed
 
 *d) It will aid in the recontainment or the handling of an entity. This condition can be met without meeting the other conditions.*
 
+6) During an active test that falls under the conditions of Article 2, Section 3, Clause 1; Security Corps members that are a part of the test must supply any resources if they are reasonable in nature. 
+
+*a) “Reasonable in nature” is defined as needed for the test in the form of transport, weapons (only handled by the combative), and any other objects that are required during the test. The objects must not also be banned by the Articles of Service, will not risk the harming of other members of the Nova Corporation, and isn’t controlled by a hostile force.*
+
 
 ## **Section 3: The Innovation Department**
 > The Innovation Department has been tasked with research and development of the Nova Corporation’s various anomalies. The following regulation clauses apply to all personnel of the Innovation Department, while being on their own team, and also include any regulations stated in the Innovation Departmental Guidelines:
