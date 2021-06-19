@@ -560,7 +560,7 @@ Any Personnel not yet listed
 
 2) The Security Personnel are required to satisfy requests for Test Subjects from the Innovation Department and Regulations Department in a timely manner, granting or declining the requests utilizing the radio.
 
-*a) Security Personnel may decline a test or interview with valid reason, some include: multiple security emergencies throughout the site, active hostile raid, on-going Test Subject riot, insufficient amount of Security Personnel to maintain security and host tests.*
+*a) Security Personnel may decline a test or interview with valid reason, some include: multiple security emergencies throughout the site, active hostile raid, on-going Test Subject riot, insufficient amount of Security Personnel to maintain security and host tests. Security Personnel may decline a test during an active entity breach.*
 
 3) Test Subjects may be terminated by the Security Corps at any time if a below condition is satisfied:
 
