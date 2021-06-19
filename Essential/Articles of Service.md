@@ -640,7 +640,7 @@ Any Personnel not yet listed
 
 *a) Test Subjects, remaining after the test is concluded, may not be terminated by Security Corps personnel and must be escorted back to the Test Subject Zone unless the Test Subject(s) have been affected by an entity which possibly or indefinitely causes harm and/or effect to others and/or their surroundings.*
 
-*b) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it.*
+*b) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it. Said Test Subject may decline being used in another test, as long as the tests are not conjoined.*
 
 
 
