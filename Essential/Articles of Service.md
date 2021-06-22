@@ -55,6 +55,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 7) When detailing any actions “On-Site”, the Articles of Service is only bound upon states considered as “public servers”. States considered “private servers” are unbounded by the Articles of Service, and may have separate clauses only for actions “On-Site”.
 
+8) At no point may ANY Nova Corporation Personnel trap players in their spawn. Any sort of Spawn Trapping can result in a minimum of a 1 day C-E sentence and a Server Ban.
+
 
 # **Article 2: Code of Conduct**
 > Any clause within this article is to be followed at all times by any personnel bound to these Articles of Service, from time of admittance to the Corporation to the time of departure to the Corporation.
