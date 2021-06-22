@@ -209,9 +209,9 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) The body in question is not of any member of the Security Corps.*
 
-*b) The body in question is not of any Nova Corporation Personnel ranking Classification - A or higher.*
+*b) The body in questions is not of a Nova Corporation Personnel ranking higher than your own rank. However Classifications D - B are considered the same rank in this clause; The hierarchy consists of Classifications D-B; A; O; X, in that order ascending, Classification X being highest.*
 
-*c) Those ranking Classification - A or lower may only rope the body of the same classification or lower.*
+*c) The Security Corps is immune to these Sub-Clauses given that body is not Classification - O or higher.*
 
 
 
