@@ -324,11 +324,11 @@ Personnel ranking Classification - O
 
 ↓
 
-Personnel as “Regulations Department”, internally ranking “Regulation Official” or above
+Personnel as “Security Corps”, internally ranking “TFD” or above
 
 ↓
 
-Personnel as “Security Corps”, internally ranking “TFD” or above
+Personnel as “Regulations Department”, internally ranking “Regulation Official” or above
 
 ↓
 
