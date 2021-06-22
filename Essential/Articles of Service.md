@@ -439,6 +439,8 @@ Personnel as “Security Corps” not yet listed
 
 Any Personnel not yet listed
 
+7) During a “High Threat Level” at any designated location, all control of the location is transferred to the Security Corps, and all Non-Combative Corporation Personnel Below Classification - A are to be evacuated immediately.
+
 ## **Subsection 3.1: Area Restrictions**
 > Any clause within this subsection details restrictions for all Nova Corporation Personnel on locations throughout the Nova Corporation Research Installment, designation 11. Restriction is written through descending priority. When describing a tangible location, it is to be assumed that the affected area also includes the 20 stud radius around the described location, or otherwise close to a tangible border.
 
