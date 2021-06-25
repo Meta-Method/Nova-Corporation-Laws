@@ -9,7 +9,8 @@ Class - As obtain the unique permission of issuing site-wide announcements on No
 In order to be a Class - A, one or more of the following conditions must be met:  
  **-** Promotion allowed by the Administrator  
  **-** Honor rank achieved due to development work (only attributed by the Administrator)  
- **-** Approved by the Overwatch  
+ **-** Approved by the Overwatch
+ **-** Knowledge of the Nova Corporation Lore
 
 ## Commands  
 
