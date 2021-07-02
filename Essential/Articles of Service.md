@@ -173,7 +173,9 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *b) Personnel may temporarily be granted access to an area to retrieve the vest under the circumstances that the location is not owned by a hostile force. Any activities not related to getting a vest and not leaving the area immediately after violates this clause.*
 
-11) All Corporation Personnel, with the exception of on-duty Security Corps members, must always seek to reside in a location which is considered safe and under no imminent threat, if they are capable of thereof.
+*c) Engineering Personnel may only use the vest station in order to refill their vests.*
+
+11) All Corporation Personnel, with the exception of on-duty Security and Engineering Personnel, must always seek to reside in a location which is considered safe and under no imminent threat, if they are capable of thereof.
 
 *a) The one and only exception to this clause is the case of an Red Wolf inside of lower Entity Area; If an Innovation Department Member is on their way to Entity Area to perform a test, and an Red Wolf threat is inside lower Entity Area then the Innovation Department Member and Test Subject must wait in the lounge building until the hostile is dealt with. If the Innovation Department Member wants to stop the test instead of waiting, they must verify it first with their escort, after which the TS is to be escorted back to Test Subject Zone as part of Article 3, Section 2, Clause 3, Sub-Clause g.*
 
@@ -181,7 +183,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 13) Only Corporation Personnel who spawn with weapons or are within the team defined as the "Engineering Department" may manipulate, manage, and store all mineral resources.
 
-*a) High Command personnel within each stated departmental authority may set forth internal policies regarding manipulation, management, and storage of mineral resources, within reason.*
+*a) Engineering Personnel internally ranking Core Branch Manager and above may set forth internal policies regarding manipulation, management, and storage of mineral resources, within reason.*
 
 *b) Personnel listed above may terminate personnel beneath in command as listed in Article 2, Section 3 violating this clause within reason.*
 
@@ -193,7 +195,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) High Command personnel within each stated departmental authority may temporarily expand authorized personnel through granting permission, and may set forth individual policies regarding such.*
 
-15) When an area such as Test Subject Zone or Entity Area is under assault by hostile forces, employees are to be informed of the situation and warned to stay away from the area until properly dealt with.
+15) When an area such as Test Subject Zone or Entity Area is under assault by hostile forces, employees are to be informed of the situation and warned to stay away from the area until properly dealt with. This does not include Security and Engineering Personnel.
 
 *a) If employees refuse to leave the area under assault, they are in violation of this clause and may be subject to punishment.*
 
@@ -206,6 +208,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 17) If a gun fight occurs between Security Personnel and any hostile offender, no matter the place, any Non-Combative Corporation Member must leave the area and not intervene with the bout.
 
 *a) Given a Non-Combative Corporation Member has a weapon not banned in Article 2, Section 2, Clause 6, Sub-Clause B, and the said persons is already in the way of the confrontation, the Corporation Member may take action to defend themselves, and prevent harm to a Security Personnel.*
+
+*b) Engineering Personnel may remain in the area, if that area is affiliated with any construction or a construction is necessary in that area.*
 
 18) Nova Corporation Personnel, combative and non combative are to refrain from, and can only rope one body at any given time provided the body is not satisfying the following conditions:
 
@@ -344,6 +348,22 @@ Personnel as “Security Corps” not yet listed
 
 Any Personnel not yet listed
 
+*e) The Powerplant:*
+
+Personnel ranking Classification - O
+
+↓
+
+Personnel as "Engineering Department"
+
+↓
+
+Personnel as "Security Corps"
+
+↓
+
+Any Personnel not yet listed
+
 2) During an official, valid Innovation Department Test not in violation of any clause within Article 3, Section 3:
 
 Personnel as “Security Corps” as Task Force Detachment “The Crazies”
@@ -441,7 +461,7 @@ Personnel as “Security Corps” not yet listed
 
 Any Personnel not yet listed
 
-7) During a “High Threat Level” at any designated location, all control of the location is transferred to the Security Corps, and all Non-Combative Corporation Personnel Below Classification - A are to be evacuated immediately.
+7) During a “High Threat Level” at any designated location, all control of the location is transferred to the Security Corps and the Engineering Department, and all Non-Combative Corporation Personnel Below Classification - A are to be evacuated immediately.
 
 ## **Subsection 3.1: Area Restrictions**
 > Any clause within this subsection details restrictions for all Nova Corporation Personnel on locations throughout the Nova Corporation Research Installment, designation 11. Restriction is written through descending priority. When describing a tangible location, it is to be assumed that the affected area also includes the 20 stud radius around the described location, or otherwise close to a tangible border.
@@ -461,7 +481,7 @@ Any Personnel not yet listed
 
 6) The Entity Area in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
-*a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Innovation Personnel internally ranking Novice Innovator or above, Regulations Personnel internally ranking Senior Regulating Official or higher, to attempt the apprehending of any unauthorized personnel trespassing in the underground zone of the Entity Area, who has not been granted access, whether by rank, department, or temporary access by authorized personnel and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
+*a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Engineering Personnel, Innovation Personnel internally ranking Novice Innovator or above, Regulations Personnel internally ranking Senior Regulating Official or higher, to attempt the apprehending of any unauthorized personnel trespassing in the underground zone of the Entity Area, who has not been granted access, whether by rank, department, or temporary access by authorized personnel and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
 
 *b) Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
 
@@ -479,7 +499,7 @@ Any Personnel not yet listed
 
 9) Areas that can be reasonably described as being owned by a force that is not the Nova Corporation is restricted to all personnel except personnel ranking Classification - O and Security Personnel.
 
-10) The Underwater Sector in general is restricted to Security Personnel.
+10) The Underwater Sector in general is restricted to Security Personnel and Engineering Personnel.
 
 *a) Innovation Personnel internally ranking Expert Innovator or above may enter, along with proper testing personnel, for the express purpose of Innovation. When not testing, permission from the Innovation Department directorate is required.*
 
@@ -679,7 +699,23 @@ Any Personnel not yet listed
 ## **Section 6: The Engineering Department**
 > The Engineering Department has been tasked with maintaining and managing the technical components of the Nova Corporation’s facilities, and logistics of the Nova Corporation’s facilities.
 
-WIP
+1) The Engineering Department is given full jurisdiction over material resources around Glacier with certain exceptions listed below. In these cases, permission from the relevant personnel are required for entry and corresponding activities, if not implicit in a resource request to these areas.
+
+*a) The Department of Operations base.*
+
+
+*b) The Underwater Sector.*
+
+*c) The innermost area of the Entity Area.*
+ 
+2) The Engineering Department is granted the ability to procure unarmed vehicles and other craftable items independently.  Armed humvees and other armored vehicles may be procured if requested by appropriate personnel, or there is an obvious and undeniable preemptive need of such vehicles (Ex. If there are no armored humvees present within the Forward Operating Base).
+
+3) The Engineering Department has exclusive authority over large-scale activities requiring physical assets (Including, but not limited to; ores, vehicles, craftables, and fortifications). These activities, if conducted by other departments, must be first approved by an ED Core Branch Manager+. Internally, such activities are regulated as per Article 3, Section 6, Clause 4 unless directly overseen by ED project leaders.
+
+4) Engineering Department personnel may not utilize corporate resources in an excessive and/or superfluous fashion. They also may not use these resources to directly aid any hostile force. These infractions will be dealt with case-by-case, and are up to the judgement of the corresponding branch Hierarchies.
+
+5) Aerial vehicles may be procured independently by all ED personnel if needed, however the permission to operate said vehicles require the fulfillment of internal departmental criteria (namely certification), or the supervision/authorization of other corporate personnel with the appropriate permissions.
+
 
 
 # **Article 4: Amending the Articles of Service**
