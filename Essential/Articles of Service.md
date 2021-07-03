@@ -503,9 +503,7 @@ Any Personnel not yet listed
 
 *a) Innovation Personnel internally ranking Expert Innovator or above may enter, along with proper testing personnel, for the express purpose of Innovation. When not testing, permission from the Innovation Department directorate is required.*
 
-*b) Regulation Personnel internally ranking Experienced Regulator or above may enter for the express purpose of spectating aforementioned Innovation Personnel.*
-
-*c) Regulation Personnel are authorized to enter the Underwater Sector regardless of rank , under the condition that there is an AoS infractor inside the Underwater Sector, and there are Security Personnel available to escort them out of the sector.*
+*b) Regulation Personnel are authorized to enter the Underwater Sector regardless of rank , under the condition that there is an AoS infractor inside the Underwater Sector, and there are Security Personnel available to escort them out of the sector.*
 
 *d) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking Triggerman or above have been granted the ability to grant other personnel access to any area within the Under Water Sector.*
 
