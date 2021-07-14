@@ -640,7 +640,7 @@ Any Personnel not yet listed
 
 *d) All tests must seem hypothetically possible in the sense that the testing question does not seem random; An invalid question being if one action causes or is related to a completely different reaction.*
 
-*e) Any test conducted with the intention of terminating an anomaly requires a majority approval from the Class-X Overwatch.*
+*e) Any test conducted with the intention of terminating an anomaly requires a majority approval from the Class-X Overwatch and one member from the ID Directorate.*
 
 2) Corporation Personnel ranking Classification - O and above, Regulations Personnel, and Operations Personnel may question any Innovation Personnel in regards to any aspect of their test.
 
