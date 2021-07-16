@@ -221,6 +221,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *d) The body in question is not being roped to cause trouble or to be misused.*
 
+*e) Security Personnel may request any NCM below Classification - O to unrope any body currently roped to them.*
+
 19) EMPs may not be placed anywhere in which it becomes unreachable, and permanently blocks any area with no way of being destroyed without the help of moderation or abusing glitches. Breaking this clause can warrant a server ban.
 
 
