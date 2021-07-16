@@ -654,17 +654,15 @@ Any Personnel not yet listed
 
 3) Internally enforced by the Innovation Department, Innovation Personnel are only allowed to test on Entity Threat Levels granted to them as such by the highest authority of the Innovation Department, or listed below:
 
-*a) Green Threat Level Entities may be tested by Innovation Interns and above without supervision.*
+*a) Green and Yellow Threat Level Entities may be tested by Innovation Novices and above without supervision.*
 
-*b) Yellow Threat Level Entities may be tested by Innovation Interns during orientation, and Innovation Novice and above without supervision.*
+*b) Orange Threat Level Entities may be tested by Innovation Innovators and above.*
 
-*c) Orange Threat Level Entities may be tested by Innovation Novices with supervision, and Innovation Innovator and above without supervision.*
+*c) Red Threat Level Entities may be tested by Innovation Innovators with permission from Innovation Head Innovators and above, and Advanced Innovators and above without supervision*
 
-*d) Red Threat Level Entities may be tested by Innovation Innovator and above without supervision.*
+*d) Black Threat Level Entities may only be tested by Innovation Expert Innovators with supervision from the Innovation Deputy Director and above, Innovation Senior Innovators with permission from the Innovation Deputy Director and above, and Innovation Head Innovator and above without supervision.*
 
-*e) Black Threat Level Entities may only be tested by Innovation Head Innovators with supervision and Innovation Deputy Director and above without supervision.*
-
-*f) White Level Entities may only be tested by Innovation Deputy Director and Director with supervision, and Innovation Overseer without supervision.*
+*e) White Level Entities may only be tested by the Innovation Deputy Director and Director with permission from the Innovation Overseer, and the Innovation Overseer without permission.*
 
 4) All personnel present within a test must return to an area they have access to, as specified under Article 2, Subsection 3.1.
 
