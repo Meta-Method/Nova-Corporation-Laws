@@ -117,15 +117,15 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) “Within reason” defined as an order that does not directly violate, or cause an indirect violation of the Articles of Service.*
 
-3) All Corporation Personnel are not allowed to willingly come into contact with an entity, and are not allowed to willingly allow an entity or anomalous effect to come into effect upon themselves or others; And prevent such to the best of their ability.
+3) All Corporation Personnel are not allowed to willingly allow themselves or others to interact with an entity in any way.
 
-*a) Members of the Security Corps internally ranking as Security Supervisor or above, and members of the Department of Operations have been granted the sole ability to authorize the usage of entities and anomalous effects if such is required. Any Class-X ranking individual may grant usage of entities and anomalous effects to any Corporation Personnel.*
+*a) Security Corps and the Department of Operations have been granted the ability to regulate the usage of entities in their own guidelines.*
 
 *b) The ability to regulate and authorize the usage of Entity - 004 has been fully delegated to the Innovation Department directorate.*
 
-*c) Members of the Task Force Detachment "The Crazies" internally ranking "Pointman" have been granted the ability to permit the usage of entities for other members belonging to "The Crazies".*
+*c) In the event of a valid Innovation Department test described under Article 2, Section 3, Clause 1, only a Test Subject may interact with the entity, unless the entity is obtainable.*
 
-*d) Obtainable entities may be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Department Member need them to for that specific test. The entity must be returned to its respective containment chamber after the test has concluded.*
+*d) Obtainable entities may be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Department Member need them for that specific test. The entity must be returned to its respective containment chamber after the test has concluded.*
 
 4) Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
