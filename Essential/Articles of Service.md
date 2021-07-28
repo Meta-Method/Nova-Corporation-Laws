@@ -683,7 +683,7 @@ Any Personnel not yet listed
 
 *a) Upon issuing a punishment, the Regulations Department must inform the plaintiff of the punishment, with appropriate documentation detailing the case.*
 
-3) Regulation personnel internally ranking Division Director+ on the Regulations Department team are granted permission to issue a Detain-on-Site order for a Nova Corporation Member if deemed necessary and with valid reason.
+3) Regulation personnel internally ranking Chief Regulating Official+ on the Regulations Department team are granted permission to issue a Detain-on-Site order for a Nova Corporation Member if deemed necessary and with valid reason.
 
 
 ## **Section 5: The Department of Operations**
