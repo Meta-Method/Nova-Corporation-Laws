@@ -145,7 +145,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
-*b) The following weapons are forbidden to be used/carried by any Corporation Personnel with the exception of authorized Combative Personnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Any weapon that may only be obtained via commands, Any experimental/anomalous weapons, Nova Dominion weaponry, Flamethrowers, RPG-7's and Miniguns.*
+*b) Corporation Personnel may pick up weapons dropped by Class-X, Developers, Task Forces, or Security Corps that are a part of the banned weapons list along as it's under the circumstances or self-defense or defense of others around them if no combative are around. After the threat is gone personnel is required to drop weapons that are considered banned.*
 
 *c) All Corporation Personnel may only pick up and carry keycards equal to or lower, in access, than said Corporation Personnel’s default keycard. Any keycard may be picked up off the ground given the personnel picking it up immediately respawns or returns the keycard to an employee wielding the proper clearance to keep the card.*
 
@@ -153,7 +153,9 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *e) The Task Force Detachment members known as "Nothing To See Here" reserve the right to request any Nova Corporation Member or Security Corporation Member, except for Classification - O or higher, to drop any NTSH weaponry currently in their possession. This order must be followed, if not followed the infractor may be terminated or presented to Regulation Department for punishment.*
 
-*f) Security Personnel internally ranking “Senior Guard” and above reserve the right to request Nova Corporation personnel, except for of Classification - O and over, to drop any SC weaponry in their possession with reason.
+*f) Security Personnel internally ranking “Senior Guard” and above reserve the right to request Nova Corporation personnel, except for of Classification - O and over, to drop any SC weaponry in their possession with reason.*
+
+*g) The following weapons are forbidden to be used/carried by any Corporation Personnel with the exception of authorized Combative wPersonnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Any weapon that may only be obtained via commands, Any experimental/anomalous weapons, Nova Dominion weaponry, Flamethrowers, RPG-7's and Miniguns.*
 
 7) A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.
 
