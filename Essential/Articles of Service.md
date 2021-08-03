@@ -501,6 +501,8 @@ Any Personnel not yet listed
 
 *b) The Regulations Department interview room and area within the Test Subject Zone is restricted to Regulation Personnel, personnel who spawn with weapons and personnel ranking Classification - A or above. Members of the Regulations Department may grant access to the interview room to other personnel during interviews or for other affairs that involve those concerned and the Regulations Department.*
 
+*c) The interrogation room in the lower Test Subject zone is restricted to Operations Personnel and Regulations Personnel for appropriate use, with such being determined by their respective department's guidelines.*
+
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
 9) Areas that can be reasonably described as being owned by a force that is not the Nova Corporation is restricted to all personnel except personnel ranking Classification - O and Security Personnel.
