@@ -485,6 +485,8 @@ Any Personnel not yet listed
 
 5) The Forward Operating Base has been restricted to Security Personnel under normal circumstances. The Forward Operating Base can be unrestricted to all Corporation Personnel pending Security Corps High Command order, due to a site-wide evacuation or other calamity of equal magnitude.
 
+*a) Engineering Personnel at all times are to stay in their designated areas, and will follow Security Corps commands should they not be.*
+
 6) The Entity Area in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
 *a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Engineering Personnel, Innovation Personnel internally ranking Novice Innovator or above, Regulations Personnel internally ranking Senior Regulating Official or higher, to attempt the apprehending of any unauthorized personnel trespassing in the underground zone of the Entity Area, who has not been granted access, whether by rank, department, or temporary access by authorized personnel and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
