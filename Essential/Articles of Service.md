@@ -318,11 +318,11 @@ Personnel as “Security Corps” not yet listed
 
 ↓
 
-Personnel ranking Classification - A
+Personnel as “Regulations Department”, internally ranking “Regulation Official” or above
 
 ↓
 
-Personnel as “Regulations Department”, internally ranking “Regulation Official” or above
+Personnel ranking Classification - A
 
 ↓
 
