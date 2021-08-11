@@ -149,9 +149,9 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *c) All Corporation Personnel may only pick up and carry keycards equal to or lower, in access, than said Corporation Personnel’s default keycard. Any keycard may be picked up off the ground given the personnel picking it up immediately respawns or returns the keycard to an employee wielding the proper clearance to keep the card.*
 
-*d) All Task Force Detachment members reserve the right to request TFD specified weapons be dropped to them, or the holder respawn, this request must be followed.*
+*d) All Task Force Detachment members reserve the right to request TFD specified weapons in any Nova Corporation Members possession, except for Classification - O or higher, be dropped to them or the holder to respawn, this request must be followed.*
 
-*e) The Task Force Detachment members known as "Nothing To See Here" reserve the right to request any Nova Corporation Member or Security Corporation Member, except for Classification - O or higher, to drop any NTSH weaponry currently in their possession. This order must be followed, if not followed the infractor may be terminated or presented to Regulation Department for punishment.*
+*e) The Task Force Detachment members known as "Nothing To See Here" reserve the right to request any Nova Corporation Member or Security Corporation Member, except for Classification - O or higher, to drop any NTSH weaponry currently in their possession. This is an order and must be followed else risk Classification - E sentencing and being designated "Kill on Sight".*
 
 *f) Security Personnel internally ranking “Senior Guard” and above reserve the right to request Nova Corporation personnel, except for of Classification - O and over, to drop any SC weaponry in their possession with reason.*
 
