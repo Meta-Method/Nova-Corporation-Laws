@@ -716,7 +716,7 @@ Any Personnel not yet listed
 
 *c) The innermost area of the Entity Area.*
  
-2) The Engineering Department is granted the ability to procure unarmed vehicles and other craftable items independently.  Armed humvees and other armored vehicles may be procured if requested by appropriate personnel, or there is an obvious and undeniable preemptive need of such vehicles (Ex. If there are no armored humvees present within the Forward Operating Base).
+2) The Engineering Department is granted the ability to procure unarmed vehicles and other craftable items independently. They may craft weapons banned under Article 2; Section 2; Clause 6 given a Security Corps member has requested it. Armed humvees and other armored vehicles may be procured if requested by appropriate personnel, or there is an obvious and undeniable preemptive need of such vehicles (Ex. If there are no armored humvees present within the Forward Operating Base).
 
 3) The Engineering Department has exclusive authority over large-scale activities requiring physical assets (Including, but not limited to; ores, vehicles, craftables, and fortifications). These activities, if conducted by other departments, must be first approved by an ED Core Branch Manager+. Internally, such activities are regulated as per Article 3, Section 6, Clause 4 unless directly overseen by ED project leaders.
 
