@@ -535,6 +535,11 @@ Any Personnel not yet listed
 
 13) All personnel are not allowed to loiter around or repeatedly open the entrances to areas that they do not have access to under the Articles of Service. This includes the TSZ airlock, Entity Area hangar doors, Ore Depot fence gate, etc.
 
+14) Facilities owned by the Nova Corporation without proper legislation are restricted to Combative Personnel, Regulations personnel, Operations Personnel, and personnel ranking Classification-O with proper authorization and reason.
+
+*a) “Proper legislation” is defined as legislation that restricts it to certain personnel in Article 2; Subsection 3:1.*
+
+
 
 
 # **Article 3: Specific Precept**
