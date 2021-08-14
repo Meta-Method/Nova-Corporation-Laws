@@ -100,6 +100,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 7) All Corporation Personnel are forbidden from colluding with any force hostile to the Nova Corporation.
 
+*a) Any personnel that use the Test Subject auction are in violation of this clause.*
+
 8) Corporation Personnel ranking Classification-E are not allowed to leave and rejoin the Corporation in the middle of their punishment sentence. Leaving in the middle of a C-E sentence would lead to an extension of the issued C-E sentence and a demotion to "Test Subject”.
 
 9) All Corporation Personnel are forbidden from encouraging others to break the clauses in the Articles of Services for any reason.
