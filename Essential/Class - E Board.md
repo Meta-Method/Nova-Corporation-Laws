@@ -22,7 +22,7 @@ The duration of the Class - E is established by viewing the Law Infraction Punis
 Once the Due Date is due, the Class - Ed member is to have their original rank re-established.  
 The approver of the Class - E is to DM the Class - Ed if possible, linking the card to their Class - E, when the Class - E will end, and who Class - Ed.  
 
-Alternatively, a Class - E may also be rejected. Rejected Class - E requests are to be put at the **Rejected** list.  
+Alternatively, a Class - E may also be rejected. Rejected Class - E sentences are to be removed from the board.  
 
 https://trello.com/b/E9nodzRk/class-e-board
 
