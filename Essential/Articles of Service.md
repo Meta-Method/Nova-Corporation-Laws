@@ -595,9 +595,11 @@ Any Personnel not yet listed
 
 *c) The person(s) may be terminated if they are in violation of Article 2, Section 2, Clause 5.*
 
-*d) The person(s) may be terminated if they are designated “Kill on Sight” through Article 2, Section 2, Clause 7.*
+*d) The person(s) may be terminated if they are in violation of Article 2, Section 2, Clause 6, Sub-Clauses D or Article 2, Section 2, Clause 6, Sub-Clause E.*
 
-*e) The person(s) may not be terminated under any circumstance if they are at or above the ranking Classification - O, or are within the Department of Operations team.*
+*e) The person(s) may be terminated if they are designated “Kill on Sight” through Article 2, Section 2, Clause 7.*
+
+*f) The person(s) may not be terminated under any circumstance if they are at or above the ranking Classification - O, or are within the Department of Operations team.*
 
 2) The Security Personnel are required to satisfy requests for Test Subjects from the Innovation Department by responding to tablet requests and including verbal response on the radio. They are to also respond to the Regulations Department through radio when retrieving their requests.
 
