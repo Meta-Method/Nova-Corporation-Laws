@@ -12,6 +12,9 @@ In order to be a Class - A, one or more of the following conditions must be met:
  **-** Approved by the Overwatch
  **-** Knowledge of the Nova Corporation Lore
 
+## Applications
+Class - A have the ability to read and review pending applications for Test Subjects applying for the Class - D rank. Members at the rank of Class - A are required to properly read said application and process such without bias.
+
 ## Commands  
 
 In order to trigger an announcement in Research Area - 11, Class - As must run the following command:  
