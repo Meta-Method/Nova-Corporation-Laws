@@ -167,7 +167,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 8) Corporation Personnel being detained by the Regulations Department, Security Corps or Department of Operations may not evade or attempt to evade being detained.
 
-*a) “Detain evading” is defined as attempting to or succeeding in un-detaining yourself, using means including, but not limited to resetting, redeploying, rejoining, leaving and requesting others to terminate you without express permission of the detainer. The only acceptable way to be un-detained is for the detainer to un-detain you themselves.*
+*a) “Detain evading” is defined as attempting to or succeeding in un-detaining yourself or moving away from your detainer while detained, using means including, but not limited to resetting, redeploying, rejoining, leaving and requesting others to terminate you without express permission of the detainer. The only acceptable way to be un-detained is for the detainer to un-detain you themselves.*
 
 9) Corporation Personnel may not avoid or attempt to avoid punishments being administered by those with the authority to do so, as described by Article 2, Section 3.
 
