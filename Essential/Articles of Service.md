@@ -505,7 +505,7 @@ Any Personnel not yet listed
 
 *a) Areas within the Test Subject Zone used solely for the purpose of guarding from Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel.*
 
-*b) The Regulations Department interview room and area within the Test Subject Zone is restricted to Regulation Personnel, personnel who spawn with weapons and personnel ranking Classification - A or above. Members of the Regulations Department may grant access to the interview room to other personnel during interviews or for other affairs that involve those concerned and the Regulations Department.*
+*b) The Regulations Department Sector within the Test Subject Zone is restricted to Regulation Personnel, personnel who spawn with weapons and personnel ranking Classification - A or above. Members of the Regulations Department may grant access to the RD Sector to other personnel during interviews or for other affairs that involve those concerned and the Regulations Department.*
 
 *c) The interrogation room in the lower Test Subject zone is restricted to Operations Personnel and Regulations Personnel for appropriate use, with such being determined by their respective department's guidelines.*
 
