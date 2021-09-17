@@ -1,6 +1,8 @@
 ## Information Breach Procedures
 > An information breach is the name given to an event of Nova Corporation personnel spreading or leaking documents restricted to departments, Nova Corporation High Command, etc. At times, information breaches do not have to be documents as they could be Red Wolves raid info or departmental/high command discussions.
 
+https://docs.google.com/document/d/1duZa5iNegiYI2jdRoqtYDzAHKC6qDYYeIR-p8-CULqo/edit?usp=sharing
+
 ### Section 1
 Departmental info breaches could include, but are not limited to;
 * Important departmental documents.
