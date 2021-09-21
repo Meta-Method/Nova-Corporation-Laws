@@ -57,6 +57,27 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 8) At no point may ANY Nova Corporation Personnel trap players in their spawn. Any sort of Spawn Trapping can result in a minimum of a 1 day C-E sentence and a Server Ban.
 
+9) Classification of "High Rank" or commonly referred to as "High Command" is bestowed upon the following ranks of each department.
+
+*a) Regulations Department personnel ranking "Division Overseer" through "Chief Regulating Official".*
+
+*b) Innovation Department personnel ranking "Head innovator" and "Expert Innovator".*
+
+*c) Security Corps personnel ranking "Security Major" through "Captain".*
+
+*d) Engineering Department personnel ranking "Brach Associate Director" through "Foreperson".*
+
+10) Classification of "High Command" or commonly referred to as "Directorate" is bestowed upon the following ranks of each department.
+
+*a) Regulations Department personnel ranking "Overseer" through "Assistant Director".*
+
+*b) Innovation Department personnel ranking "Overseer" through "Deputy Director".*
+
+*c) Security Corps personnel ranking "General" through "Commander".*
+
+*d) Engineering Department personnel ranking "Chairperson" and "Board of Directors".*
+
+
 
 # **Article 2: Code of Conduct**
 > Any clause within this article is to be followed at all times by any personnel bound to these Articles of Service, from time of admittance to the Corporation to the time of departure to the Corporation.
