@@ -77,6 +77,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *d) Engineering Department personnel ranking "Chairperson" and "Board of Directors".*
 
+11) Any and all Foreign/Visiting Personnel representing other groups are considered as VIPs on-site at that given time. They are also considered to be treated with priority over Corporation Personnel ranking below Classification - A. Foreign Personnel may be escorted by Regulations Personnel in the division "Liaison Ancillary" and Security Personnel in the Task Force Detachment "The Armed Gentleman" if necessary.
+
 
 
 # **Article 2: Code of Conduct**
