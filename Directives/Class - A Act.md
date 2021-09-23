@@ -2,7 +2,7 @@ The Class - A is the highest rank available in the Corporation's hierarchy befor
 
 As such, Class - A isn't obtained the same way as Class - D, Class - C and Class - B is.
 
-Class - As obtain the unique permission of issuing site-wide announcements on Nova Corporation sites and locations. As such, it is a rank that comes with some responsibility.
+Class - As obtain the unique permission of issuing site-wide announcements on Nova Corporation sites and locations. As such, it is a rank that comes with some responsibility. Class - As are also expected to have knowledge of the Nova Corporation Lore.
 
 ## Requirement  
 
@@ -10,7 +10,6 @@ In order to be a Class - A, one or more of the following conditions must be met:
  **-** Promotion allowed by the Administrator  
  **-** Honor rank achieved due to development work (only attributed by the Administrator)  
  **-** Approved by the Overwatch
- **-** Knowledge of the Nova Corporation Lore
 
 ## Applications
 Class - A have the ability to read and review pending applications for Test Subjects applying for the Class - D rank. Members at the rank of Class - A are required to properly read said application and process such without bias.
