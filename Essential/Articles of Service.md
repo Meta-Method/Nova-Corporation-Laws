@@ -162,7 +162,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *d) Any article worn must not modify one's body parts.*
 
-*e) Corporation Personnel may not wear uniforms that are associated with hostile groups to the Nova Corporation.*
+*e) Corporation Personnel may not wear official uniforms that are associated, or are very similar to a group's uniform that is hostile to Nova Corporation, with the exception of old and outdated uniforms no longer in use.*
 
 5) All Corporation Personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another Corporation Personnel’s duties, as outlined within this document and stated by, if applicable, the personnel’s department Class-X.
 
