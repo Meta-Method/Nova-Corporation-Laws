@@ -541,7 +541,9 @@ Any Personnel not yet listed
 
 *b) The Regulations Department Sector within the Test Subject Zone is restricted to Regulation Personnel, personnel who spawn with weapons and personnel ranking Classification - A or above. Members of the Regulations Department may grant access to the RD Sector to other personnel during interviews or for other affairs that involve those concerned and the Regulations Department.*
 
-*c) The interrogation room in the lower Test Subject zone is restricted to Operations Personnel and Regulations Personnel for appropriate use, with such being determined by their respective department's guidelines.*
+*c) Security Corps Members internally ranking "Master Guard" or higher, may authorize the entrance of the RD Sector as a shelter of sorts in the event of a hostile raid, test subject riot, or entity breach in the TSZ.*
+
+*d) The interrogation room in the lower Test Subject zone is restricted to Operations Personnel and Regulations Personnel for appropriate use, with such being determined by their respective department's guidelines.*
 
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
