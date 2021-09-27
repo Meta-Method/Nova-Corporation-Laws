@@ -252,6 +252,17 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 19) EMPs may not be placed anywhere in which it becomes unreachable, and permanently blocks any area with no way of being destroyed without the help of moderation or abusing glitches. Breaking this clause can warrant a server ban.
 
+20) Misuse of the radio is strictly prohibited, which includes but is not limited to:
+
+*a) Providing misinformation to Nova Corporation Staff for scenarios including, but not limited to: Hostile locations, Hostage scenarios, Test subjects riots, Entity Breaches and Law Infractors.*
+
+*b) Clogging up the radio with unnecessary chatter or radio 'spamming'.*
+
+*c) Making immature comments; for example, "SC are do do heads."*
+
+*d) Exceptions to this law can be made if the person in question accidentally had their radio out at the time of their message, usually referred to as, "Hot mic."*
+
+
 
 
 
