@@ -523,6 +523,8 @@ Any Personnel not yet listed
 
 *b) Engineering Personnel may be allowed access to areas of the tundra per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to build a structure or fortification.*
 
+*c) Regulations Personnel may be allowed access to areas of the tundra per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to apprehend a law infractor.*
+
 5) The Forward Operating Base has been restricted to Security Personnel under normal circumstances. The Forward Operating Base can be unrestricted to all Corporation Personnel pending Security Corps High Command order, due to a site-wide evacuation or other calamity of equal magnitude.
 
 *a) Engineering Personnel at all times are to stay in their designated areas, and will follow Security Corps commands should they not be.*
