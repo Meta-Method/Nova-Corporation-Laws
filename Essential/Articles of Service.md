@@ -204,7 +204,9 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 11) All Corporation Personnel, with the exception of on-duty Security and Engineering Personnel, must always seek to reside in a location which is considered safe and under no imminent threat, if they are capable of thereof.
 
-*a) The one and only exception to this clause is the case of an Red Wolf inside of lower Entity Area; If an Innovation Department Member is on their way to Entity Area to perform a test, and an Red Wolf threat is inside lower Entity Area then the Innovation Department Member and Test Subject must wait in the lounge building until the hostile is dealt with. If the Innovation Department Member wants to stop the test instead of waiting, they must verify it first with their escort, after which the TS is to be escorted back to Test Subject Zone as part of Article 3, Section 2, Clause 3, Sub-Clause g.*
+*a) This clause can only be overridden by the following specific scenario; While participating in official Innovation Department Test, described under Article 3, Section 3, if it is found that there is a hostile inside of the Lower Entity Area, the Innovation Member, and possible Regulations Department spectator are exempt from breaking this clause given they follow and maintain proper procedure as written in the RD, ID, and SC guidelines.**
+
+*b) Security Corps members are only ever in violation of this clause if they do not follow the procedure for the scenario stated in the Sub-Clause above.*
 
 12) No Corporation personnel, with the exception of those who are members of an authorized Task Force Detachment and personnel ranking Class-O and above may utilize and approve usage of the equipment the Underwater Sector provides.
 
