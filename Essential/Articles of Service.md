@@ -537,6 +537,8 @@ Any Personnel not yet listed
 
 *c) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking Triggerman or above have been granted the ability to grant other personnel access to any area within the Entity Area, given they too have access, with proper reason.*
 
+*d) Any Nova Corporation Member or Visitor, as well as being escorted by an Innovation Department Member during an Entity Showcase are allowed in the Lower Entity Area, and the first part of the Entity Chambers, but not the Containment Chamber itself. If an NCM does not stick with the Innovation Department escort, then he is in violation of this clause, and is to be considered "Detain on Site".*
+
 7) The Test Subject Zone in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
 *a) Areas within the Test Subject Zone used solely for the purpose of guarding from Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel.*
