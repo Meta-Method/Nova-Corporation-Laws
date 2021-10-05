@@ -575,6 +575,8 @@ Any Personnel not yet listed
 
 *c) Engineering Personnel are granted full access to the power plant to fulfill their duties.*
 
+*d) The ore vault located within Power Plant is to be only access by Engineering Department Personnel and those ranking Classification - O or higher.*
+
 13) All personnel are not allowed to loiter around or repeatedly open the entrances to areas that they do not have access to under the Articles of Service. This includes the TSZ airlock, Entity Area hangar doors, Ore Depot fence gate, etc.
 
 14) Facilities owned by the Nova Corporation without proper legislation are restricted to Combative Personnel, Regulations personnel, Operations Personnel, and personnel ranking Classification-O with proper authorization and reason.
