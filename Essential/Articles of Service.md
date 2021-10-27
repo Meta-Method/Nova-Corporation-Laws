@@ -626,6 +626,13 @@ Any Personnel not yet listed
 
 6) Any Nova Corporation Personnel in violation of Article 2, Section 3, Sub-Section 3.1 may be terminated.
 
+7) The Engineering Department has been granted the ability to regulate all Regular Trucks.
+
+*a) “Regulate” is defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.*
+
+*b) Laws on termination also apply to vehicles, with the exception of termination via “running over” personnel, which may be acceptable should said personnel walk in front of a moving vehicle.*
+
+
 
 
 ## **Section 2: The Security Corps**
