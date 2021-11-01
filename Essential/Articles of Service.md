@@ -567,13 +567,13 @@ Any Personnel not yet listed
 
 *a) Regulations personnel are permitted to enter the ore deposit areas at TSZ and Power Plant, under the condition that there is an AoS infractor in that given area.*
 
-12) The Power Plant in general is restricted to the Security Personnel, Regulations Personnel and Engineering Personnel.
+12) The Power Plant is restricted to Security, Regulations and Engineering Personnel Only.
 
-*a) Security Personnel internally ranking Junior Guard or above can enter the Power Plant, and to prevent unauthorized personnel from entering the site.*
+*a) The ore vault located within the Power Plant is to be accessed only by Engineering Department Personnel and those ranking Classification - O or higher.*
 
-*b) Regulation Personnel internally ranking Senior Regulating Official may enter Power Plant to spectate Engineering Personnel and their duties.*
+*b) Regulations Personnel may enter the Ore Vault for the purpose of apprehending an infractor.*
 
-*c) Engineering Personnel are granted full access to the power plant to fulfill their duties.*
+*c) Security Personnel may access the ore vault under the circumstance that there is an ongoing Hostile Raid in that area or to help in the apprehension of an infractor.*
 
 *d) The ore vault located within the Power Plant is to be accessed only by Engineering Department Personnel and those ranking Classification - O or higher. Security Personnel may access the ore vault under the circumstance that there is an ongoing Hostile Raid in that area.*
 
