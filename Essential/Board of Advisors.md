@@ -54,8 +54,7 @@ A Special Request created as a referendum for the rank status of someone within 
 * The changes to the representation may be calculated at the 1st of each given month, or the earliest possible time, for the remainder of the month.
 * Departments are to prioritize Departmental Class-Os above all other possible Voting Member Canidates, and may surpass this mandated limit however lacking non-Departmental Class-Os.
 * Each Department is guaranteed two voting members.
-* Further voting members granted by the proportionality of the department’s nominal size rounded up, or simply by the below equations:
-ceil( (Amount of Department Members – Amount of NonQuota Members) / sumof(Amount of Department Members – Amount of NonQuota Members) for all departments ) * 20) + 2. In other words, for a given department, they shall have the amount of Department Members minus amount of NonQuota Members all divided by the total for all departments of the amount of Department Members minus amount of NonQuota Members, times twenty, rounded up, plus two Voting Members.
+* The limit of members in the Board of Advisors follow the calculation of limits to the Huntington-Hill method. This method shall guarantee that there shall not be any more than 32 Representatives in total for all 6 groups (Security Corps, Innovation Department, Regulations Department, Engineering Department, Department of Operations, Red Wolves).
 
 
 ### Vote-Swaying Act
