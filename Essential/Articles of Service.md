@@ -180,7 +180,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *f) Security Personnel internally ranking “Senior Guard” and above reserve the right to request Nova Corporation personnel, except for of Classification - O and over, to drop any SC weaponry in their possession with reason.*
 
-*g) The following weapons are forbidden to be used/carried by any Corporation Personnel with the exception of authorized Combative wPersonnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Any weapon that may only be obtained via commands, Any experimental/anomalous weapons, Nova Dominion weaponry, Flamethrowers, RPG-7's and Miniguns.*
+*g) The following weapons are forbidden to be used/carried by any Corporation Personnel with the exception of authorized Combative wPersonnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Any weapon that may only be obtained via commands, Any experimental/anomalous weapons, Nova Dominion weaponry, Flamethrowers, RPG-7's and Miniguns. The only exception to this sub-clause is only for the obtaining of anomalous weapons/upgraded weapons from entities for members of the Security Corps Task Force Detachment "The Crazies", members of the Security Corps internally ranking “Security Supervisors” and above, members of the Security Corps with authorization from the aforementioned personnel, and members of the Innovation Department who are carrying out tests.*
 
 7) A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.
 
