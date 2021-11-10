@@ -535,7 +535,7 @@ Any Personnel not yet listed
 
 *a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Engineering Personnel, Innovation Personnel internally ranking Novice or above with the purpose of conducting a test OR using 004, Regulations Personnel internally ranking Senior Regulating Official or higher, to attempt the apprehending of any unauthorized personnel trespassing in the underground zone of the Entity Area, who has not been granted access, whether by rank, department, or temporary access by authorized personnel and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
 
-*b) Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
+*b) Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3. There is one exception to this subclause; "The Mineshaft" may be entered by ED personnel.*
 
 *c) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking Triggerman or above have been granted the ability to grant other personnel access to any area within the Entity Area, given they too have access, with proper reason.*
 
