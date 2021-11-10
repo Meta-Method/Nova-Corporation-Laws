@@ -533,13 +533,15 @@ Any Personnel not yet listed
 
 6) The Entity Area in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
-*a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Engineering Personnel, Innovation Personnel internally ranking Novice or above with the purpose of conducting a test OR using 004, Regulations Personnel internally ranking Senior Regulating Official or higher, to attempt the apprehending of any unauthorized personnel trespassing in the underground zone of the Entity Area, who has not been granted access, whether by rank, department, or temporary access by authorized personnel and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3.*
+*a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Engineering Personnel, Innovation Personnel internally ranking Novice or above with the purpose of conducting a test OR using 004, Regulations Personnel internally ranking Senior Regulating Official or higher, to attempt the apprehending of any unauthorized personnel trespassing in the underground zone of the Entity Area, who has not been granted access, whether by rank, department, or temporary access by authorized personnel and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3, as well as NCMs following the condition stated under sub-clause e under this clause.*
 
 *b) Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3. There is one exception to this subclause; "The Mineshaft" may be entered by ED personnel.*
 
 *c) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking Triggerman or above have been granted the ability to grant other personnel access to any area within the Entity Area, given they too have access, with proper reason.*
 
 *d) Any Nova Corporation Member or Visitor, as well as being escorted by an Innovation Department Member during an Entity Showcase are allowed in the Lower Entity Area, and the first part of the Entity Chambers, but not the Containment Chamber itself. If an NCM does not stick with the Innovation Department escort, then he is in violation of this clause, and is to be considered "Detain on Site".*
+
+*e) Any Nova Corporation Member is allowed to enter the Entity Area when the cafeteria is open to order only Grey Threat Level Drinks and Green Threat Level Drinks (e.g. Heal) if absolutely required. The document listing these drinks may be found here: https://docs.google.com/spreadsheets/d/1UHByJskO_e10wfAMcFNsFq-rH152do_XI4UXVBCHdK8/edit?usp=sharing*
 
 7) The Test Subject Zone in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
