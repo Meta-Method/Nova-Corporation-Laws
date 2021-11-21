@@ -208,6 +208,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *b) Security Corps members are only ever in violation of this clause if they do not follow the procedure for the scenario stated in the Sub-Clause above.*
 
+*c) Regulations personnel may override the following regulations if there is a Nova Corporation Member breaking legislation.*
+
 12) No Corporation personnel, with the exception of those who are members of an authorized Task Force Detachment and personnel ranking Class-O and above may utilize and approve usage of the equipment the Underwater Sector provides.
 
 13) Only Corporation Personnel who spawn with weapons or are within the team defined as the "Engineering Department" may manipulate, manage, and store all mineral resources.
