@@ -13,6 +13,6 @@ Class - Os hold the following responsibilities:
  **-** Following all rules and being a role model member of the community  
  **-** Maintaining maturity and grammar in Corporation- related spaces with the exception of off-topic and unrelated spaces.  
 
-Class - Os must be added to their respective Class - O clearance trellos upon induction (Class - E Board, for example) and removed if demoted.  
+Class - Os must be demoted to Class - A if they no longer possess any high ranking position in any department.
 
 Class - Os must be notified of their induction and/or demotion by the Class - X responsible for such action.
