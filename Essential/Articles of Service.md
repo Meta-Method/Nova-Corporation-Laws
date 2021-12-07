@@ -658,7 +658,7 @@ Any Personnel not yet listed
 
 *f) The person(s) may not be terminated under any circumstance if they are at or above the ranking Classification - O, or are within the Department of Operations team.*
 
-2) The Security Personnel are required to satisfy requests for Test Subjects from the Innovation Department by responding to tablet requests and including verbal response on the radio. They are to also respond to the Regulations Department through radio when retrieving their requests.
+2) The Security Personnel are required to satisfy requests for Test Subjects from the Innovation Department by responding to tablet requests and including verbal response on the radio. They are to also respond to the Regulations Department and to the Engineering Department through radio when retrieving their requests.
 
 *a) Security Personnel may decline a test or interview with valid reason, some include: multiple security emergencies throughout the site, active hostile raid, on-going Test Subject riot, insufficient amount of Security Personnel to maintain security and host tests. Security Personnel may decline a test during an active entity breach.*
 
