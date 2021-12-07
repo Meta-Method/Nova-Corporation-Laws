@@ -8,7 +8,6 @@ The Board of Advisors is a collection of Departmental Representatives charged wi
 * Representatives must have good standing within their Department and the Corporation.
 * Amount of Representatives are controlled by the Class-X of the Department they are representing.
 * Personnel ranking Class-O and above who are not within a department are granted the ability to become a Representative, as an Independent or "NCM Representative".
-* Each department may have as many members as they want, but are required to have a minimum of 5 members
 
 ### Procedure
 > Example Format
@@ -43,6 +42,8 @@ A Special Request created as a referendum for the rank status of someone within 
 * Members ranking Classification-A may not vote on legislation changes that are directed towards them.
 * Members ranking Classification-O may not vote on legislation changes that are directed towards them.
 “Directed towards them” means any legislation specifically directed towards their classification. Not legislation directed towards Nova Corporation Members as a whole or legislation directed towards multiple classifications.
+* Ceasefire raiding conditions must also be approved by the Board of Advisors
+* Any future raiding conditions beyond Regular Raiding and Ceasefire raiding must also be approved by the Board of Advisors
 
 **Definitions:**
 * Voting Member: An abled-body individual able to cast a vote Yea or Nay for their approved categories, including Department Class-Os.
@@ -54,6 +55,7 @@ A Special Request created as a referendum for the rank status of someone within 
 * The changes to the representation may be calculated at the 1st of each given month, or the earliest possible time, for the remainder of the month.
 * Departments are to prioritize Departmental Class-Os above all other possible Voting Member Canidates, and may surpass this mandated limit however lacking non-Departmental Class-Os.
 * Each Department is guaranteed two voting members.
+* Each Department is given a maximum of seven voting members, including the Department Class - X.
 * The limit of members in the Board of Advisors follow the calculation of limits to the Huntington-Hill method. This method shall guarantee that there shall not be any more than 32 Representatives in total for all 6 groups (Security Corps, Innovation Department, Regulations Department, Engineering Department, Department of Operations, Red Wolves).
 
 
