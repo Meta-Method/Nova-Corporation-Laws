@@ -204,13 +204,11 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *c) Engineering Personnel may only use the vest station in order to refill their vests.*
 
-11) All Corporation Personnel, with the exception of on-duty Security and Engineering Personnel, must always seek to reside in a location which is considered safe and under no imminent threat, if they are capable of thereof.
+11) All non-combative Corporation Personnel with the exception of the Department of Operations may never actively seek danger or interfere with Security Corps gun fights and must always seek to reside in a safe location within a corporation owned site.
 
-*a) This clause can only be overridden by the following specific scenario; While participating in official Innovation Department Test, described under Article 3, Section 3, if it is found that there is a hostile inside of the Lower Entity Area, the Innovation Member, and possible Regulations Department spectator are exempt from breaking this clause given they follow and maintain proper procedure as written in the RD, ID, and SC guidelines.**
+*a) In the event that a Corporation Member is unable to attain a safe location in time to avoid hostiles, said Corporation member may defend themselves without breaking any other clause in the Articles of Service.*
 
-*b) Security Corps members are only ever in violation of this clause if they do not follow the procedure for the scenario stated in the Sub-Clause above.*
-
-*c) Regulations personnel may override the following regulations if there is a Nova Corporation Member breaking legislation.*
+*b) In the scenario of hostiles in the lower Entity Area during an official Innovation Department test described under Article 3, Section 3, all participating in the test are to follow the procedure as written in their respective guidelines.*
 
 12) No Corporation personnel, with the exception of those who are members of an authorized Task Force Detachment and personnel ranking Class-O and above may utilize and approve usage of the equipment the Underwater Sector provides.
 
@@ -228,23 +226,13 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) High Command personnel within each stated departmental authority may temporarily expand authorized personnel through granting permission, and may set forth individual policies regarding such.*
 
-15) When an area such as Test Subject Zone or Entity Area is under assault by hostile forces, employees are to be informed of the situation and warned to stay away from the area until properly dealt with. This does not include Security and Engineering Personnel.
-
-*a) If employees refuse to leave the area under assault, they are in violation of this clause and may be subject to punishment.*
-
-16) Outer dimensions of any kind may not be accessed, or used in any way. 
+15) Outer dimensions of any kind may not be accessed, or used in any way. 
 
 *a) Task Force Detachment "The Crazies" members are exempt from this law, and are authorized to fully have access to all dimensions in every shape or form.*
 
 *b) The following have been granted the ability to authorize anyone to enter a given dimension following this chain of command; Security Corps General; Classification - X and The Crazies members internally ranking "Crazy Advisor"+; ID Directorate for project use; Any personnel not yet listed.*
 
-17) If a gun fight occurs between Security Personnel and any hostile offender, no matter the place, any Non-Combative Corporation Member must leave the area and not intervene with the bout.
-
-*a) Given a Non-Combative Corporation Member has a weapon not banned in Article 2, Section 2, Clause 6, Sub-Clause B, and the said persons is already in the way of the confrontation, the Corporation Member may take action to defend themselves, and prevent harm to a Security Personnel.*
-
-*b) Engineering Personnel may remain in the area, if that area is affiliated with any construction or a construction is necessary in that area.*
-
-18) Nova Corporation Personnel, combative and non combative are to refrain from, and can only rope one body at any given time provided the body is not satisfying the following conditions:
+16) Nova Corporation Personnel, combative and non combative are to refrain from, and can only rope one body at any given time provided the body is not satisfying the following conditions:
 
 *a) The body in question is not of any member of the Security Corps.*
 
@@ -256,9 +244,9 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *e) Security Personnel may request any NCM below Classification - O to unrope any body currently roped to them.*
 
-19) EMPs may not be placed anywhere in which it becomes unreachable, and permanently blocks any area with no way of being destroyed without the help of moderation or abusing glitches. Breaking this clause can warrant a server ban.
+17) EMPs may not be placed anywhere in which it becomes unreachable, and permanently blocks any area with no way of being destroyed without the help of moderation or abusing glitches. Breaking this clause can warrant a server ban.
 
-20) Misuse of the radio is strictly prohibited, which includes but is not limited to:
+18) Misuse of the radio is strictly prohibited, which includes but is not limited to:
 
 *a) Providing misinformation to Nova Corporation Staff for scenarios including, but not limited to: Hostile locations, Hostage scenarios, Test subjects riots, Entity Breaches and Law Infractors.*
 
