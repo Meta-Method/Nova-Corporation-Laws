@@ -515,7 +515,7 @@ Any Personnel not yet listed
 
 *a) Tram tunnels between locations are considered as "tundra", and are restricted to only personnel ranking Classification - O and Security Personnel, EXCEPT for when on a tram.*
 
-*b) Engineering Personnel may be allowed access to areas of the tundra per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to build a structure or fortification.*
+*b) Engineering Personnel may be allowed access to areas of the tundra under the circumstance that they are transporting items or personnel, or per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to build a structure or fortification.*
 
 *c) Regulations Personnel may be allowed access to areas of the tundra per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to apprehend a law infractor.*
 
