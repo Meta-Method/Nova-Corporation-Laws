@@ -577,9 +577,17 @@ Any Personnel not yet listed
 
 *d) The ore vault located within the Power Plant is to be accessed only by Engineering Department Personnel and those ranking Classification - O or higher. Security Personnel may access the ore vault under the circumstance that there is an ongoing Hostile Raid in that area.*
 
-13) All personnel are not allowed to loiter around or repeatedly open the entrances to areas that they do not have access to under the Articles of Service. This includes the TSZ airlock, Entity Area hangar doors, Ore Depot fence gate, etc.
+13) The "Ocean" is restricted to the Innovation Department "Paragon" Research Team, members of the Security Corps Task Force Detachment "The Crazies", relevant Security Personnel, relevant Regulations Personnel, personnel at the rank of Classification - O and Test Subjects participating in the test.
 
-14) Facilities owned by the Nova Corporation without proper legislation are restricted to Combative Personnel, Regulations personnel, Operations Personnel, and personnel ranking Classification-O with proper authorization and reason.
+*a) Personnel part of the Innovation Department "Paragon" Research Team may grant temporary access to the area with valid reasoning.*
+
+*b) The only exception to this clause is for expeditions within "The Challenger" located in the ocean, which is restricted to Innovation Personnel, Security Personnel in Task Force Detachment "The Crazies" and personnel ranking Classification - O and above.*
+
+*c) Regulations Personnel may enter the area for the purpose of apprehending an infractor.*
+
+14) All personnel are not allowed to loiter around or repeatedly open the entrances to areas that they do not have access to under the Articles of Service. This includes the TSZ airlock, Entity Area hangar doors, Ore Depot fence gate, etc.
+
+15) Facilities owned by the Nova Corporation without proper legislation are restricted to Combative Personnel, Regulations personnel, Operations Personnel, and personnel ranking Classification-O with proper authorization and reason.
 
 *a) “Proper legislation” is defined as legislation that restricts it to certain personnel in Article 2; Subsection 3:1.*
 
