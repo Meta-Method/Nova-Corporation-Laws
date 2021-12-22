@@ -543,13 +543,17 @@ Any Personnel not yet listed
 
 *c) The Innovation Department Sector within the Test Subject Zone is restricted to Innovation Personnel, and personnel ranking Classification - A and above.*
 
-*d) The Security Corps Armory within the Upper Test Subject Zone is restricted to Security Personnel and personnel ranking Classification - O and above.*
+*d) The Security Corps Armory within the Upper Test Subject Zone is restricted to Security Personnel, Engineering Department Personnel who are restocking resources for Security Personnel and personnel ranking Classification - O and above.*
 
 *e) The Engineering Department Hangars within the Upper Test Subject Zone is restricted to Engineering Personnel, personnel who spawn with weapons and personnel ranking Classification - A or above.*
 
 *f) Security Personnel may enter all the aforementioned places in order to check or deal with any hostile forces.*
 
 *g) Regulations Personnel may enter all the aforementioned places in order to deal with any legislation infractors.*
+
+*h) The Briefing Area is restricted to Departmental Personnel only.*
+
+*i) The Guidance booth is restricted to Regulations Department personnel, if none are online, other departmental personnel may take their place. NCMs are not allowed inside unless taking shelter from an active hostile threat.*
 
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
