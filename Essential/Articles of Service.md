@@ -154,6 +154,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *d) Obtainable entities may be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Department Member need them for that specific test. The entity must be returned to its respective containment chamber after the test has concluded.*
 
+*e) Engineering Personnel are granted permission to utilise E-004 should any corporation personnel request a drink(s). However, Innovation Department tests are prioritised should a clash happen.*
+
 4) Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
 *a) Any article worn must not be immature, inappropriate, or subversive in any form from all distances.*
