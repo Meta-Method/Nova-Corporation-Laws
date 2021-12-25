@@ -174,17 +174,15 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
-*b) Corporation Personnel may pick up weapons dropped by Class-X, Developers, Task Forces, or Security Corps that are a part of the banned weapons list along as it's under the circumstances or self-defense or defense of others around them if no combative are around. After the threat is gone personnel is required to drop weapons that are considered banned.*
+*b) Non-Combative Corporation Members may only utilize weapons classified as "handguns", any other weapon is therefore considered banned from being used, and if picked up should be given to Security Personnel.*
 
-*c) All Corporation Personnel may only pick up and carry keycards equal to or lower, in access, than said Corporation Personnel’s default keycard. Any keycard may be picked up off the ground given the personnel picking it up immediately respawns or returns the keycard to an employee wielding the proper clearance to keep the card.*
+*c) Engineering Personnel are given the ability to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members for use. Engineering Department Members may use an "AK-47" for self defense while around their work zones, at all other times they must follow the normal clause and sub clauses.*
 
-*d) All Task Force Detachment members reserve the right to request TFD specified weapons in any Nova Corporation Members possession, except for Classification - O or higher, be dropped to them or the holder to respawn, this request must be followed.*
+*d) Any request from a Security Corps Member to drop a banned weapon to them, or respawn to remove said weapon must be obeyed, else risk being given a Classification - E sentence and or terminated.*
 
-*e) The Task Force Detachment members known as "Nothing To See Here" reserve the right to request any Nova Corporation Member or Security Corporation Member, except for Classification - O or higher, to drop any NTSH weaponry currently in their possession. This is an order and must be followed else risk Classification - E sentencing and being designated "Kill on Sight".*
+*e) No Personnel may ever hold in their possession the following weapons unless authorized to do so by Class - X or those who have the ability to grant such: Any weapon that can only be obtained using commands, is experimental/anomalous weapons, and Nova Dominion weaponry.*
 
-*f) Security Personnel internally ranking “Senior Guard” and above reserve the right to request Nova Corporation personnel, except for of Classification - O and over, to drop any SC weaponry in their possession with reason.*
-
-*g) The following weapons are forbidden to be used/carried by any Corporation Personnel with the exception of authorized Combative wPersonnel, and any Corporation Personnel will be ordered to respawn, else risk being designated “Kill on Sight”: Any weapon that may only be obtained via commands, Any experimental/anomalous weapons, Nova Dominion weaponry, Flamethrowers, RPG-7's and Miniguns. The only exception to this sub-clause is only for the obtaining of anomalous weapons/upgraded weapons from entities for members of the Security Corps Task Force Detachment "The Crazies", members of the Security Corps internally ranking “Security Supervisors” and above, members of the Security Corps with authorization from the aforementioned personnel, and members of the Innovation Department who are carrying out tests.*
+*f) Dimension altered weapons (anomalous weaponry) may be authorized for usage by operatives of Task Force Detachment "Nothing to See Here" and "The Crazies" ranking "Crazy Advisor"+.*
 
 7) A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.
 
