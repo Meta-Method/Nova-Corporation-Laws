@@ -539,21 +539,13 @@ Any Personnel not yet listed
 
 *a) Areas within the Test Subject Zone used solely for the purpose of guarding from Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel.*
 
-*b) The Regulations Department Sector within the Test Subject Zone is restricted to Regulations Personnel, and personnel ranking Classification - A and above. Members of the Regulations Department may grant access to the RD Sector to other personnel during interviews or for other affairs that involve those concerned and the Regulations Department.*
+*b) The Briefing Area is restricted to Departmental Personnel only.*
 
-*c) The Innovation Department Sector within the Test Subject Zone is restricted to Innovation Personnel, and personnel ranking Classification - A and above.*
+*c) The Guidance booth is restricted to Regulations Department personnel, if none are online, other departmental personnel may take their place. NCMs are not allowed inside unless taking shelter from an active hostile threat.*
 
-*d) The Security Corps Armory within the Upper Test Subject Zone is restricted to Security Personnel, Engineering Department Personnel who are restocking resources for Security Personnel and personnel ranking Classification - O and above.*
+*d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to their respective Departmental Members only. These respective Departmental Members can grant temporary authorization into their sectors.*
 
-*e) The Engineering Department Hangars within the Upper Test Subject Zone is restricted to Engineering Personnel, personnel who spawn with weapons and personnel ranking Classification - A or above.*
-
-*f) Security Personnel may enter all the aforementioned places in order to check or deal with any hostile forces.*
-
-*g) Regulations Personnel may enter all the aforementioned places in order to deal with any legislation infractors.*
-
-*h) The Briefing Area is restricted to Departmental Personnel only.*
-
-*i) The Guidance booth is restricted to Regulations Department personnel, if none are online, other departmental personnel may take their place. NCMs are not allowed inside unless taking shelter from an active hostile threat.*
+*e) Regulations Personnel may enter all the aforementioned places in order to deal with any legislation infractors.*
 
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
