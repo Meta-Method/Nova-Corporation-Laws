@@ -11,6 +11,15 @@ In order to be a Class - A, one or more of the following conditions must be met:
  **-** Honor rank achieved due to development work (only attributed by the Administrator)  
  **-** Approved by the Overwatch
 
+## Expectations
+All Class - As are to:
+- Remain continuously active, loyal and dedicated to the Corporation.
+- Be a helpful and kind member of the community.
+- Contribute to reading Class - D applications.
+- Engage the community.
+- Be encouraging to others, as well as for the Corporation.
+- Continuously be trusted and consistently meet expectations.
+
 ## Applications
 Class - A have the ability to read and review pending applications for Test Subjects applying for the Class - D rank. Members at the rank of Class - A are required to properly read said application and process such without bias.
 
