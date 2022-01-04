@@ -156,6 +156,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *e) Engineering Personnel are granted permission to utilise E-004 should any corporation personnel request a drink(s). However, Innovation Department tests are prioritised should a clash happen.*
 
+*f) Non-Combative Personnel may only make use of Gray Threat Level drinks from E-004 and Green Threat Level drinks if absolutely required. The document listing these drinks may be found here: https://docs.google.com/spreadsheets/d/1UHByJskO_e10wfAMcFNsFq-rH152do_XI4UXVBCHdK8/edit?usp=sharing*
+
 4) Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
 *a) Any article worn must not be immature, inappropriate, or subversive in any form from all distances.*
