@@ -533,8 +533,6 @@ Any Personnel not yet listed
 
 *d) Any Nova Corporation Member or Visitor, as well as being escorted by an Innovation Department Member during an Entity Showcase are allowed in the Lower Entity Area, and the first part of the Entity Chambers, but not the Containment Chamber itself. If an NCM does not stick with the Innovation Department escort, then he is in violation of this clause, and is to be considered "Detain on Site".*
 
-*e) Any Nova Corporation Member is allowed to enter the Entity Area when the cafeteria is open to order only Grey Threat Level Drinks and Green Threat Level Drinks (e.g. Heal) if absolutely required. The document listing these drinks may be found here: https://docs.google.com/spreadsheets/d/1UHByJskO_e10wfAMcFNsFq-rH152do_XI4UXVBCHdK8/edit?usp=sharing*
-
 7) The Test Subject Zone in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
 *a) Areas within the Test Subject Zone used solely for the purpose of guarding from Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel.*
