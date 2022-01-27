@@ -360,6 +360,10 @@ Personnel as “Innovation Department”
 
 ↓
 
+Personnel as "Engineering Department" utilizing Entity - 004 or conducting Containment Chamber checks
+
+↓
+
 Any Personnel not yet listed
 
 *d) The Main Encampment:*
