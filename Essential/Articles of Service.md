@@ -591,6 +591,11 @@ Any Personnel not yet listed
 
 *a) “Proper legislation” is defined as legislation that restricts it to certain personnel in Article 2; Subsection 3:1.*
 
+16) Regulations Personnel and their accompanying Test Subject(s) and escort(s) may be granted access to any area under the circumstance that the corresponding department member authorizes use of that area during a Site Showcase.
+
+*a) The Forward Operating Base is authorized by Security Corps Task Force Detachment “Iron Fist”. Any other area is authorized by the Security escort, as long as they have access to said area.*
+
+
 
 
 
