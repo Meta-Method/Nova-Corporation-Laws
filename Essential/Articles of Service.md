@@ -89,9 +89,9 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 1) All Nova Corporation Personnel are to treat all other Nova Corporation Personnel, and Nova Corporation Property with respect, with no discrimination or exception.
 
-*a) Nova Corporation Property includes, but is not limited to, Test Subjects, Vehicles, and Weapons.*
+*a) Nova Corporation Property includes, but is not limited to, Test Subjects, Vehicles, and crafted utilities (e.g. chairs or crates).
 
-*b) All Nova Corporation Personnel are disallowed to issue unnecessary insults with an offensive tone to them.*
+*b) All Nova Corporation Personnel are disallowed to issue unnecessary insults with an offensive tone to other personnel*
 
 2) Discussion, Hinting, and Distribution of restricted material is strictly prohibited in an area where personnel of relatively lower access to said material is present or could be present. Restricted material may be discussed with fellow Corporation Personnel who also have the required access, but in a private environment.
 
