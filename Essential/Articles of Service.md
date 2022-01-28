@@ -521,7 +521,7 @@ Any Personnel not yet listed
 
 *b) Engineering Personnel may be allowed access to areas of the tundra under the circumstance that they are transporting items or personnel, or per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to build a structure or fortification.*
 
-*c) Regulations Personnel may be allowed access to areas of the tundra per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to apprehend a law infractor. Regulations Personnel and their accompanying Test Subject(s) may also access the tundra while performing a patrol or site showcase with a Security Corps escort.*
+*c) Regulations Personnel may be allowed access to areas of the tundra during patrols, when using a humvee or per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to apprehend a law infractor. Regulations Personnel and their accompanying Test Subject(s) may also access the tundra while performing a patrol or site showcase with a Security Corps escort.*
 
 *d) Any Personnel may be allowed access to cross the tundra on a vehicle driven by an Engineering Personnel with a clear and reasonable intention.*
 
