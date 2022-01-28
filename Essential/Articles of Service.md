@@ -529,6 +529,8 @@ Any Personnel not yet listed
 
 *a) Engineering Personnel at all times are to stay in their designated areas, and will follow Security Corps commands should they not be.*
 
+*b) Regulation Personnel internally ranking Regulating Official and above may only enter the Forward Operating Base with permission from Security Corps Task Force Detachment “Iron Fist”.*
+
 6) The Entity Area in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
 *a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Engineering Personnel, Innovation Personnel internally ranking Novice or above with the purpose of conducting a test OR using 004, Regulations Personnel internally ranking Senior Regulating Official or higher and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3, as well as NCMs following the condition stated under sub-clause e under this clause.*
@@ -555,13 +557,13 @@ Any Personnel not yet listed
 
 9) Areas that can be reasonably described as being owned by a force that is not the Nova Corporation is restricted to all personnel except personnel ranking Classification - O and Security Personnel.
 
-10) The Underwater Sector in general is restricted to Security Personnel and Engineering Personnel.
+10) The Underwater Sector in general is restricted to Security Personnel, Engineering Personnel and Regulations Personnel internally ranking Regulating Official or above.
 
 *a) Innovation Personnel internally ranking Expert Innovator or above may enter, along with proper testing personnel, for the express purpose of Innovation. When not testing, permission from the Innovation Department directorate is required.*
 
 *b) Regulation Personnel are authorized to enter the Underwater Sector regardless of rank , under the condition that there is an AoS infractor inside the Underwater Sector, and there are Security Personnel available to escort them out of the sector.*
 
-*d) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking Triggerman or above have been granted the ability to grant other personnel access to any area within the Under Water Sector.*
+*c) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking Triggerman or above have been granted the ability to grant other personnel access to any area within the Under Water Sector.*
 
 11) Ore deposit areas at TSZ, and Power Plant are restricted to members of the Security Corps, Engineering Department, and NCM's ranking Classification-O+.
 
@@ -767,6 +769,8 @@ Any Personnel not yet listed
 *a) Upon issuing a punishment, the Regulations Department must inform the plaintiff of the punishment, with appropriate documentation detailing the case.*
 
 3) Regulation personnel internally ranking Chief Regulating Official+ on the Regulations Department team are granted permission to issue a Detain-on-Site order for a Nova Corporation Member if deemed necessary and with valid reason.
+
+4) Regulation Personnel internally ranking Regulating Official and above on the Regulations Department team are granted permission to make use of humvees for patrols around the site.
 
 
 ## **Section 5: The Department of Operations**
