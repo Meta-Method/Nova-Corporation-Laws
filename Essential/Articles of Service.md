@@ -832,24 +832,28 @@ Ratification of the Articles of Service requires signature denoting approval fro
 
 **TimorousDasher**, Overseer, Regulations Department
 
-**EntropicLocality**, C-X Commandant, Department of Operations
+**(Pending)**, C-X Commandant, Department of Operations
 
-**lolnowhat2**, General, Security Corps
+**(Pending)**, General, Security Corps
 
-**epicdragon1786**, Head Commander, Security Corps
+**Scorpio0270**, Overseer, Innovation Department
 
-**dinosaurtom**, Commander, Security Corps
+**DranonRen0**, Chairman, Engineering Department
 
-**marionette230**, Director, Innovation Department
+**(Pending)**, Head Commander, Security Corps
 
-**DrRhovus**, Deputy Director, Innovation Department
+**AstralVectris**, Commander, Security Corps
+
+**Lizarynth**, Director, Innovation Department
+
+**DogePurpose**, Deputy Director, Innovation Department
 
 **AviatorCxxl**, Director of Regulations, Regulations Department
 
-**(Pending Assistant Director)**, Assistant Director, Regulations Department
+**Ari_Grandelover16**, Assistant Director, Regulations Department
 
-**Rickew**, Legislative Head, Regulations Department
+**Rickew**, Assistant Director, Regulations Department
 
-**thegamingswatpro123**, Legislative Experienced Regulator, Regulations Department
+**(Pending)**, Legislative Head, Regulations Department
 
-**mystery3525**, Executive Drone, Department of Operations
+**(Pending)**, Executive Drone, Department of Operations
