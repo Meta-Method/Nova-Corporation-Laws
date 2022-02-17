@@ -457,47 +457,26 @@ Any Personnel not yet listed
 
 ## **Section 1: Miscellaneous Rights and Restrictions**
 
+### Definitions:
+**Regulate:** “Regulate” is defined as setting forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.
+**Hostile Groups:** The terminology "Hostile Groups" includes The Red Wolves, any possible remaining Nova Dominion Operatives, or any group that poses a threat to the Corporation. E.g. hostile Test Subjects are considered under the terminology "Hostile Groups".
+
+
 1) All Test Subjects are to be considered Nova Corporation Property, as such, unnecessary termination of Test Subjects is unlawful.
 
-*a) Test Subjects may be terminated if a Security Personnel has the ability to do so under Article 3, Section 2, Clause 3.*
+*a) Termination may ensue if Section 2, Clause 3 is satisfied.*
 
-*b) Test Subjects may be terminated if found to have acquired any tool not granted to them through lawful circumstances, hereby referred to as “contraband”.*
-
-*c) Test Subjects may be terminated if they are directly or indirectly threatening the life of a Corporation Personnel.*
-
-*d) Test Subjects have been granted the single right to decline testing or questioning, so long as there are other available Test Subjects.*
-
-2) The Security Corps Task Force Detachment “Iron Fist”, and by proxy any authority higher, have been granted the ability to regulate all Leopard 2a6 tanks.
-
-*a) “Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.*
-
-*b) Laws on termination also apply to vehicles, with the exception of termination via “running over” personnel, which may be acceptable should said personnel walk in front of a moving vehicle.*
+2) Members of the Security Corps Task Force Detachment “Iron Fist” have full ability to regulate; and maintain Vehicles designated for combat & Non-Combat purposes, such as The 2A6 Leopard; Armed Humvees; UH-60 “Black Hawk;” CV-22 “Osprey.”
 
 3) The Security Corps have been granted the ability to regulate all Humvees, regardless of whether it is armed or not.
 
-*a) “Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.*
-
-*b) Laws on termination also apply to vehicles, with the exception of termination via “running over” personnel, which may be acceptable should said personnel walk in front of a moving vehicle.*
-
 4) The Security Corps has been granted the ability to terminate all Nova Corporation Personnel found actively assisting hostile groups.
 
-*a) The terminology "Hostile Groups" includes The Red Wolves, any possible remaining Nova Dominion Operatives, or any group that poses a threat to the Corporation.*
-
-*b) Hostile Test Subjects are considered under the terminology "Hostile Groups".*
-
-5) For the UH-60 “Black Hawk” vehicles and CV-22 “Osprey” vehicles, the ability to regulate said vehicles is delegated to the respective authority whomever has ownership of said vehicle.
-
-*a) “Regulate” defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.*
-
-*b) Laws on termination also apply to vehicles, with the exception of termination via “unintentionally killing” personnel, which may be acceptable should said personnel is in the way of a moving vehicle.*
+5) For the UH-60 “Black Hawk” vehicles and CV-22 “Osprey” vehicles, the ability to regulate said vehicles is delegated to the respective authority whoever has ownership of said vehicle.
 
 6) Any Nova Corporation Personnel in violation of Article 2, Section 3, Sub-Section 3.1 may be terminated.
 
-7) The Engineering Department has been granted the ability to regulate all Regular Trucks.
-
-*a) “Regulate” is defined as set forth rules and policies for operation of the stated vehicles, and authorize, deauthorize, and ban Corporation Personnel from utilizing stated vehicles.*
-
-*b) Laws on termination also apply to vehicles, with the exception of termination via “running over” personnel, which may be acceptable should said personnel walk in front of a moving vehicle.*
+7)The Engineering Department has been granted the ability to regulate all Regular Trucks.
 
 
 
@@ -519,37 +498,37 @@ Any Personnel not yet listed
 
 *f) The person(s) may not be terminated under any circumstance if they are at or above the ranking Classification - O, or are within the Department of Operations team.*
 
-2) The Security Personnel are required to satisfy requests for Test Subjects from the Innovation Department by responding to tablet requests and including verbal response on the radio. They are to also respond to the Regulations Department and to the Engineering Department through radio when retrieving their requests.
+2) Security Personnel are required to satisfy requests for Test Subjects from the Innovation Department; Regulations department; or the Engineering department by responding to tablet requests and including verbal responses on the radio. 
 
-*a) Security Personnel may decline a test, interview or site showcase with valid reason, some include: multiple security emergencies throughout the site, active hostile raid, on-going Test Subject riot, insufficient amount of Security Personnel to maintain security and host tests. Security Personnel may decline a test during an active entity breach.*
+*a) Security Personnel may decline a request for a Test Subject with a valid reason, such as raids and riots.*
 
-*b) In a scenario where an Innovation Personnel requests a Test Subject, the Combative must take priority to retrieve the Test Subject for the Innovation Personnel.*
+*b) In a scenario where an Innovation Personnel requests a Test Subject, the Combative must prioritize retrieving the Test Subject for the Innovation Personnel.
 
-3) Test Subjects may be terminated by the Security Corps at any time if a below condition is satisfied:
+3) Test Subjects may be terminated by the Security Corps at any time if the below conditions are satisfied:
 
-*a) Said Test Subject is able to be lawfully terminated under Article 3, Section 1, Clause 1 unless Article 3, Section 1, Clause 1 conflicts with a subclause below.*
+*a) Said test subject wields contraband; or discharges a weapon.*
 
-*b) Said Test Subject displays or discharges a firearm of any caliber, unless the firearm is utilized during testing and granted permission by the both Innovation Personnel and Security Personnel.*
+*b) Said Test Subject surpasses the allocated three warnings.*
 
-*c) Said Test Subject surpasses the allocated three warnings.*
+*c) Said Test Subject becomes physically unresponsive to commands or inquiries for several minutes.*
 
-*d) Said Test Subject becomes physically unresponsive to commands or inquiry for several minutes.*
+*d) Said Test Subject attempts to escape Nova Corporation custody and/or cause disruptions to the running of the area.*
 
-*e) Said Test Subject makes an attempt to, or succeeds in, escaping Nova Corporation custody, disrupting other Nova Corporation processes, or otherwise causing disruptions through stealing Nova Corporation Property.*
+*e) Said Test Subject intentionally or unintentionally breaches an entity, unless granted permission by an Innovation Personnel overseeing a test, and a “The Crazies” operative.*
 
-*f) Said Test Subject intentionally or unintentionally breaches an entity, unless granted permission by an Innovation Personnel overseeing a test, and an able-bodied representative of Security Corps Task Force Detachment “The Crazies”.*
+*f) Said Test Subject is affected with an anomalous effect, to which they pose an immediate threat to Corporation Personnel; Unless the immediate threat is a result of the test.*
 
-*g) Said Test Subject is affected with an anomalous effect, to which they pose an immediate threat to Corporation Personnel; Unless the immediate threat is a result of the test.*
+*g) Termination order is given by the Innovation Personnel presiding over the test, and the said Test Subject is permanently affected by any anomalous effect.*
 
-*h) Termination order is given by the Innovation Personnel presiding over the test, and the said Test Subject is permanently affected by any anomalous effect.*
+*h) Said ‘Test Subjects’ have the ability to decline tests; interviews; or Site Showcases.*
 
-4) Security Corps Task Force Detachment “The Armed Gentleman” have been unequivocally granted the special ability to, if a Corporation Personnel ranking Classification - O or greater requests such, for any Security Personnel of the Task Force Detachment to inherit the Legislative Immunities of such a Personnel, and act on behalf of said personnel allows such.
+4) Security Corps Task Force Detachment “The Armed Gentleman” have been unequivocally granted the special ability to if a Corporation Personnel ranking Classification - O or greater requests such, for any Security Personnel of the Task Force Detachment to inherit the Legislative Immunities of such a Personnel, and act on behalf of said personnel allows such.
 
-*a) “Legislative Immunities” defined as any sort of special cases where a Corporation Personnel may do something, or be allowed something which others cannot. Termination of other Corporation Personnel, Trespassing, and Dress Code are included, but this list is not exhaustive.*
+*a) “Legislative Immunities” are defined as any sort of special cases where a Corporation Personnel may do something, or be allowed something which others cannot. Termination of other Corporation Personnel, Trespassing, and Dress Code is included, but this list is not exhaustive.*
 
-*b) Security Corps Task Force Detachment “The Armed Gentleman” does not enjoy the express authority of the personnel they are defending, and may not issue commands on behalf of said personnel, however may be granted permission to enter any location of access to continue protection of said personnel, so long as said personnel requests such.*
+*b) Security Corps Task Force Detachment “The Armed Gentleman” does not enjoy the express authority of the personnel they are defending, and may not issue commands on behalf of said personnel, however, may be granted permission to enter any location of access to continue protection of said personnel, so long as said personnel requests such.*
 
-*c) Termination of Corporation Personnel subordinate to the protected Corporation Personnel may be acceptable to ensure continuous security of a protected personnel, such as continuously breaching a security perimeter, threatening a protected personnel, et cetera.*
+*c) Termination of Corporation Personnel subordinate to the protected Corporation Personnel may be acceptable to ensure continuous security of the conditions protected personnel, such as continuously breaching a security perimeter, threatening a protected personnel, et cetera.*
 
 5) Security Corps personnel are forbidden to disable the power generators located at the Main Encampment unless the following conditions are met:
 
@@ -559,11 +538,12 @@ Any Personnel not yet listed
 
 *c) It will guarantee an advantage to Security personnel against the Hostile Forces.*
 
-*d) It will aid in the recontainment or the handling of an entity. This condition can be met without meeting the other conditions.*
+*d) It will aid in the re-containment or the handling of an entity. This condition can be met without meeting the other conditions.*
 
-6) During an active test that falls under the conditions of Article 2, Section 3, Clause 1; Security Corps members that are a part of the test must supply any resources if they are reasonable in nature. 
+6) During an active test that falls under the conditions of Article 2, Section 3, Clause 1; Security Corps members that are a part of the test must supply any resources if they are reasonable in nature.
 
-*a) “Reasonable in nature” is defined as needed for the test in the form of transport, weapons (only handled by the combative), and any other objects that are required during the test. The objects must not also be banned by the Articles of Service, will not risk the harming of other members of the Nova Corporation, and isn’t controlled by a hostile force.*
+*a) “Reasonable in nature” is defined as needed for the test and does not pose a threat to other Corporation Personnel.*
+
 
 
 ## **Section 3: The Innovation Department**
@@ -573,15 +553,15 @@ Any Personnel not yet listed
 
 *a) All testing must be relatively safe in nature, and not cost the lives of Corporation Personnel.*
 
-*b) All Test Subjects and Security Personnel participating are to be informed of what they are to do prior to the test occuring.*
+*b) All Test Subjects and Security Personnel participating are to be informed of what they are to do prior to the test occurring.*
 
 *c) All Test Subjects and Security Personnel are not to be subjected to extra steps not related to the test specifically.*
 
 *d) All tests must seem hypothetically possible in the sense that the testing question does not seem random; An invalid question being if one action causes or is related to a completely different reaction.*
 
-*e) Any test conducted with the intention of terminating an anomaly requires a majority approval from the Class-X Overwatch and one member from the ID Directorate.*
+*e) Any test conducted with the intention of terminating an anomaly requires majority approval from the Class - X Overwatch and one member from the Innovation Directorate.*
 
-2) Corporation Personnel ranking Classification - O and above, Regulations Personnel, and Operations Personnel may question any Innovation Personnel in regards to any aspect of their test.
+2) Corporation Personnel ranking Classification - O and above, Regulations Personnel and Operations Personnel may question any Innovation Personnel in regards to any aspect of their test.
 
 *a) Said Innovation Personnel must answer truthfully to the best of their ability.*
 
@@ -589,40 +569,41 @@ Any Personnel not yet listed
 
 *c) Said Innovation Personnel may disallow the listed Personnel above to question them and spectate if the test in question has been restricted by the Innovation Department’s assigned personnel ranking Classification - X; And proof must be provided at the time of request.*
 
-3) Internally enforced by the Innovation Department, Innovation Personnel are only allowed to test on Entity Threat Levels granted to them as such by the highest authority of the Innovation Department, or listed below:
+3) Internally enforced by the Innovation Department, Innovation Personnel are only allowed to test on Entity Threat Levels granted to them by their rank:
 
-*a) Green and Yellow Threat Level Entities may be tested by Innovation Novices and above without supervision.*
+*a) Green and Yellow Threat Level Entities may be tested by Novices and above without supervision.*
 
-*b) Orange Threat Level Entities may be tested by Innovation Innovators and above.*
+*b) Orange Threat Level Entities may be tested by Innovators and above.*
 
-*c) Red Threat Level Entities may be tested by Innovation Innovators with permission from Innovation Head Innovators and above, and Advanced Innovators and above without supervision*
+*c) Red Threat Level Entities may be tested by Innovators with permission from Innovation Head Innovators and above, and Advanced Innovators and above without supervision.*
 
 *d) Black Threat Level Entities may only be tested by Innovation Expert Innovators with supervision from the Innovation Deputy Director and above, Innovation Senior Innovators with permission from the Innovation Deputy Director and above, and Innovation Head Innovator and above without supervision.*
 
-*e) White Level Entities may only be tested by the Innovation Deputy Director and Director with permission from the Innovation Overseer, and the Innovation Overseer without permission.*
+*e) White Level Entities may only be tested by the Innovation Department Deputy Director and Director with permission from the Innovation Overseer, and the Innovation Overseer without permission.*
 
 4) All personnel present within a test must return to an area they have access to, as specified under Article 2, Subsection 3.1.
 
-*a) Test Subjects, remaining after the test is concluded, may not be terminated by Security Corps personnel and must be escorted back to the Test Subject Zone unless the Test Subject(s) have been affected by an entity which possibly or indefinitely causes harm and/or effect to others and/or their surroundings.*
+*a) Test Subjects, remaining after the test is concluded, may not be terminated by Security Corps personnel and must be escorted back to the Test Subject Zone unless Articles 3 Section 2 Clause 3 is satisfied.
 
-*b) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it. Said Test Subject may decline being used in another test, as long as the tests are not conjoined.*
+*b) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it. Said Test Subject may decline being used in another test, as long as the tests are not conjoined.
+
 
 
 
 ## **Section 4: The Regulations Department**
 > The Regulations Department has the chief responsibility of maintaining, amending, and enforcing the Articles of Service under most circumstances, and forth internal policies disconnected from the Articles of Service for such actions. The following regulation clauses apply to all personnel of the Regulations Department, while being on their own team, and also include any regulations stated in the Regulations Departmental Guidelines:
 
-1) Regulation Personnel may not intentionally mislead or fabricate any official response to a question regarding regulations or legislation.
+1) Regulations Personnel may not intentionally mislead or fabricate any official response to a question regarding regulations or legislation.
 
-*a) Regulation Personnel may not divulge elements relating to an active case, including witnesses into any location to which personnel below the ranking of Classification - O, or other Regulation Personnel, may view.*
+*a) Regulations Personnel may not divulge elements relating to an active case, including witnesses into any location to which personnel below the ranking of Classification - O, or other Regulation Personnel, may view.*
 
-2) Regulation Personnel who are in the process of investigating Corporation Personnel may not ask questions not related to the case, arbitrarily question Corporation Personnel without reasonable evidence of involvement or witness to the event, and abuse any tools or resources provided to investigate a case.
+2) Regulations Personnel who are in the process of investigating Corporation Personnel may not ask questions not related to the case, arbitrarily question Corporation Personnel without reasonable evidence of involvement or witness to the event, and abuse any tools or resources provided to investigate a case.
 
 *a) Upon issuing a punishment, the Regulations Department must inform the plaintiff of the punishment, with appropriate documentation detailing the case.*
 
-3) Regulation personnel internally ranking Chief Regulating Official+ on the Regulations Department team are granted permission to issue a Detain-on-Site order for a Nova Corporation Member if deemed necessary and with valid reason.
+3) Regulations personnel internally ranking Chief Regulating Official+ on the Regulations Department team are granted permission to issue a Detain-on-Site order for a Corporation Member if deemed necessary and with valid reason.
 
-4) Regulation Personnel internally ranking Regulating Official and above on the Regulations Department team are granted permission to make use of humvees for patrols around the site.
+4) Regulations Personnel internally ranking Regulating Official and above on the Regulations Department team are granted permission to utilize the Unarmoured Humvees.
 
 
 ## **Section 5: The Department of Operations**
@@ -642,18 +623,17 @@ Any Personnel not yet listed
 
 *a) The Department of Operations base.*
 
-
 *b) The Underwater Sector.*
 
 *c) The innermost area of the Entity Area.*
  
-2) The Engineering Department is granted the ability to procure unarmed vehicles and other craftable items independently. They may craft weapons banned under Article 2; Section 2; Clause 6 given a Security Corps member has requested it. Armed humvees and other armored vehicles may be procured if requested by appropriate personnel, or there is an obvious and undeniable preemptive need of such vehicles (Ex. If there are no armored humvees present within the Forward Operating Base).
+2) The Engineering Department is granted the ability to procure and craft anything with a valid reason, such as, a member of the Security Corps requested it, or it is used for transportation of ores.
 
-3) The Engineering Department has exclusive authority over large-scale activities requiring physical assets (Including, but not limited to; ores, vehicles, craftables, and fortifications). These activities, if conducted by other departments, must be first approved by an ED Core Branch Manager+. Internally, such activities are regulated as per Article 3, Section 6, Clause 4 unless directly overseen by ED project leaders.
+3) The Engineering Department has exclusive authority over large-scale activities requiring physical assets. These activities, if conducted by other departments, must be first approved by an Engineering Department Member ranking Manager or above. Internally, such activities are regulated as per Article 3, Section 6, Clause 4 unless directly overseen by Engineering project leaders.
 
-4) Engineering Department personnel may not utilize corporate resources in an excessive and/or superfluous fashion. They also may not use these resources to directly aid any hostile force. These infractions will be dealt with case-by-case, and are up to the judgement of the corresponding branch Hierarchies.
+4) Engineering Personnel may not utilize corporate resources in an excessive and/or superfluous fashion. They also may not use these resources to directly aid any hostile force.
 
-5) Aerial vehicles may be procured independently by all ED personnel if needed, however the permission to operate said vehicles require the fulfillment of internal departmental criteria (namely certification), or the supervision/authorization of other corporate personnel with the appropriate permissions.
+5) The permission to operate aerial vehicles requires the fulfillment of internal departmental criteria (namely certification), or the supervision/authorization of other corporate personnel with the appropriate permissions.
 
 
 
