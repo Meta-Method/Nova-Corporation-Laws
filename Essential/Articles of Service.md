@@ -199,11 +199,11 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *a) In the event that a Corporation Personnel is unable to attain a safe location in time to avoid hostiles, said Corporation Personnel may defend themselves without breaking any other clause in the Articles of Service.*
 
-*b) In the scenario of hostiles in the lower Entity Area during an official Innovation Department test described under Article 3, Section 3, all participating in the test are to follow the procedure as written in their respective guidelines.
+*b) In the scenario of hostiles in the lower Entity Area during an official Innovation Department test described under Article 3, Section 3, all participating in the test are to follow the procedure as written in their respective guidelines.*
 
 11) Only Corporation Personnel who spawn with weapons and Engineering Personnel may manipulate, manage, and store all mineral resources, and non-anomalous drinks.
 
-*a) Engineering Personnel internally ranking "Manager" or above may terminate personnel beneath in command as listed in Article 2 Section 3 violating this clause within reason.
+*a) Engineering Personnel internally ranking "Manager" or above may terminate personnel beneath in command as listed in Article 2 Section 3 violating this clause within reason.*
 
 *b) Personnel ranking Classification - O may utilize all mineral resources within reason.*
 
@@ -215,9 +215,9 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 13) Outer dimensions of any kind may not be accessed or used in any way. 
 
-*a) Security Corps Task Force Detachment "The Crazies" is exempt from this law and is authorized to fully have access to all dimensions in every shape or form.
+*a) Security Corps Task Force Detachment "The Crazies" is exempt from this law and is authorized to fully have access to all dimensions in every shape or form.*
 
-*b) The following have been granted the ability to authorize anyone to enter a given dimension following this chain of command; Security Corps General; Classification - X; "the Crazies" personnel internally ranking "Crazy Advisor"; Innovation Directorate.
+*b) The following have been granted the ability to authorize anyone to enter a given dimension following this chain of command; Security Corps General; Classification - X; "the Crazies" personnel internally ranking "Crazy Advisor"; Innovation Directorate.*
 
 14) Nova Corporation Personnel should not rope any bodies.
 
