@@ -3,12 +3,12 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 # **Article 1: The Nova Corporation**
 
 ## **Section 1: Prose**
-> The Nova Corporation’s sole purpose is to uphold the will of the Class-X Overwatch. These Articles are approved by the Class-X Overwatch as a method of regulating any personnel of ranking Class-D or above, with the exception of members ranking Class-X.
+> The Nova Corporation’s sole purpose is to uphold the will of the Class - X Overwatch. These Articles are approved by the Class - X Overwatch as a method of regulating any personnel of ranking Classification - D or above, with the exception of members ranking Classification - X.
 
 ### **Definitions**
-**Class-X Overwatch:** A group of individuals holding the highest clearance within The Nova Corporation, Classification - X, and are the only beings with the authority to regulate entities of the White threat level.
+**Class - X Overwatch:** A group of individuals holding the highest clearance within The Nova Corporation, Classification - X, and are the only beings with the authority to regulate entities of the White threat level.
 
-**Department:** A specialized group within the Nova Corporation, led typically by one personnel ranking Class-O, assisted by another personnel ranking Classification - O, and broadly overseen by one member of the Class-X Overwatch.
+**Department:** A specialized group within the Nova Corporation, led typically by one personnel ranking Class-O, assisted by another personnel ranking Classification - O, and broadly overseen by one member of the Class - X Overwatch.
 
 **Entity:** An anomalous person, place, or thing that typically does not follow the current knowledge of reality. The Nova Corporation captures and contains entities for Innovation and Research.
 
@@ -17,7 +17,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 **Threat Level:** A method of classification for entities. Threat Levels range from, in ascending order of security, Green, Yellow, Orange, Red, Black, and White.
 
 ### **Clarification**
-**Corporation Personnel:** Any and all personnel ranking Classification - D, to Classification - O, while on a team related to the Nova Corporation.
+**Corporation Personnel:** Anyone who is ranked Classification - D to Classification - O in the Nova Corporation.
 
 **Innovation Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Innovation Department team.
 
@@ -30,54 +30,60 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 **Engineering Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Engineering Department team.
 
 
+
 ## **Section 2: Base Law**
 > Universal Corporation Legislation that, due to its fundamental nature, is required to take precedence over all otherwise stated clauses in other sections.
 
-1) Classification - X is the highest ranking clearance in the Nova Corporation. The corporation was created entirely to serve members ranking Classification - X, henceforth shortened to the Class-X Overwatch. These Articles of Service are not bound to the Class-X Overwatch, and management of the Class-X Overwatch is outside the scope of this document.
+1) Classification - X is the highest-ranking clearance in the Nova Corporation. The Classification - X shortened is Class - X Overwatch. The Articles Of Service is not bound to the Class - X Overwatch, and management of the Class - X Overwatch is outside this document.
 
-2) Classification - O is the second highest clearance in the Nova Corporation. Members ranking Classification - O, henceforth shortened to the Site Overwatch, are entrusted with access to a majority of the Nova Corporation’s entities and personnel. Because of their responsibilities, all members with the rank of Classification - O are required to maintain permanent loyalty to the Nova Corporation, from promotion to departure.
+*a) Classification - O is the second-highest rank in the Nova Corporation and has the access to the Nova Corporation resources. Henceforth shortened to the Site - Overwatch.*
 
-3) Classification - A is the highest rank available without reaching administrative levels of control, and is granted to personnel who usually hold high ranks within departments, or their sub-departments.
+*b) Classification - A is the highest achievable rank available without reaching administrative controls, this rank is usually granted to those who reach a high rank in a department or division.*
 
-4) Classification - B, Classification - C, and Classification - D are ranks with no special privileges, other than higher classifications being granted more access to more documents and areas.
+*c) The classification group ‘D - B’ are ranks with no concessions; omitting that higher classifications have been granted more access to documents & locations.*
 
-5) Classification - E is a delegation rank given to personnel who are found to have broken the Articles of Service, or otherwise ordered by the Class-X Overwatch.
+2) All deemed Nova Corporation documents & laws are deemed visible to corporation personnel unless aforementioned in these Sub-clauses:
 
-6) Any and all Corporation documents and laws are deemed publicly visible for anyone unless otherwise stated in a subclause below.
+*a) Documents may be confined to internal departments or divisions; and classifications for that document. Class-X may grant the authorization to view documents inaccessible to that classification or department.*
 
-*a) A document may be restricted if it is internal to a department or subdivision, restriction depending on the Class-X of that particular department. The Class-X of that department may also grant permission to members outside of their department or subdivision.*
+*b) Documents may be temporarily restricted if said by the Class - X.*
 
-*b) A document may be temporarily restricted by the Class-X Overwatch motion / law. This includes evidence against any member of the Corporation, regardless of rank.*
+*c) A document may be restricted if considered a ‘guide’ to an internal department or division or contains development information.*
 
-*c) A document may be restricted if it is considered a guide (See clause a) or contains classified development information.*
+*d) A document may be ‘temporarily’  restricted by the Class - X Overwatch for any reason.*
 
-*d) A document may be restricted if directly ordered by the Class-X Overwatch.*
+3) Classification - E is the delegation rank given as seen fit to anyone who has been found to have broken the Articles of Service.
 
-7) When detailing any actions “On-Site”, the Articles of Service is only bound upon states considered as “public servers”. States considered “private servers” are unbounded by the Articles of Service, and may have separate clauses only for actions “On-Site”.
+4) When considering any action ‘On-Site’, the Articles Of Service Is only bound on ‘public servers’. The Articles Of Service is exempt only from ‘private servers’.
 
-8) At no point may ANY Nova Corporation Personnel trap players in their spawn. Any sort of Spawn Trapping can result in a minimum of a 1 day C-E sentence and a Server Ban.
+5) At no point may ANY Nova Corporation Personnel trap players in their spawn. Any sort of Spawn Trapping can result in a minimum of a 1 day C-E sentence and or a ban.
 
-9) Classification of "High Rank" or commonly referred to as "High Command" is bestowed upon the following ranks of each department.
+6) Classification of "High Rank". or commonly referred to as "High Command" is bestowed upon the following ranks of each department.
 
-*a) Regulations Department personnel ranking "Division Overseer" through "Chief Regulating Official".*
+*a) Department of Operations Personnel ranking “Drone”.*
 
-*b) Innovation Department personnel ranking "Head innovator" and "Expert Innovator".*
+*b) Regulations Department personnel ranking "Division Overseer" through "Chief Regulating Official".*
 
-*c) Security Corps personnel ranking "Security Major" through "Captain".*
+*c) Innovation Department personnel ranking "Head innovator" and "Expert Innovator".*
 
-*d) Engineering Department personnel ranking "Brach Associate Director" through "Foreperson".*
+*d) Security Corps personnel ranking "Security Major" through "Captain".*
 
-10) Classification of "High Command" or commonly referred to as "Directorate" is bestowed upon the following ranks of each department.
+*e) Engineering Department personnel ranking Director of Engineering" through "Foreperson".*
 
-*a) Regulations Department personnel ranking "Overseer" through "Assistant Director".*
+7) Classification of "High Command", or commonly referred to as "Directorate" is bestowed upon the following ranks of each department.
 
-*b) Innovation Department personnel ranking "Overseer" through "Deputy Director".*
+*a) Department of Operations personnel ranking “Class - X Commandant” through “Executive Drone”.*
 
-*c) Security Corps personnel ranking "General" through "Commander".*
+*b) Regulations Department personnel ranking "Overseer" through "Assistant Director".*
 
-*d) Engineering Department personnel ranking "Chairperson" and "Board of Directors".*
+*c) Innovation Department personnel ranking "Overseer" through "Deputy Director".*
 
-11) Any and all Foreign/Visiting Personnel representing other groups are considered as VIPs on-site at that given time. They are also considered to be treated with priority over Corporation Personnel ranking below Classification - A. Foreign Personnel may be escorted by Regulations Personnel in the division "Liaison Ancillary" and Security Personnel in the Task Force Detachment "The Armed Gentleman" if necessary.
+*d) Security Corps personnel ranking "General" through "Commander".*
+
+*e) Engineering Department personnel ranking "Chairman" through “Associate Director”.*
+
+8) All representatives from other groups are considered VIPs on-site at that given time. Foreign Personnel may be escorted by Liaison Ancillary Personnel and Security Corps Task Force Detachment “The Armed Gentlemen” if necessary.
+
 
 
 
@@ -89,45 +95,36 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 1) All Nova Corporation Personnel are to treat all other Nova Corporation Personnel, and Nova Corporation Property with respect, with no discrimination or exception.
 
-*a) Nova Corporation Property includes, but is not limited to, Test Subjects, Vehicles, and crafted utilities (e.g. chairs or crates).
+*a) Nova Corporation Property includes, but is not limited to, Test Subjects, Vehicles, and crafted utilities (e.g. chairs or crates).*
 
-*b) All Nova Corporation Personnel are disallowed to issue unnecessary insults with an offensive tone to other personnel*
+*b) All Nova Corporation Personnel are disallowed to issue unnecessary insults with an offensive tone to other personnel.*
 
-2) Discussion, Hinting, and Distribution of restricted material is strictly prohibited in an area where personnel of relatively lower access to said material is present or could be present. Restricted material may be discussed with fellow Corporation Personnel who also have the required access, but in a private environment.
+2) Discussion, Hinting, and Distribution of restricted material are strictly prohibited in an area where personnel with no access to said material is present or could be present.
 
 *a) Should a breach of restricted material occur, actions dictated within the Information Breach Procedures are to be followed at all times.*
 
-3) Should a Corporation Personnel state that he or she violated, or will violate the Articles of Service, they may be treated as suspects of a violation and evidence of such is to be added to any subsequent investigations.
+3) Should a Corporation Personnel state that they violated or will violate the Articles of Service, they may be treated as suspects of a violation, and evidence of such is to be added to any subsequent investigations.
 
-4) Should a Corporation Personnel witness a perceived violation of the Articles of Service, they are to report such violation to the proper authority.
+4) Should a Corporation Personnel witness a perceived violation of the Articles of Service, they are to report such violation in the Regulations Department Public server.
 
-*a) Should a violation reference a clause within Article 2, such a violation is to be reported to the Regulations Department Public Discord.*
+5) All Corporation Personnel receiving a formal inquiry regarding any cases must respond accurately with their side in the situation, provide all possible available evidence, and cooperate with said personnel. 
 
-*b) Should a violation reference any other perceived clause be for a personnel on a specific department, the violation would then be reported to the department’s high command, and transferred from there.*
-
-5) All Corporation Personnel receiving a formal inquiry regarding their actions or past actions by an authorized representative from the Regulations Department or Department of Operations must respond accurately with their side in the situation, and provide all possible available evidence, and cooperate with said personnel. 
-
-*a) Personnel may not falsely claim to be a witness in an infraction. In addition, personnel may not abstain from questioning to protect the infractor.*
-
-*b) The forgery of images that may affect an investigation (An example would be someone forging evidence to incriminate an employee/forging proof countering the actual evidence ) is prohibited. Such actions will result in the forger facing punishment regardless if it has a small or large impact on the case.*
+*a) Personnel may not falsely claim to be a witness in an infraction, or forge any evidence. In addition, personnel may not abstain from questioning to protect the infractor.*
 
 6) All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel, within any Nova Corporation Site or communications platform. Impersonation of personnel includes the following actions:
 
-*a) Wearing an official, or something closely resembling that of an department or sub-department uniform without being a member of said department or sub-department.*
+*a) Wearing an official, or something closely resembling that of a department or sub-department uniform without being a member of said department or sub-department.*
 
-*b) Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.
+*b) Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.*
 
-*c) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.
-
-*d) Obtaining and/or playing as a team for a department or sub-department you are not a member of, with the exception of the Test Subject team.
+*c) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.*
 
 7) All Corporation Personnel are forbidden from colluding with any force hostile to the Nova Corporation.
 
-*a) Any personnel that use the Test Subject auction are in violation of this clause.*
+*a) Any personnel that uses the Test Subject auction are in violation of this clause.*
 
-8) Corporation Personnel ranking Classification-E are not allowed to leave and rejoin the Corporation in the middle of their punishment sentence. Leaving in the middle of a C-E sentence would lead to an extension of the issued C-E sentence and a demotion to "Test Subject”.
+8) All Corporation Personnel are forbidden from encouraging others to break the clauses in the Articles of Service.
 
-9) All Corporation Personnel are forbidden from encouraging others to break the clauses in the Articles of Services for any reason.
 
 ## **Section 2: On-Site Behaviour**
 > Any clause within this section is to be followed on any and all official Nova Corporation sponsored sites. Current sites include the Nova Corporation Research Installment, designation 11.
@@ -138,65 +135,59 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *b) Authorization of personnel to enter an area that they are not, by default, allowed to have access to depends on the situation, location, and prior access detailed in Article 2, Subsection 3.1.*
 
-2) All Corporation Personnel are to follow orders, within reason, of personnel superior to their own authority. The first priority for authority is a personnel’s assigned rank within the department of a team a personnel is a part of, if applicable, followed by rank within the sub-department, as allowed by the Class-X Overseer of the specific department. Secondly, authority outside of one department is to be followed as described in Article 2, Section 3.
+2) All Corporation Personnel are to follow orders, within reason, of personnel superior to their authority. The first priority for authority is a personnel’s assigned rank within the department of a team the personnel is a part of, if applicable, followed by rank within the sub-department, as allowed by the specific department’s Classification - X. Secondly, authority outside of one department is to be followed as described in Article 2 Section 3.
 
-*a) “Within reason” defined as an order that does not directly violate, or cause an indirect violation of the Articles of Service.*
+*a) “Within reason” is defined as an order that does not directly violate, or cause an indirect violation of the Articles of Service.*
 
-3) All Corporation Personnel are not allowed to willingly allow themselves or others to interact with an entity in any way.
+3) All Non-Departmental Personnel are not allowed to willingly allow themselves or others to interact with an entity in any way.
 
-*a) Security Corps and the Department of Operations have been granted the ability to regulate the usage of entities in their own guidelines.*
+*a) The ability to regulate and authorize the usage of Entity - 004 has been fully delegated to the Innovation Department directorate.*
 
-*b) The ability to regulate and authorize the usage of Entity - 004 has been fully delegated to the Innovation Department directorate.*
+*b) Regulations for Departmental Personnel interacting with entities are enforced by their own departmental guidelines.*
 
 *c) In the event of a valid Innovation Department test described under Article 2, Section 3, Clause 1, only a Test Subject may interact with the entity, unless the entity is obtainable.*
 
-*d) Obtainable entities may be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Department Member need them for that specific test. The entity must be returned to its respective containment chamber after the test has concluded.*
+*d) Obtainable entities may only be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Personnel host needs them for that specific test.*
 
-*e) Engineering Personnel are granted permission to utilise E-004 should any corporation personnel request a drink(s). However, Innovation Department tests are prioritised should a clash happen.*
+*e) Engineering Personnel are granted permission to utilise Entity-004 should any corporation personnel request a drink(s). However, Innovation Department tests are prioritised should a clash happen.*
 
-*f) Non-Combative Personnel may only make use of Gray Threat Level drinks from E-004 and Green Threat Level drinks if absolutely required. The document listing these drinks may be found here: https://docs.google.com/spreadsheets/d/1UHByJskO_e10wfAMcFNsFq-rH152do_XI4UXVBCHdK8/edit?usp=sharing*
+*f) All personnel may only make use of Gray Threat Level drinks from E-004 and Green Threat Level drinks if absolutely required. The document listing these drinks may be found here.*
 
-4) Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
+4) All Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
-*a) Any article worn must not be immature, inappropriate, or subversive in any form from all distances.*
+*a) Any article worn must not be immature, inappropriate, suggestive, or subversive in any form from all distances.*
 
-*b) Any article worn must not change the form and appearance of one's body to the extent of which no longer can be realistically achieved.*
+*b) Any article worn must not change the form and appearance of one's body to the extent of which can no longer be realistically achieved or deviate from the classic Roblox avatar model.*
 
-*c) Any article worn must not obscure rank title or name title to the point which it can no longer be reasonably discerned a precise rank or name.*
+*c) Any article worn must not obscure rank title or name title to the point where it can no longer be reasonably discerned a precise rank or name.*
 
-*d) Any article worn must not modify one's body parts.*
+*d) Corporation Personnel may not wear official uniforms that are associated or are very similar to a group's uniform that is hostile to Nova Corporation, with the exception of old and outdated uniforms no longer in use, however, this law does not apply to Operations Personnel or the Security Corps Task Force Detachment “Nothing To See Here”.
 
-*e) Corporation Personnel may not wear official uniforms that are associated, or are very similar to a group's uniform that is hostile to Nova Corporation, with the exception of old and outdated uniforms no longer in use, however, this law however does not apply to members of the Department of Operations or the Security Corps Task Force Detachment “Nothing To See Here”.*
+5) All Corporation Personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another Corporation Personnel’s duties.
 
-5) All Corporation Personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another Corporation Personnel’s duties, as outlined within this document and stated by, if applicable, the personnel’s department Class-X.
-
-6) All Corporation Personnel, with the exception of those who have access to weapons at-spawn, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self defence of themselves and those around them. They shall not directly or indirectly threaten the lives of other Corporation Personnel and may terminate escaping Test Subjects should they not violate any other applicable clause of the Articles of Service.
+6) All Corporation Personnel, with the exception of those who have access to weapons at-spawn, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self-defense of themselves and those around them.
 
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
-*b) Non-Combative Corporation Members may only utilize weapons classified as "handguns", any other weapon is therefore considered banned from being used, and if picked up should be given to Security Personnel.*
+*b) Non-Combative Corporation Personnel may only utilize weapons classified as "handguns", any other weapon is therefore considered banned from being used, and if picked up should be given to Security Personnel.*
 
-*c) Engineering Personnel are given the ability to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members for use. Engineering Department Members may use an "AK-47" for self defense while around their work zones, at all other times they must follow the normal clause and sub clauses.*
+*c) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members for use. Engineering Personnel may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and sub-clauses.*
 
-*d) Any request from a Security Corps Member to drop a banned weapon to them, or respawn to remove said weapon must be obeyed, else risk being given a Classification - E sentence and or terminated.*
+d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by operatives of Security Corps Task Force Detachment "Nothing to See Here" and "The Crazies" internally ranking "Crazy Advisor".
 
-*e) No Personnel may ever hold in their possession the following weapons unless authorized to do so by Class - X or those who have the ability to grant such: Any weapon that can only be obtained using commands, is experimental/anomalous weapons, and Nova Dominion weaponry.*
-
-*f) Dimension altered weapons (anomalous weaponry) may be authorized for usage by operatives of Task Force Detachment "Nothing to See Here" and "The Crazies" ranking "Crazy Advisor"+.*
+*e) Any weapons that can only be obtained from the death of or dropping from a certain team or division may be regulated by that respective team or division, any command regarding those weapons must be followed.*
 
 7) A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.
 
-*a) The ability to designate personnel “Kill on Sight” has been granted to all Department of Operations Personnel, Personnel ranking Classification - X.*
+*a) The ability to designate personnel “Kill on Sight” has been granted to all Operations Personnel and personnel ranking Classification - X.*
 
-*b) Corporation Personnel ranking Classification - O or above, and Department of Operations Personnel may not be designated Kill on Sight, unless the employee issuing the order wields the clearance of Classification - X or above.*
+*b) Corporation Personnel ranking Classification - O or above, and Operations Personnel may not be designated Kill on Sight, unless the employee issuing the order wields the clearance of Classification - X or above.*
 
-8) Corporation Personnel being detained by the Regulations Department, Security Corps or Department of Operations may not evade or attempt to evade being detained.
+8) Corporation Personnel being detained by the Regulations Department, Security Corps, or Department of Operations may not evade or attempt to evade being detained.
 
-*a) “Detain evading” is defined as attempting to or succeeding in un-detaining yourself or moving away from your detainer while detained, using means including, but not limited to resetting, redeploying, rejoining, leaving and requesting others to terminate you without express permission of the detainer. The only acceptable way to be un-detained is for the detainer to un-detain you themselves.*
+*a) A detain evade is any attempt or successful attempt in being un-detained without the original detain user undetaining you.*
 
-9) Corporation Personnel may not avoid or attempt to avoid punishments being administered by those with the authority to do so, as described by Article 2, Section 3.
-
-10) No Corporation Personnel, with the exception of those who have access to weapons at-spawn and personnel ranking Classification - A or above, may utilize armored vest plating in any way shape or form.
+9) No Corporation Personnel, with the exception of those who have access to weapons at-spawn and personnel ranking Classification - A or above, may utilize armored vest plating in any way shape, or form.
 
 *a) Personnel ranking Classification - O or above, or Security Personnel ranking Security Supervisor or above may temporarily grant other personnel access to utilizing armored vest plating.*
 
@@ -204,314 +195,188 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *c) Engineering Personnel may only use the vest station in order to refill their vests.*
 
-11) All non-combative Corporation Personnel with the exception of the Department of Operations may never actively seek danger or interfere with Security Corps gun fights and must always seek to reside in a safe location within a corporation owned site.
+10) All non-combative Corporation Personnel with the exception of Operations Personnel may never actively seek danger or interfere with Security Corps gun fights and must always seek to reside in a safe location within a corporation owned site.
 
-*a) In the event that a Corporation Member is unable to attain a safe location in time to avoid hostiles, said Corporation member may defend themselves without breaking any other clause in the Articles of Service.*
+*a) In the event that a Corporation Personnel is unable to attain a safe location in time to avoid hostiles, said Corporation Personnel may defend themselves without breaking any other clause in the Articles of Service.*
 
-*b) In the scenario of hostiles in the lower Entity Area during an official Innovation Department test described under Article 3, Section 3, all participating in the test are to follow the procedure as written in their respective guidelines.*
+*b) In the scenario of hostiles in the lower Entity Area during an official Innovation Department test described under Article 3, Section 3, all participating in the test are to follow the procedure as written in their respective guidelines.
 
-12) No Corporation personnel, with the exception of those who are members of an authorized Task Force Detachment and personnel ranking Class-O and above may utilize and approve usage of the equipment the Underwater Sector provides.
+11) Only Corporation Personnel who spawn with weapons and Engineering Personnel may manipulate, manage, and store all mineral resources, and non-anomalous drinks.
 
-13) Only Corporation Personnel who spawn with weapons or are within the team defined as the "Engineering Department" may manipulate, manage, and store all mineral resources.
+*a) Engineering Personnel internally ranking "Manager" or above may terminate personnel beneath in command as listed in Article 2 Section 3 violating this clause within reason.
 
-*a) Engineering Personnel internally ranking Core Branch Manager and above may set forth internal policies regarding manipulation, management, and storage of mineral resources, within reason.*
+*b) Personnel ranking Classification - O may utilize all mineral resources within reason.*
 
-*b) Personnel listed above may terminate personnel beneath in command as listed in Article 2, Section 3 violating this clause within reason.*
+*c) Personnel ranking Classification - X may temporarily grant other personnel access to utilizing mineral resources.*
 
-*c) Personnel ranking Classification - O may utilize all mineral resources within reason.*
+12) Only Engineering, Security and Operations Personnel may manipulate and manage objects that interfere with, or extend radio signals.
 
-*d) Personnel ranking Classification - X may temporarily grant other personnel access to utilizing mineral resources.*
+*a) High Command personnel within each stated departmental authority may temporarily expand authorized personnel through granting permission and may set forth individual policies regarding such.*
 
-14) Only Corporation Personnel as "Engineering Department", "Security Corps", and "Department of Operations" may manipulate and manage objects that interfere with, or extend radio signals.
+13) Outer dimensions of any kind may not be accessed or used in any way. 
 
-*a) High Command personnel within each stated departmental authority may temporarily expand authorized personnel through granting permission, and may set forth individual policies regarding such.*
+*a) Security Corps Task Force Detachment "The Crazies" is exempt from this law and is authorized to fully have access to all dimensions in every shape or form.
 
-15) Outer dimensions of any kind may not be accessed, or used in any way. 
+*b) The following have been granted the ability to authorize anyone to enter a given dimension following this chain of command; Security Corps General; Classification - X; "the Crazies" personnel internally ranking "Crazy Advisor"; Innovation Directorate.
 
-*a) Task Force Detachment "The Crazies" members are exempt from this law, and are authorized to fully have access to all dimensions in every shape or form.*
+14) Nova Corporation Personnel should not rope any bodies.
 
-*b) The following have been granted the ability to authorize anyone to enter a given dimension following this chain of command; Security Corps General; Classification - X and The Crazies members internally ranking "Crazy Advisor"+; ID Directorate for project use; Any personnel not yet listed.*
+15) EMPs may not be placed anywhere in which it becomes unreachable, and permanently blocks any area with no way of being destroyed without the help of moderation or abusing glitches. Breaking this clause can warrant a server ban.*
 
-16) Nova Corporation Personnel, combative and non combative are to refrain from, and can only rope one body at any given time provided the body is not satisfying the following conditions:
+16) Misuse of the radio is strictly prohibited, which includes but is not limited to:
 
-*a) The body in question is not of any member of the Security Corps.*
-
-*b) The body in questions is not of a Nova Corporation Personnel ranking higher than your own rank. However Classifications D - B are considered the same rank in this clause; The hierarchy consists of Classifications D-B; A; O; X, in that order ascending, Classification X being highest.*
-
-*c) The Security Corps is immune to these Sub-Clauses given that body is not Classification - O or higher.*
-
-*d) The body in question is not being roped to cause trouble or to be misused.*
-
-*e) Security Personnel may request any NCM below Classification - O to unrope any body currently roped to them.*
-
-17) EMPs may not be placed anywhere in which it becomes unreachable, and permanently blocks any area with no way of being destroyed without the help of moderation or abusing glitches. Breaking this clause can warrant a server ban.
-
-18) Misuse of the radio is strictly prohibited, which includes but is not limited to:
-
-*a) Providing misinformation to Nova Corporation Staff for scenarios including, but not limited to: Hostile locations, Hostage scenarios, Test subjects riots, Entity Breaches and Law Infractors.*
+*a) Providing misinformation to Nova Corporation Staff for scenarios including, but not limited to: Hostile locations, Hostage scenarios, Test subjects riots, Entity Breaches, and Law Infractors.*
 
 *b) Clogging up the radio with unnecessary chatter or radio 'spamming'.*
 
-*c) Making immature comments; for example, "SC are do do heads."*
+*c) Exceptions to this law can be made if the person in question accidentally had their radio out at the time of their message.*
 
-*d) Exceptions to this law can be made if the person in question accidentally had their radio out at the time of their message, usually referred to as, "Hot mic."*
+17) Corporation Personnel shall not directly or indirectly threaten the lives of other Corporation Personnel and may terminate escaping Test Subjects, and other Corporation Personnel breaking this clause if there are no Security Personnel on-site.
+
 
 
 
 
 
 ## **Section 3: Nova Corporation Hierarchy**
-> Any clause within this section details specific hieratical placements of clearance, department, and sub department within the Nova Corporation, in terms of generalized command in a given moment, location, and situation. If a personnel applies to two ranking definitions within the same bracket, the higher ranking definition is to be used in calculating authority. Clauses within this section take priority by order in which listed, earlier clauses take less priority than later clauses.
+> Any clause within this section details specific hieratical placements of clearance, department, and sub-department within the Nova Corporation, in terms of generalized command in a given moment, location, and situation. If a personnel applies to two ranking definitions within the same bracket, the higher ranking definition is to be used in calculating authority. Clauses within this section take priority by order in which listed, earlier clauses take less priority than later clauses.
 
-0) Unless elsewise overridden by a different clause or law, the following list describes the hierarchy while on site, from most authority to least authority:
+0) It is to be mentioned that, in all cases, no matter the situation, the following two ranking definitions are above all other ranking definitions in all other clauses.
+
+Personnel ranking Classification - X
+↓
+Personnel ranking Classification - O
+↓
+Personnel as “Department of Operations” internally ranking “Autonomous Sentinel” and above
+↓
+...
+
+1) Unless elsewise overridden by a different clause or law, the following list describes the hierarchy while on-site, from most authority to least authority:
 
 Personnel ranking Classification - O
-
 ↓
-
 Personnel as “Security Corps”, internally ranking “TFD” or above
-
 ↓
-
-Personnel as “Regulations Department”, internally ranking “Regulation Official” or above
-
+Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
 ↓
-
 Personnel as “Security Corps” not yet listed
-
 ↓
-
-Personnel ranking Classification - A as “Nova Corporation Personnel”
-
-↓
-
-Any Personnel not yet listed
-
-1) Within the following locations, including the land 50 studs away from the perimeter of the official boundary of the location, or elsewise close to reasonable boundary, during normal operation:
-
-*a) The Test Subject Zone, “Lower Area”:*
-
-Personnel ranking Classification - O
-
-↓
-
-Personnel as “Regulations Department”, internally ranking “Regulation Official” or above
-
-↓
-
-Personnel as “Security Corps”
-
-↓
-
 Personnel ranking Classification - A
-
 ↓
-
 Any Personnel not yet listed
 
-*b) The Test Subject Zone, “Surface Area”:*
 
+2) Within the following locations, including the land 50 studs away from the perimeter of the official boundary of the location, or elsewise close to a reasonable boundary, during normal operation:
+
+*a) The Test Subject Zone:*
 
 Personnel ranking Classification - O
-
 ↓
-
+Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
+↓
 Personnel as “Security Corps”
-
 ↓
-
-Personnel as “Regulations Department”, internally ranking “Regulation Official” or above
-
+Personnel ranking Classification - A
 ↓
-
-Personnel ranking Classification - A as “Nova Corporation Personnel”
-
-↓
-
 Any Personnel not yet listed
 
-*c) The Entity Area:*
+
+*b) The Entity Area:*
 
 Personnel ranking Classification - O
-
 ↓
-
 Personnel as “Security Corps” as Task Force Detachment “The Crazies”
-
 ↓
-
 Personnel as “Regulations Department”, internally ranking “Chief Regulating Official” or above
-
 ↓
-
 Personnel as “Security Corps” not yet listed
-
 ↓
-
-Personnel as “Regulations Department”, internally ranking “Regulation Official” or above
-
+Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
 ↓
-
 Personnel ranking Classification - A
-
 ↓
-
 Personnel as “Innovation Department”
-
 ↓
-
 Personnel as "Engineering Department" utilizing Entity - 004 or conducting Containment Chamber checks
-
 ↓
-
 Any Personnel not yet listed
 
-*d) The Main Encampment:*
+
+*c) The Main Encampment:*
 
 Personnel ranking Classification - O
-
 ↓
-
 Personnel as “Security Corps”, internally ranking “TFD” or above
-
 ↓
-
-Personnel as “Regulations Department”, internally ranking “Regulation Official” or above
-
+Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
 ↓
-
 Personnel ranking Classification - A
-
 ↓
-
 Personnel as “Security Corps” not yet listed
-
 ↓
-
 Any Personnel not yet listed
 
-*e) The Powerplant:*
+
+*d) The Powerplant*
 
 Personnel ranking Classification - O
-
 ↓
-
-Personnel as "Engineering Department"
-
+Personnel as “Engineering Department”
 ↓
-
-Personnel as "Security Corps"
-
+Personnel as “Security Corps”
 ↓
-
 Any Personnel not yet listed
 
-2) During an official, valid Innovation Department Test not in violation of any clause within Article 3, Section 3:
 
-Personnel as “Security Corps” as Task Force Detachment “The Crazies”
-
-↓
-
-Personnel as “Regulations Department”, internally ranking “Regulation Official” or above, and AoS sanctioned test supervisors.
-
-↓
-
-The Innovation Personnel conducting the test
-
-↓
-
-Personnel as “Security Corps” not yet listed
-
-↓
-
-Personnel not yet listed spectating the test
-
-3) During a “Increased Threat Level” at any of the applicable locations:
-
-Personnel as “Security Corps”, internal ranking “Security Captain” or above
-
-↓
+3) During an “Increased Threat Level” at any of the applicable locations:
 
 Personnel ranking Classification - O
-
 ↓
-
+Personnel as “Security Corps”, internal ranking “Captain” or above
+↓
 Personnel as “Security Corps” not yet listed
-
 ↓
-
 Personnel as “Regulations Department”
-
 ↓
-
 Personnel ranking Classification - A
-
 ↓
-
 Personnel not yet listed
 
 
 4) During an evacuation due to a perceived site-wide threat:
 
 Personnel ranking Classification - O
-
 ↓
-
 Personnel as “Security Corps”
-
 ↓
-
 Personnel ranking Classification - A
-
 ↓
-
 Any Personnel not yet listed
 
-5) It is to be mentioned that, in all cases no matter the situation, the following two ranking definitions are above all other ranking definitions in all other clauses. This is a simplification to save space.
 
-Personnel ranking Classification - X
-
-↓
+5)  During any Biological Attack at any Nova Corporation owned site or facility, the hierarchy is as follows:
 
 Personnel ranking Classification - O
-
 ↓
-
-Personnel as “Department of Operations” internally ranking “Autonomous Sentinel” and above
-
-↓
-
-...
-
-6) During any Biological Attack at any Nova Corporation owned site or facility, the hierarchy is as follows:
-
-Personnel ranking Classification - O
-
-↓
-
 Personnel as “Security Corps” in Task Force Detachment “The Crazies”
-
 ↓
-
 Personnel as “Security Corps” internally ranking "TFD" or higher
-
 ↓
-
 Personnel as “Security Corps” not yet listed
-
 ↓
-
 Any Personnel not yet listed
 
-7) During a “High Threat Level” at any designated location, all control of the location is transferred to the Security Corps and the Engineering Department, and all Non-Combative Corporation personnel are to be evacuated immediately.
+
+6) During a “High Threat Level” at any designated location, all control of the location is transferred to the Security Corps and the Engineering Department, and all Non-Combative Corporation Personnel are to be evacuated immediately.
+
 
 ## **Subsection 3.1: Area Restrictions**
 > Any clause within this subsection details restrictions for all Nova Corporation Personnel on locations throughout the Nova Corporation Research Installment, designation 11. Restriction is written through descending priority. When describing a tangible location, it is to be assumed that the affected area also includes the 20 stud radius around the described location, or otherwise close to a tangible border.
 
 
-1) All personnel ranking Classification - X have been granted unrestricted access to any location in the installment. Operations Personnel have been granted unrestricted access to any location in the installment unless said area is restricted to only personnel ranking Classification - X.
+1) Operations Personnel have been granted unrestricted access to any location in the installment unless said area is restricted to only personnel ranking Classification - X.
 
-2) A given area is always accessible by those which can reasonably spawn within the area's border, unless they are incapable of accessing it with the cards that they spawn with or if specified otherwise.
+2) A given area is always accessible by those who can reasonably spawn within the area's border unless they are incapable of accessing it with the cards that they spawn with or if specified otherwise.
 
 3) All personnel ranking Classification - O have been granted the ability to grant other personnel access to an area, granted that they too have access, with proper reason.
 
@@ -521,25 +386,23 @@ Any Personnel not yet listed
 
 *b) Engineering Personnel may be allowed access to areas of the tundra under the circumstance that they are transporting items or personnel, or per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to build a structure or fortification.*
 
-*c) Regulations Personnel may be allowed access to areas of the tundra during patrols, when using a humvee or per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to apprehend a law infractor. Regulations Personnel and their accompanying Test Subject(s) may also access the tundra while performing a patrol or site showcase with a Security Corps escort.*
+*c) Regulations Personnel and their accompanying Test Subject(s) may access the tundra while performing a patrol or site showcase with a Security Corps escort.*
 
 *d) Any Personnel may be allowed access to cross the tundra on a vehicle driven by an Engineering Personnel with a clear and reasonable intention.*
 
-5) The Forward Operating Base has been restricted to Security Personnel and Engineering Personnel under normal circumstances. The Forward Operating Base can be unrestricted to all Corporation Personnel pending Security Corps High Command order, due to a site-wide evacuation or other calamity of equal magnitude.
+5) The Forward Operating Base has been restricted to Security Personnel and Engineering Personnel under normal circumstances. The Forward Operating Base can be unrestricted to all Corporation Personnel pending Security Corps High Command order, due to a site-wide evacuation or other calamities of equal magnitude.
 
 *a) Engineering Personnel at all times are to stay in their designated areas, and will follow Security Corps commands should they not be.*
 
-*b) Regulation Personnel internally ranking Regulating Official and above may only enter the Forward Operating Base with permission from Security Corps Task Force Detachment “Iron Fist”.*
-
 6) The Entity Area in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
-*a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to only personnel ranking Classification - O, Security Personnel, Engineering Personnel, Innovation Personnel internally ranking Novice or above with the purpose of conducting a test OR using 004, Regulations Personnel internally ranking Senior Regulating Official or higher and personnel participating in a valid Innovation Personnel test, described in Article 3, Section 3, as well as NCMs following the condition stated under sub-clause e under this clause.*
+*a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to Departmental Personnel.*
 
-*b) Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3. There is one exception to this subclause; "The Mineshaft" may be entered by ED personnel.*
+*b) Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3. There is one exception to this subclause; "The Mineshaft" may be entered by Engineering personnel.*
 
-*c) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking Triggerman or above have been granted the ability to grant other personnel access to any area within the Entity Area, given they too have access, with proper reason.*
+*c) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking "Triggermen" or above have been granted the ability to grant other personnel access to any area within the Entity Area, given they too have access, with proper reason.
 
-*d) Any Nova Corporation Member or Visitor, as well as being escorted by an Innovation Department Member during an Entity Showcase are allowed in the Lower Entity Area, and the first part of the Entity Chambers, but not the Containment Chamber itself. If an NCM does not stick with the Innovation Department escort, then he is in violation of this clause, and is to be considered "Detain on Sight".*
+*d) Any Corporation Personnel or Visitor being escorted by Regulations or Liaison Personnel are allowed in the Lower Entity Area, and the first part of the Entity Chambers, but not the Containment Chamber itself.*
 
 7) The Test Subject Zone in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
@@ -547,55 +410,44 @@ Any Personnel not yet listed
 
 *b) The Briefing Area is restricted to Departmental Personnel only.*
 
-*c) The Guidance booth is restricted to Regulations Department personnel, if none are online, other departmental personnel may take their place. NCMs are not allowed inside unless taking shelter from an active hostile threat.*
+*c) The Guidance booth is restricted to Regulations Department personnel, if none are online, other departmental personnel may take their place. Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.*
 
 *d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to their respective Departmental Members only. These respective Departmental Members can grant temporary authorization into their sectors.*
 
-*e) Regulations Personnel may enter all the aforementioned places in order to deal with any legislation infractors.*
-
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
-9) Areas that can be reasonably described as being owned by a force that is not the Nova Corporation is restricted to all personnel except personnel ranking Classification - O and Security Personnel.
+9) Areas that can be reasonably described as being owned by a force that is not the Nova Corporation are restricted to all personnel except personnel ranking Classification - O and Security Personnel.*
 
-10) The Underwater Sector in general is restricted to Security Personnel, Engineering Personnel and Regulations Personnel internally ranking Regulating Official or above.
+10) The Underwater Sector in general is restricted to Departmental personnel.
 
-*a) Innovation Personnel internally ranking Expert Innovator or above may enter, along with proper testing personnel, for the express purpose of Innovation. When not testing, permission from the Innovation Department directorate is required.*
+*a) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking "Triggermen" or above, have been granted the ability to grant other personnel access to any area within the Underwater Sector.*
 
-*b) Regulation Personnel are authorized to enter the Underwater Sector regardless of rank , under the condition that there is an AoS infractor inside the Underwater Sector, and there are Security Personnel available to escort them out of the sector.*
+11) Ore deposit areas are restricted to Security, Regulations, Engineering Personnel, and personnel ranking Classification - O.
 
-*c) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking Triggerman or above have been granted the ability to grant other personnel access to any area within the Under Water Sector.*
+12) The Power Plant is restricted to Security, Regulations, and Engineering Personnel only.
 
-11) Ore deposit areas at TSZ, and Power Plant are restricted to members of the Security Corps, Engineering Department, and NCM's ranking Classification-O+.
+*a) The ore vault located within the Power Plant is to be accessed only by Engineering Personnel and those ranking Classification - O or higher.*
 
-*a) Regulations personnel are permitted to enter the ore deposit areas at TSZ and Power Plant, under the condition that there is an AoS infractor in that given area.*
+*b) Security Personnel may access the ore vault under the circumstance that there is an ongoing Hostile Raid in that area or to help in the apprehension of an infractor.*
 
-12) The Power Plant is restricted to Security, Regulations and Engineering Personnel Only.
-
-*a) The ore vault located within the Power Plant is to be accessed only by Engineering Department Personnel and those ranking Classification - O or higher.*
-
-*b) Regulations Personnel may enter the Ore Vault for the purpose of apprehending an infractor.*
-
-*c) Security Personnel may access the ore vault under the circumstance that there is an ongoing Hostile Raid in that area or to help in the apprehension of an infractor.*
-
-*d) The ore vault located within the Power Plant is to be accessed only by Engineering Department Personnel and those ranking Classification - O or higher. Security Personnel may access the ore vault under the circumstance that there is an ongoing Hostile Raid in that area.*
-
-13) The "Ocean" is restricted to the Innovation Department "Paragon" Research Team, members of the Security Corps Task Force Detachment "The Crazies", relevant Security Personnel, relevant Regulations Personnel, personnel at the rank of Classification - O and Test Subjects participating in the test.
+13) The "Ocean" is restricted to the Innovation Department "Paragon" Research Team, members of the Security Corps Task Force Detachment "The Crazies", relevant Security and Regulations Personnel, personnel at the rank of Classification - O and Test Subjects participating in the test.
 
 *a) Personnel part of the Innovation Department "Paragon" Research Team may grant temporary access to the area with valid reasoning.*
 
 *b) The only exception to this clause is for expeditions within "The Challenger" located in the ocean, which is restricted to Innovation Personnel, Security Personnel in Task Force Detachment "The Crazies" and personnel ranking Classification - O and above.*
 
-*c) Regulations Personnel may enter the area for the purpose of apprehending an infractor.*
+14) All personnel are not allowed to loiter around or repeatedly open the entrances to areas that they do not have access to. This includes the Test Subject Zone airlock, Entity Area hangar doors, Ore Depot fence gate, etc.
 
-14) All personnel are not allowed to loiter around or repeatedly open the entrances to areas that they do not have access to under the Articles of Service. This includes the TSZ airlock, Entity Area hangar doors, Ore Depot fence gate, etc.
+15) Facilities owned by the Nova Corporation without proper legislation are restricted to Security, Regulations, Operations Personnel, and personnel ranking Classification-O with proper authorization and reason.
 
-15) Facilities owned by the Nova Corporation without proper legislation are restricted to Combative Personnel, Regulations personnel, Operations Personnel, and personnel ranking Classification-O with proper authorization and reason.
+*a) “Proper legislation” is defined as legislation that restricts it to certain personnel in Article 3 Subsection 3:1.*
 
-*a) “Proper legislation” is defined as legislation that restricts it to certain personnel in Article 2; Subsection 3:1.*
+16) Regulations Personnel may enter any area that is not restricted by Classification - X or Operations Personnel to apprehend infractors.*
 
-16) Regulations Personnel and their accompanying Test Subject(s) and escort(s) may be granted access to any area under the circumstance that the corresponding department member authorizes use of that area during a Site Showcase.
+17) Regulations Personnel and their accompanying Test Subject(s) and escort(s) may be granted access to any area under the circumstance that the corresponding department member authorizes use of that area during a Site Showcase.
 
 *a) The Forward Operating Base is authorized by Security Corps Task Force Detachment “Iron Fist”. Any other area is authorized by the Security escort, as long as they have access to said area.*
+
 
 
 
