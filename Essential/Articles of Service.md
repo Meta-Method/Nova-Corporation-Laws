@@ -219,7 +219,7 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *b) The following have been granted the ability to authorize anyone to enter a given dimension following this chain of command; Security Corps General; Classification - X; "the Crazies" personnel internally ranking "Crazy Advisor"; Innovation Directorate.*
 
-14) Nova Corporation Personnel should not rope any bodies.
+14) All Corporation Personnel should not rope more than one body at a given time.
 
 15) EMPs may not be placed anywhere in which it becomes unreachable, and permanently blocks any area with no way of being destroyed without the help of moderation or abusing glitches. Breaking this clause can warrant a server ban.*
 
