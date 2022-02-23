@@ -139,19 +139,17 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) “Within reason” is defined as an order that does not directly violate, or cause an indirect violation of the Articles of Service.*
 
-3) All Non-Departmental Personnel are not allowed to willingly allow themselves or others to interact with an entity in any way.
+3) All Corporation Personnel are not allowed to willingly allow themselves or others to interact with an entity in any way.
 
 *a) The ability to regulate and authorize the usage of Entity - 004 has been fully delegated to the Innovation Department directorate.*
 
-*b) Regulations for Departmental Personnel interacting with entities are enforced by their own departmental guidelines.*
+*b) In the event of a valid Innovation Department test described under Article 2, Section 3, Clause 1, only a Test Subject may interact with the entity, unless the entity is obtainable.*
 
-*c) In the event of a valid Innovation Department test described under Article 2, Section 3, Clause 1, only a Test Subject may interact with the entity, unless the entity is obtainable.*
+*c) Obtainable entities may only be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Personnel host needs them for that specific test.*
 
-*d) Obtainable entities may only be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Personnel host needs them for that specific test.*
+*d) Engineering Personnel are granted permission to utilise Entity-004 should any corporation personnel request a drink(s). However, Innovation Department tests are prioritised should a clash happen.*
 
-*e) Engineering Personnel are granted permission to utilise Entity-004 should any corporation personnel request a drink(s). However, Innovation Department tests are prioritised should a clash happen.*
-
-*f) All personnel may only make use of Gray Threat Level drinks from E-004 and Green Threat Level drinks if absolutely required. The document listing these drinks may be found here.*
+*e) All personnel may only make use of Gray Threat Level drinks from E-004 and Green Threat Level drinks if absolutely required. The document listing these drinks may be found here.*
 
 4) All Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
