@@ -145,7 +145,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *b) In the event of a valid Innovation Department test described under Article 2, Section 3, Clause 1, only a Test Subject may interact with the entity, unless the entity is obtainable.*
 
-*c) Obtainable entities may only be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Personnel host needs them for that specific test.*
+*c) Obtainable entities may only be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Personnel host require the usage of them for that specific test.*
 
 *d) Engineering Personnel are granted permission to utilise Entity-004 should any corporation personnel request a drink(s). However, Innovation Department tests are prioritised should a clash happen.*
 
