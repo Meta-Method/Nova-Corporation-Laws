@@ -229,7 +229,7 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *c) Exceptions to this law can be made if the person in question accidentally had their radio out at the time of their message.*
 
-17) Corporation Personnel shall not directly or indirectly threaten the lives of other Corporation Personnel and may terminate escaping Test Subjects, and other Corporation Personnel breaking this clause if there are no Security Personnel on-site.
+17) Corporation Personnel shall not directly or indirectly threaten the lives of other Corporation Personnel and may terminate escaping Test Subjects, and other Corporation Personnel breaking this clause if there are no Security Personnel in the given facility.
 
 
 
