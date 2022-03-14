@@ -323,6 +323,10 @@ Personnel as “Engineering Department”
 ↓
 Personnel as “Security Corps”
 ↓
+Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
+↓
+Personnel as “Innovation Department”
+↓
 Any Personnel not yet listed
 
 
