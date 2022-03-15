@@ -169,7 +169,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *b) Non-Combative Corporation Personnel may only utilize weapons classified as "handguns", any other weapon is therefore considered banned from being used, and if picked up should be given to Security Personnel.*
 
-*c) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members for use. Engineering Personnel may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and sub-clauses.*
+*c) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members, with the exception of handguns when requested by and for a Departmental Member. Engineering Personnel may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and sub-clauses.*
 
 d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by operatives of Security Corps Task Force Detachment "Nothing to See Here" and "The Crazies" internally ranking "Crazy Advisor".
 
