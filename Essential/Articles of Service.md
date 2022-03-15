@@ -414,7 +414,7 @@ Any Personnel not yet listed
 
 *c) The Guidance booth is restricted to Regulations Department personnel, if none are online, other departmental personnel may take their place. Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.*
 
-*d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to their respective Departmental Members only. These respective Departmental Members can grant temporary authorization into their sectors.*
+*d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to their respective Departmental Members and Combative Personnel only. These respective Departmental Members can grant temporary authorization into their sectors.*
 
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
