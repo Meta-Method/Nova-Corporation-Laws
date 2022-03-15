@@ -504,7 +504,9 @@ Any Personnel not yet listed
 
 *a) Security Personnel may decline a request for a Test Subject with a valid reason, such as raids and riots.*
 
-*b) In a scenario where an Innovation Personnel requests a Test Subject, the Combative must prioritize retrieving the Test Subject for the Innovation Personnel.
+*b) In a scenario where an Innovation Personnel requests a Test Subject, the Combative must prioritize retrieving the Test Subject for the Innovation Personnel.*
+
+*c) Test Subjects who have lost their custodian during the escort to, or during a test must be found and retrieved by Security Corps members, without termination, unless any conditions are satisfied in Article 3, Section 2, Clause 3.*
 
 3) Test Subjects may be terminated by the Security Corps at any time if the below conditions are satisfied:
 
