@@ -185,7 +185,7 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *a) A detain evade is any attempt or successful attempt in being un-detained without the original detain user undetaining you.*
 
-9) No Corporation Personnel, with the exception of those who have access to weapons at-spawn and personnel ranking Classification - A or above, may utilize armored vest plating in any way shape, or form.
+9) No Corporation Personnel, with the exception of those who have access to weapons at-spawn, departmental high ranks and personnel ranking Classification - A or above, may utilize armored vest plating.
 
 *a) Personnel ranking Classification - O or above, or Security Personnel ranking Security Supervisor or above may temporarily grant other personnel access to utilizing armored vest plating.*
 
