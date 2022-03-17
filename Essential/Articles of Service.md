@@ -163,7 +163,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 5) All Corporation Personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another Corporation Personnel’s duties.
 
-6) All Corporation Personnel, with the exception of those who have access to weapons at-spawn, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self-defense of themselves and those around them.
+6) All Corporation Personnel, with the exception of those who have access to weapons at-spawn, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self-defense of themselves and those around them and shall not directly or indirectly threaten the lives of other personnel.
 
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
@@ -228,8 +228,6 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 *b) Clogging up the radio with unnecessary chatter or radio 'spamming'.*
 
 *c) Exceptions to this law can be made if the person in question accidentally had their radio out at the time of their message.*
-
-17) Corporation Personnel shall not directly or indirectly threaten the lives of other Corporation Personnel and may terminate escaping Test Subjects, and other Corporation Personnel breaking this clause if there are no Security Personnel in the given facility.
 
 
 
