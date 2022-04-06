@@ -111,13 +111,15 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) Personnel may not falsely claim to be a witness in an infraction, or forge any evidence. In addition, personnel may not abstain from questioning to protect the infractor.*
 
-6) All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel, within any Nova Corporation Site or communications platform. Impersonation of personnel includes the following actions:
+b) Any Corporation Personnel may not abstain from reporting any Article of Service violations in exchange of any benefits and/or incentives. In addition, Corporation Personnel may not attempt to, or succeed in, preventing one from reporting any violations.
 
-*a) Wearing an official, or something closely resembling that of a department or sub-department uniform without being a member of said department or sub-department.*
+6) All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel or hostile forces, within any Nova Corporation Site, neither it should be done on any communications platform of the Nova Corporation. Impersonation of personnel or hostile forces includes the following actions:
 
-*b) Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.*
+a) Wearing an official, or something closely resembling that of a department or sub-department uniform without being a member of said department or sub-department
 
-*c) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.*
+b) Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.
+
+c) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.
 
 7) All Corporation Personnel are forbidden from colluding with any force hostile to the Nova Corporation.
 
@@ -185,7 +187,7 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *a) A detain evade is any attempt or successful attempt in being un-detained without the original detain user undetaining you.*
 
-9) No Corporation Personnel, with the exception of those who have access to weapons at-spawn, departmental high ranks and personnel ranking Classification - A or above, may utilize armored vest plating.
+9) No Corporation Personnel, with the exception of those who have access to weapons at-spawn, visitors and personnel ranking Classification - A or above, may utilize armored vest plating in any way shape, or form.
 
 *a) Personnel ranking Classification - O or above, or Security Personnel ranking Security Supervisor or above may temporarily grant other personnel access to utilizing armored vest plating.*
 
@@ -410,7 +412,7 @@ Any Personnel not yet listed
 
 *b) The Briefing Area is restricted to Departmental Personnel only.*
 
-*c) The Guidance booth is restricted to Regulations Department personnel, if none are online, other departmental personnel may take their place. Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.*
+c) The Guidance booth is restricted to Regulations Department personnel, if none are using it, other departmental personnel may take their place. Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.
 
 *d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to their respective Departmental Members and Combative Personnel only. These respective Departmental Members can grant temporary authorization into their sectors.*
 
