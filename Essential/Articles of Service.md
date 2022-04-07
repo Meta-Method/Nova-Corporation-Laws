@@ -452,6 +452,10 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 *a) The Forward Operating Base is authorized by Security Corps Task Force Detachment “Iron Fist”. Any other area is authorized by the Security escort, as long as they have access to said area.*
 
+18)  Should an entity be spotted at any facility not currently under siege, Security Corps detachment “The Crazies” gain full control of the facilities personnel, utilities and vehicles. Operatives are also granted immunity should they need to bypass the law in order to recontain said entity.
+
+*a) Beings afflicted by an entity such as 007 do not count as an entity breach, beings afflicted by 008, 013 and 012 do however count. Beings in possession of an entity such as 014 and 010 also count as an entity breach.*
+
 
 
 
