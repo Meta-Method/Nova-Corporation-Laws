@@ -599,6 +599,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 *b) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it. Said Test Subject may decline being used in another test, as long as the tests are not conjoined.
 
+5) Innovation Department Members internally ranking as “Innovator.” And above may utilize the Unarmoured Humvees while having at least one Security Personnel as escort.
 
 
 
