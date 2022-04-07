@@ -478,7 +478,9 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 6) Any Nova Corporation Personnel in violation of Article 2, Section 3, Sub-Section 3.1 may be terminated.
 
-7)The Engineering Department has been granted the ability to regulate all Regular Trucks.
+7) The Engineering Department has been granted the ability to regulate all Regular Trucks.
+
+8) All Nova Corporation personnel that have been designated the Class - E sentence are only eligible to be on the Test Subject team.
 
 
 
