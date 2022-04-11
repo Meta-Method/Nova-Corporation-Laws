@@ -115,13 +115,15 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) Personnel may not falsely claim to be a witness in an infraction, or forge any evidence. In addition, personnel may not abstain from questioning to protect the infractor.*
 
-6) All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel, within any Nova Corporation Site or communications platform. Impersonation of personnel includes the following actions:
+b) Any Corporation Personnel may not abstain from reporting any Article of Service violations in exchange of any benefits and/or incentives. In addition, Corporation Personnel may not attempt to, or succeed in, preventing one from reporting any violations.
 
-*a) Wearing an official, or something closely resembling that of a department or sub-department uniform without being a member of said department or sub-department.*
+6) All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel or hostile forces, within any Nova Corporation Site, neither it should be done on any communications platform of the Nova Corporation. Impersonation of personnel or hostile forces includes the following actions:
 
-*b) Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.*
+a) Wearing an official, or something closely resembling that of a department or sub-department uniform without being a member of said department or sub-department
 
-*c) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.*
+b) Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.
+
+c) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.
 
 7) All Corporation Personnel are forbidden from colluding with any force hostile to the Nova Corporation.
 
@@ -143,19 +145,17 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) “Within reason” is defined as an order that does not directly violate, or cause an indirect violation of the Articles of Service.*
 
-3) All Non-Departmental Personnel are not allowed to willingly allow themselves or others to interact with an entity in any way.
+3) All Corporation Personnel are not allowed to willingly allow themselves or others to interact with an entity in any way.
 
 *a) The ability to regulate and authorize the usage of Entity - 004 has been fully delegated to the Innovation Department directorate.*
 
-*b) Regulations for Departmental Personnel interacting with entities are enforced by their own departmental guidelines.*
+*b) In the event of a valid Innovation Department test described under Article 2, Section 3, Clause 1, only a Test Subject may interact with the entity, unless the entity is obtainable.*
 
-*c) In the event of a valid Innovation Department test described under Article 2, Section 3, Clause 1, only a Test Subject may interact with the entity, unless the entity is obtainable.*
+*c) Obtainable entities may only be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Personnel host require the usage of them for that specific test.*
 
-*d) Obtainable entities may only be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Personnel host needs them for that specific test.*
+*d) Engineering Personnel are granted permission to utilise Entity-004 should any corporation personnel request a drink(s). However, Innovation Department tests are prioritised should a clash happen.*
 
-*e) Engineering Personnel are granted permission to utilise Entity-004 should any corporation personnel request a drink(s). However, Innovation Department tests are prioritised should a clash happen.*
-
-*f) All personnel may only make use of Gray Threat Level drinks from E-004 and Green Threat Level drinks if absolutely required. The document listing these drinks may be found here.*
+*e) All personnel may only make use of Gray Threat Level drinks from E-004 and Green Threat Level drinks if absolutely required. The document listing these drinks may be found here.*
 
 4) All Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
@@ -169,13 +169,13 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 5) All Corporation Personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another Corporation Personnel’s duties.
 
-6) All Corporation Personnel, with the exception of those who have access to weapons at-spawn, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self-defense of themselves and those around them.
+6) All Corporation Personnel, with the exception of those who have access to weapons at-spawn, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self-defense of themselves and those around them and shall not directly or indirectly threaten the lives of other personnel.
 
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
 *b) Non-Combative Corporation Personnel may only utilize weapons classified as "handguns", any other weapon is therefore considered banned from being used, and if picked up should be given to Security Personnel.*
 
-*c) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members for use. Engineering Personnel may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and sub-clauses.*
+*c) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members, with the exception of handguns when requested by and for a Departmental Member. Engineering Personnel may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and sub-clauses.*
 
 d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by operatives of Security Corps Task Force Detachment "Nothing to See Here" and "The Crazies" internally ranking "Crazy Advisor".
 
@@ -191,7 +191,7 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *a) A detain evade is any attempt or successful attempt in being un-detained without the original detain user undetaining you.*
 
-9) No Corporation Personnel, with the exception of those who have access to weapons at-spawn and personnel ranking Classification - A or above, may utilize armored vest plating in any way shape, or form.
+9) No Corporation Personnel, with the exception of those who have access to weapons at-spawn, visitors and personnel ranking Classification - A or above, may utilize armored vest plating in any way shape, or form.
 
 *a) Personnel ranking Classification - O or above, or Security Personnel ranking Security Supervisor or above may temporarily grant other personnel access to utilizing armored vest plating.*
 
@@ -235,11 +235,14 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *c) Exceptions to this law can be made if the person in question accidentally had their radio out at the time of their message.*
 
+
 17) Corporation Personnel shall not directly or indirectly threaten the lives of other Corporation Personnel and may terminate escaping Test Subjects, and other Corporation Personnel breaking this clause if there are no Security Personnel on-site.
 
 18) Corporation Personnel ranking Classification - A and above are granted permission to utilize unarmed humvees, and are able to enter tundra while in a vehicle.
 
 a) Classification-A, may not use the humvees stated in these locations: Security Corps Armoury; Engineering Department Spawn.
+
+
 
 
 
@@ -333,6 +336,10 @@ Personnel as “Engineering Department”
 ↓
 Personnel as “Security Corps”
 ↓
+Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
+↓
+Personnel as “Innovation Department”
+↓
 Any Personnel not yet listed
 
 
@@ -418,9 +425,11 @@ Any Personnel not yet listed
 
 *b) The Briefing Area is restricted to Departmental Personnel only.*
 
-*c) The Guidance booth is restricted to Regulations Department personnel, if none are online, other departmental personnel may take their place. Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.*
+c) The Guidance booth is restricted to Regulations Department personnel, if none are using it, other departmental personnel may take their place. Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.
 
-*d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to their respective Departmental Members only. These respective Departmental Members can grant temporary authorization into their sectors.*
+*d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to their respective Departmental Members and Combative Personnel only. These respective Departmental Members can grant temporary authorization into their sectors.*
+
+*e) The Refinery is restricted to members of the Engineering Department and Security Corps. Personnel from the Engineering Department may grant temporary authorization.*
 
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
@@ -444,7 +453,7 @@ Any Personnel not yet listed
 
 *b) The only exception to this clause is for expeditions within "The Challenger" located in the ocean, which is restricted to Innovation Personnel, Security Personnel in Task Force Detachment "The Crazies" and personnel ranking Classification - O and above.*
 
-14) All personnel are not allowed to loiter around or repeatedly open the entrances to areas that they do not have access to. This includes the Test Subject Zone airlock, Entity Area hangar doors, Ore Depot fence gate, etc.
+14) All personnel are not allowed to loiter around or repeatedly open the entrances to areas that they do not have access to. This includes the Test Subject Zone airlock, Entity Area hangar doors, etc.
 
 15) Facilities owned by the Nova Corporation without proper legislation are restricted to Security, Regulations, Operations Personnel, and personnel ranking Classification-O with proper authorization and reason.
 
@@ -455,6 +464,10 @@ Any Personnel not yet listed
 17) Regulations Personnel and their accompanying Test Subject(s) and escort(s) may be granted access to any area under the circumstance that the corresponding department member authorizes use of that area during a Site Showcase.
 
 *a) The Forward Operating Base is authorized by Security Corps Task Force Detachment “Iron Fist”. Any other area is authorized by the Security escort, as long as they have access to said area.*
+
+18)  Should an entity be spotted at any facility not currently under siege, Security Corps detachment “The Crazies” gain full control of the facilities personnel, utilities and vehicles. Operatives are also granted immunity should they need to bypass the law in order to recontain said entity.
+
+*a) Beings afflicted by an entity such as 007 do not count as an entity breach, beings afflicted by 008, 013 and 012 do however count. Beings in possession of an entity such as 014 and 010 also count as an entity breach.*
 
 
 
@@ -484,7 +497,9 @@ Any Personnel not yet listed
 
 6) Any Nova Corporation Personnel in violation of Article 2, Section 3, Sub-Section 3.1 may be terminated.
 
-7)The Engineering Department has been granted the ability to regulate all Regular Trucks.
+7) The Engineering Department has been granted the ability to regulate all Regular Trucks.
+
+8) All Nova Corporation personnel that have been designated the Class - E sentence are only eligible to be on the Test Subject team.
 
 
 
@@ -510,7 +525,9 @@ Any Personnel not yet listed
 
 *a) Security Personnel may decline a request for a Test Subject with a valid reason, such as raids and riots.*
 
-*b) In a scenario where an Innovation Personnel requests a Test Subject, the Combative must prioritize retrieving the Test Subject for the Innovation Personnel.
+*b) In a scenario where an Innovation Personnel requests a Test Subject, the Combative must prioritize retrieving the Test Subject for the Innovation Personnel.*
+
+*c) Test Subjects who have lost their custodian during the escort to, or during a test must be found and retrieved by Security Corps members, without termination, unless any conditions are satisfied in Article 3, Section 2, Clause 3.*
 
 3) Test Subjects may be terminated by the Security Corps at any time if the below conditions are satisfied:
 
@@ -595,6 +612,7 @@ Any Personnel not yet listed
 
 *b) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it. Said Test Subject may decline being used in another test, as long as the tests are not conjoined.
 
+5) Innovation Department Members internally ranking as “Innovator.” And above may utilize the Unarmoured Humvees while having at least one Security Personnel as escort.
 
 
 
