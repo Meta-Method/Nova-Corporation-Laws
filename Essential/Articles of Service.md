@@ -29,6 +29,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 **Engineering Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Engineering Department team.
 
+**Engineering Property:** Any and all Ore Depots, Engineering Department Warehouses, Refinery and the Cafeteria, the entirety of Power Plant, crafted vehicles, buildings, and tools, within Corporation-owned Sites, and resources that Enigneering Personnel are actively transporting.
+
 
 
 ## **Section 2: Base Law**
@@ -83,6 +85,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 *e) Engineering Department personnel ranking "Chairman" through “Associate Director”.*
 
 8) All representatives from other groups are considered VIPs on-site at that given time. Foreign Personnel may be escorted by Liaison Ancillary Personnel and Security Corps Task Force Detachment “The Armed Gentlemen” if necessary.
+
+9) All departmental guidelines sanctioned by the respective C-X of the said department overrule the Articles of Service.
 
 
 
@@ -230,6 +234,15 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 *b) Clogging up the radio with unnecessary chatter or radio 'spamming'.*
 
 *c) Exceptions to this law can be made if the person in question accidentally had their radio out at the time of their message.*
+
+
+17) Corporation Personnel shall not directly or indirectly threaten the lives of other Corporation Personnel and may terminate escaping Test Subjects, and other Corporation Personnel breaking this clause if there are no Security Personnel on-site.
+
+18) Corporation Personnel ranking Classification - A and above are granted permission to utilize unarmed humvees, and are able to enter tundra while in a vehicle.
+
+a) Classification-A, may not use the humvees stated in these locations: Security Corps Armoury; Engineering Department Spawn.
+
+
 
 
 
