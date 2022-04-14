@@ -417,13 +417,13 @@ Any Personnel not yet listed
 
 *c) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking "Triggermen" or above have been granted the ability to grant other personnel access to any area within the Entity Area, given they too have access, with proper reason.
 
-*d) Any Corporation Personnel or Visitor being escorted by Regulations or Liaison Personnel are allowed in the Lower Entity Area, and the first part of the Entity Chambers, but not the Containment Chamber itself.*
+d) Any Corporation Personnel or Visitor being escorted by a Liaison personnel are allowed in the Lower Entity Area, and the first part of the Entity Chambers, but not the Containment Chamber itself. Visitors being escorted by a Liaison personnel are allowed to enter Green threat level entities, unless authorization for higher Threat Levels has been given by the Innovation Department directorate.
 
 7) The Test Subject Zone in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
 *a) Areas within the Test Subject Zone used solely for the purpose of guarding from Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel.*
 
-*b) The Briefing Area is restricted to Departmental Personnel only.*
+b) The Briefing Area is restricted to Departmental Personnel and Corporation Personnel ranking Classification - A and above only.
 
 c) The Guidance booth is restricted to Regulations Department personnel, if none are using it, other departmental personnel may take their place. Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.
 
