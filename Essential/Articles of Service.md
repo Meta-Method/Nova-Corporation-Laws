@@ -193,13 +193,11 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *a) A detain evade is any attempt or successful attempt in being un-detained without the original detain user undetaining you.*
 
-9) No Corporation Personnel, with the exception of those who have access to weapons at-spawn, visitors and personnel ranking Classification - A or above, may utilize armored vest plating in any way shape, or form.
+9) No Corporation member besides those given explicit access to said materials, may not access or use Nova Corporation Property unless given access by those allowed to grant access go said materials. This includes but is not limited to, NCQE cameras for ID tests, ore boxes for crafting, bullet proof vests for those allowed to utilize them, and any other unwritten, yet stated materials for situations pertaining to departments and their duties.
 
-*a) Personnel ranking Classification - O or above, or Security Personnel ranking Security Supervisor or above may temporarily grant other personnel access to utilizing armored vest plating.*
+*a) Any Nova Corporation Property that can be reasonably discerned to be public materials may be used by any Corporation Member.*
 
-*b) Personnel may temporarily be granted access to an area to retrieve the vest under the circumstances that the location is not owned by a hostile force. Any activities not related to getting a vest and not leaving the area immediately after violates this clause.*
-
-*c) Engineering Personnel may only use the vest station in order to refill their vests.*
+*b) Individuals ranking Classification - A or higher may utilize bullet proof vests.*
 
 10) All non-combative Corporation Personnel with the exception of Operations Personnel may never actively seek danger or interfere with Security Corps gun fights and must always seek to reside in a safe location within a corporation owned site.
 
