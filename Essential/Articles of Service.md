@@ -139,7 +139,7 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 1) All Corporation Personnel trespassing in locations to which said personnel does not have access to are in violation of this clause.
 
-*a) Trespassing is defined as: Attempting to, or succeeding in, gaining access to a location to which you, given your currently assigned team, clearance, and, when applicable, department rank, do not have access to.*
+*a) Trespassing is defined as: Attempting to, loitering around, or succeeding in, gaining access to a location to which you, given your currently assigned team, clearance, and, when applicable, department rank, do not have access to.*
 
 *b) Authorization of personnel to enter an area that they are not, by default, allowed to have access to depends on the situation, location, and prior access detailed in Article 2, Subsection 3.1.*
 
