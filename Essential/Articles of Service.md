@@ -125,9 +125,11 @@ b) Informing another Corporation Personnel that you are a member of a department
 
 c) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.
 
-7) All Corporation Personnel are forbidden from colluding with any force hostile to the Nova Corporation.
+7) All Corporation Personnel are forbidden from cooperating with any force hostile to the Nova Corporation.
 
 *a) Any personnel that uses the Test Subject auction are in violation of this clause.*
+
+*b) All personnel are forbidden from paying for the services of any hostile force, including but not limited to; obtaining weaponry, tools, or anything else considered harmful to the Corporation.*
 
 8) All Corporation Personnel are forbidden from encouraging others to break the clauses in the Articles of Service.
 
