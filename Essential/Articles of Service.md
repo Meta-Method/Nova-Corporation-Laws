@@ -97,7 +97,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 ## **Section 1: Overall Etiquette**
 > Any clause within this section is to be followed at all times within any Nova Corporation related system or forum, whether it be On-Site, or within a communication platform.
 
-1) All Nova Corporation Personnel are to treat all other Nova Corporation Personnel, and Nova Corporation Property with respect, with no discrimination or exception.
+1) All Corporation Personnel are to treat all other Corporation Personnel, and Corporation Property with respect, with no discrimination or exception. Apart from that, all Corporation Personnel are to stay mature and professional while being on-site.
 
 *a) Nova Corporation Property includes, but is not limited to, Test Subjects, Vehicles, and crafted utilities (e.g. chairs or crates).*
 
