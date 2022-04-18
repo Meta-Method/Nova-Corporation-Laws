@@ -129,7 +129,7 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 *a) Any personnel that uses the Test Subject auction are in violation of this clause.*
 
-*b) All personnel are forbidden from paying for the services of any hostile force, including but not limited to; obtaining weaponry, tools, or anything else considered harmful to the Corporation.*
+*b) All personnel are forbidden from paying for the services of any hostile force, including but not limited to; obtaining weaponry, tools, or anything else considered harmful to the Corporation. The only exception to this is if Security or Operations personnel are obtaining Corporation assets from hostile forces.*
 
 8) All Corporation Personnel are forbidden from encouraging others to break the clauses in the Articles of Service.
 
