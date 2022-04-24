@@ -298,9 +298,9 @@ Personnel ranking Classification - O
 ↓
 Personnel as “Security Corps” as Task Force Detachment “The Crazies”
 ↓
-Personnel as “Regulations Department”, internally ranking “Chief Regulating Official” or above
-↓
 Personnel as “Security Corps” not yet listed
+↓
+Personnel as “Regulations Department”, internally ranking “Chief Regulating Official” or above
 ↓
 Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
 ↓
