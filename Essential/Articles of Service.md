@@ -421,7 +421,7 @@ d) Any Corporation Personnel or Visitor being escorted by a Liaison personnel ar
 
 7) The Test Subject Zone in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
-*a) Areas within the Test Subject Zone used solely for the purpose of guarding from Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel.*
+*a) Areas within the Test Subject Zone used solely for the purpose of guarding from Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel. The allocated lower parking areas are only to be used by personnel for travel, transportation, and evacuation.*
 
 b) The Briefing Area is restricted to Departmental Personnel and Corporation Personnel ranking Classification - A and above only.
 
@@ -430,6 +430,8 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 *d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to their respective Departmental Members and Combative Personnel only. These respective Departmental Members can grant temporary authorization into their sectors.*
 
 *e) The Refinery is restricted to members of the Engineering Department and Security Corps. Personnel from the Engineering Department may grant temporary authorization.*
+
+*f) Catwalks located at Upper Test Subject Zone are restricted to departmental members only.*
 
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
