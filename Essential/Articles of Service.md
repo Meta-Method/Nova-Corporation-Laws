@@ -157,7 +157,7 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 *d) Engineering Personnel are granted permission to utilise Entity-004 should any corporation personnel request a drink(s). However, Innovation Department tests are prioritised should a clash happen.*
 
-*e) All personnel may only make use of Gray Threat Level drinks from E-004 and Green Threat Level drinks if absolutely required. The document listing these drinks may be found here.*
+*e) Personnel ranking Classification - A, are allowed to utilize Entity 004's Gray Threat Level drinks; and Green Threat Level drinks if necessary. You may find the common grey threat level drinks here.*
 
 4) All Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
