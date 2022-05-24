@@ -159,6 +159,8 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 *e) Personnel ranking Classification - A, are allowed to utilize Entity 004's Gray Threat Level drinks; and Green Threat Level drinks if necessary. You may find the common grey threat level drinks here.*
 
+*f) Security personnel have been granted the ability to regulate entities, following the corresponding department’s internal guidelines.*
+
 4) All Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
 *a) Any article worn must not be immature, inappropriate, suggestive, or subversive in any form from all distances.*
@@ -404,6 +406,8 @@ Any Personnel not yet listed
 *c) Regulations Personnel and their accompanying Test Subject(s) may access the tundra while performing a patrol or site showcase with a Security Corps escort.*
 
 *d) Any Personnel may be allowed access to cross the tundra on a vehicle driven by an Engineering Personnel with a clear and reasonable intention.*
+
+*e) Innovation personnel are allowed to access tundra during an official Innovation Department test described under Article 3, Section 3.*
 
 5) The Forward Operating Base has been restricted to Security Personnel and Engineering Personnel under normal circumstances. The Forward Operating Base can be unrestricted to all Corporation Personnel pending Security Corps High Command order, due to a site-wide evacuation or other calamities of equal magnitude.
 
