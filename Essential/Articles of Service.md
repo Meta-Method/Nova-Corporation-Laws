@@ -29,7 +29,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 **Engineering Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Engineering Department team.
 
-**Engineering Property:** Any and all Ore Depots, Engineering Department Warehouses, Refinery and the Cafeteria, the entirety of Power Plant, crafted vehicles, buildings, and tools, within Corporation-owned Sites, and resources that Enigneering Personnel are actively transporting.
+**Engineering Property:** Engineering Property: Any and all Ore Depots, Engineering Department Warehouses, Refinery and the Cafeteria, the entirety of Power Plant and Naval Port, crafted vehicles, buildings, and tools, within Corporation-owned Sites, and resources that Engineering Personnel are actively transporting.
 
 
 
@@ -44,15 +44,11 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *c) The classification group ‘D - B’ are ranks with no concessions; omitting that higher classifications have been granted more access to documents & locations.*
 
-2) All deemed Nova Corporation documents & laws are deemed visible to corporation personnel unless aforementioned in these Sub-clauses:
+2) All deemed Nova Corporation Documents and Laws are deemed visible to corporation personnel unless aforementioned in these Sub-clauses:
 
-*a) Documents may be confined to internal departments or divisions; and classifications for that document. Class-X may grant the authorization to view documents inaccessible to that classification or department.*
+*a)  Documents may be confined to internal departments or divisions, and classifications for that document. A document may also be restricted if containing need-to-know information for internal divisions/departments. Class - X may grant the authorization to view documents inaccessible to that classification or department.*
 
-*b) Documents may be temporarily restricted if said by the Class - X.*
-
-*c) A document may be restricted if considered a ‘guide’ to an internal department or division or contains development information.*
-
-*d) A document may be ‘temporarily’  restricted by the Class - X Overwatch for any reason.*
+*b) Unrestricted or partially restricted documents may be restricted temporarily by the Class-X Overwatch for any reason.*
 
 3) Classification - E is the delegation rank given as seen fit to anyone who has been found to have broken the Articles of Service.
 
@@ -97,7 +93,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 ## **Section 1: Overall Etiquette**
 > Any clause within this section is to be followed at all times within any Nova Corporation related system or forum, whether it be On-Site, or within a communication platform.
 
-1) All Corporation Personnel are to treat all other Corporation Personnel, and Corporation Property with respect, with no discrimination or exception. Apart from that, all Corporation Personnel are to stay mature and professional while being on-site.
+1) All Nova Corporation Personnel are to treat all other Nova Corporation Personnel, and Test Subjects with respect, with no discrimination or exception. Furthermore, Nova Corporation Property is to be utilized to its fullest extent to prevent the wastage of valuable resources and items. Upon the end of use/lifecycle, the property should be disposed of in a swift and professional manner.
 
 *a) Nova Corporation Property includes, but is not limited to, Test Subjects, Vehicles, and crafted utilities (e.g. chairs or crates).*
 
@@ -179,7 +175,7 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 *b) Non-Combative Corporation Personnel may only utilize weapons classified as "handguns", any other weapon is therefore considered banned from being used, and if picked up should be given to Security Personnel.*
 
-*c) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members, with the exception of handguns when requested by and for a Departmental Member. Engineering Personnel may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and sub-clauses.*
+*c) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members, with the exception of handguns when requested by and for a Departmental Member. Engineering Department Members may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and Sub-Clauses. Security Personnel may not craft items using the crafting tables unless Engineering Personnel are unavailable, and the crafted object is absolutely necessary.*
 
 d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by operatives of Security Corps Task Force Detachment "Nothing to See Here" and "The Crazies" internally ranking "Crazy Advisor".
 
@@ -226,6 +222,10 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 *b) The following have been granted the ability to authorize anyone to enter a given dimension following this chain of command; Security Corps General; Classification - X; "the Crazies" personnel internally ranking "Crazy Advisor"; Innovation Directorate.*
 
 14) All Corporation Personnel should not rope more than one body at a given time.
+
+*a) Engineering Personnel may rope more than 1 body for the purposes of discarding it.*
+
+*b) Discarding a body is to remove it from an area that is known to have lots of foot traffic and placing it in a designated area.*
 
 15) EMPs may not be placed anywhere in which it becomes unreachable, and permanently blocks any area with no way of being destroyed without the help of moderation or abusing glitches. Breaking this clause can warrant a server ban.*
 
