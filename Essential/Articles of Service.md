@@ -109,7 +109,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 5) All Corporation Personnel receiving a formal inquiry regarding any cases must respond accurately with their side in the situation, provide all possible available evidence, and cooperate with said personnel. 
 
-*a) Personnel may not falsely claim to be a witness in an infraction, or forge any evidence. In addition, personnel may not abstain from questioning to protect the infractor.*
+*a) Personnel may not falsely file a report against an individual, claim to be a witness in an infraction, or forge any evidence. In addition, personnel may not abstain from questioning to either protect the infractor or intend to cause defamation.*
 
 b) Any Corporation Personnel may not abstain from reporting any Article of Service violations in exchange of any benefits and/or incentives. In addition, Corporation Personnel may not attempt to, or succeed in, preventing one from reporting any violations.
 
@@ -537,7 +537,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 3) Test Subjects may be terminated by the Security Corps at any time if the below conditions are satisfied:
 
-*a) Said test subject wields contraband; or discharges a weapon.*
+*a) Said Test Subject wields contraband; or discharges a weapon. For objects to be regarded as contraband, they must have the potential to directly, or indirectly harm, disorientate or assist test subjects in endangering Corporation Personnel.*
 
 *b) Said Test Subject surpasses the allocated three warnings.*
 
@@ -552,6 +552,8 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 *g) Termination order is given by the Innovation Personnel presiding over the test, and the said Test Subject is permanently affected by any anomalous effect.*
 
 *h) Said ‘Test Subjects’ have the ability to decline tests; interviews; or Site Showcases.*
+
+*i) Said Test Subject intentionally passes the white line in front of the Lower Test Subject Zone airlock gate, or comes into physical contact with the airlock windows.*
 
 4) Security Corps Task Force Detachment “The Armed Gentleman” have been unequivocally granted the special ability to if a Corporation Personnel ranking Classification - O or greater requests such, for any Security Personnel of the Task Force Detachment to inherit the Legislative Immunities of such a Personnel, and act on behalf of said personnel allows such.
 
@@ -665,7 +667,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 4) Engineering Personnel may not utilize corporate resources in an excessive and/or superfluous fashion. They also may not use these resources to directly aid any hostile force.
 
-5) The permission to operate aerial vehicles requires the fulfillment of internal departmental criteria (namely certification), or the supervision/authorization of other corporate personnel with the appropriate permissions.
+5) The permissions to operate aerial vehicles require the fulfilment of internal department rank "Engineer" or higher and the passing of Aerial Certification; or the supervision and authorization of other corporate personnel with the appropriate permissions.
 
 
 
