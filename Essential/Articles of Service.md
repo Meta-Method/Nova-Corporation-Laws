@@ -181,6 +181,8 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *e) Any weapons that can only be obtained from the death of or dropping from a certain team or division may be regulated by that respective team or division, any command regarding those weapons must be followed.*
 
+*f) Non-Combative personnel are prohibited from utilizing any weaponry in the Regulations Department Courtroom.*
+
 7) A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.
 
 *a) The ability to designate personnel “Kill on Sight” has been granted to all Operations Personnel and personnel ranking Classification - X.*
@@ -473,7 +475,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 18)  Should an entity be spotted at any facility not currently under siege, Security Corps detachment “The Crazies” gain full control of the facilities personnel, utilities and vehicles. Operatives are also granted immunity should they need to bypass the law in order to recontain said entity.
 
-*a) Beings afflicted by an entity such as 007 do not count as an entity breach, beings afflicted by 008, 013 and 012 do however count. Beings in possession of an entity such as 014 and 010 also count as an entity breach.*
+*a) Beings afflicted by an entity such as 007, 020 armor and 020 orbs do not count as an entity breach, beings afflicted by 008, 013 and 012 do however count. Beings in possession of an entity such as 014 and 010 also count as an entity breach.*
 
 
 
@@ -493,7 +495,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 *a) Termination may ensue if Section 2, Clause 3 is satisfied.*
 
-2) Members of the Security Corps Task Force Detachment “Iron Fist” have full ability to regulate; and maintain Vehicles designated for combat & Non-Combat purposes, such as The 2A6 Leopard; Armed Humvees; UH-60 “Black Hawk;” CV-22 “Osprey.”
+2) Members of the Task Force Detachment “Iron Fist” have full ability to regulate; and maintain Vehicles designated for combat & Non-Combat purposes, such as The 2A6 Leopard; Armed Humvees; UH-60 “Black Hawk;” CV-22 “Osprey,” “MH-60A Blackhawk.”
 
 3) The Security Corps have been granted the ability to regulate all Humvees, regardless of whether it is armed or not.
 
@@ -606,7 +608,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 *a) Green and Yellow Threat Level Entities may be tested by Novices and above without supervision.*
 
-*b) Orange Threat Level Entities may be tested by Innovators and above.*
+*b) Orange Threat Level Entities may be tested by Innovators and above without supervision.*
 
 *c) Red Threat Level Entities may be tested by Innovators with permission from Innovation Head Innovators and above, and Advanced Innovators and above without supervision.*
 
