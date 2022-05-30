@@ -97,7 +97,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) Nova Corporation Property includes, but is not limited to, Test Subjects, Vehicles, and crafted utilities (e.g. chairs or crates).*
 
-*b) All Nova Corporation Personnel are disallowed to issue unnecessary insults with an offensive tone to other personnel.*
+*b) Although 'banter' may be the intention, All Nova Corporation Personnel are disallowed to issue needless remarks with a hurtful and offensive tone to other personnel.*
 
 2) Discussion, Hinting, and Distribution of restricted material are strictly prohibited in an area where personnel with no access to said material is present or could be present.
 
@@ -174,8 +174,6 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
 *b) Non-Combative Corporation Personnel may only utilize weapons classified as "handguns", any other weapon is therefore considered banned from being used, and if picked up should be given to Security Personnel.*
-
-*c) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members, with the exception of handguns when requested by and for a Departmental Member. Engineering Department Members may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and Sub-Clauses. Security Personnel may not craft items using the crafting tables unless Engineering Personnel are unavailable, and the crafted object is absolutely necessary.*
 
 d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by operatives of Security Corps Task Force Detachment "Nothing to See Here" and "The Crazies" internally ranking "Crazy Advisor".
 
@@ -433,7 +431,7 @@ b) The Briefing Area is restricted to Departmental Personnel and Corporation Per
 
 c) The Guidance booth is restricted to Regulations Department personnel, if none are using it, other departmental personnel may take their place. Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.
 
-*d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to their respective Departmental Members and Combative Personnel only. These respective Departmental Members can grant temporary authorization into their sectors.*
+*d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to Departmental Members only. However, locations within the sector such as Offices, Meeting rooms, Interrogation room, and Court room require authorization from respective Departmental Members to enter.*
 
 *e) The Refinery is restricted to members of the Engineering Department and Security Corps. Personnel from the Engineering Department may grant temporary authorization.*
 
@@ -670,6 +668,8 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 4) Engineering Personnel may not utilize corporate resources in an excessive and/or superfluous fashion. They also may not use these resources to directly aid any hostile force.
 
 5) The permissions to operate aerial vehicles require the fulfilment of internal department rank "Engineer" or higher and the passing of Aerial Certification; or the supervision and authorization of other corporate personnel with the appropriate permissions.
+
+6) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members, with the exception of handguns when requested by and for a Departmental Member. Engineering Department Members may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and Sub-Clauses. Security Personnel may not craft items using the crafting tables unless Engineering Personnel are unavailable, and the crafted object is absolutely necessary.
 
 
 
