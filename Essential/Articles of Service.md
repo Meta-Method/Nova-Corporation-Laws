@@ -175,6 +175,8 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 *b) Non-Combative Corporation Personnel may only utilize weapons classified as "handguns", any other weapon is therefore considered banned from being used, and if picked up should be given to Security Personnel.*
 
+*c) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members, with the exception of handguns when requested by and for a Departmental Member. Security Personnel may not craft items using the crafting tables unless Engineering Personnel are unavailable, and the crafted object is absolutely necessary.*
+
 d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by operatives of Security Corps Task Force Detachment "Nothing to See Here" and "The Crazies" internally ranking "Crazy Advisor".
 
 *e) Any weapons that can only be obtained from the death of or dropping from a certain team or division may be regulated by that respective team or division, any command regarding those weapons must be followed.*
@@ -669,7 +671,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 5) The permissions to operate aerial vehicles require the fulfilment of internal department rank "Engineer" or higher and the passing of Aerial Certification; or the supervision and authorization of other corporate personnel with the appropriate permissions.
 
-6) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members, with the exception of handguns when requested by and for a Departmental Member. Engineering Department Members may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and Sub-Clauses. Security Personnel may not craft items using the crafting tables unless Engineering Personnel are unavailable, and the crafted object is absolutely necessary.
+6) Engineering Department Members may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and Sub-Clauses.
 
 
 
