@@ -250,6 +250,15 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *a) “Combat Detain” is the usage of Detain during combat without reason to gain an unfair advantage.
 
+20) Corporation Personnel during hostage situations must abide by rules such as the following:
+
+*a) When taken hostage, the said hostage may not redeploy, reset, or leave the game to avoid the situation, unless there is a good reason.*
+
+*b) The law does not apply if the armed personnel hadn't been delimbed.*
+
+*c) The law does not apply if the personnel is detained through fences or walls.*
+
+
 
 
 
