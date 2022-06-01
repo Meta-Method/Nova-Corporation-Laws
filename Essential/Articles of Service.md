@@ -93,7 +93,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 ## **Section 1: Overall Etiquette**
 > Any clause within this section is to be followed at all times within any Nova Corporation related system or forum, whether it be On-Site, or within a communication platform.
 
-1) All Nova Corporation Personnel are to treat all other Nova Corporation Personnel, and Test Subjects with respect, with no discrimination or exception. Furthermore, Nova Corporation Property is to be utilized to its fullest extent to prevent the wastage of valuable resources and items. Upon the end of use/lifecycle, the property should be disposed of in a swift and professional manner.
+1) All Corporation Personnel are to treat all other Corporation Personnel with respect, with no discrimination or exception. Furthermore, Nova Corporation Property is to be utilized to its fullest extent to prevent the wastage of valuable resources and items. (Misuse of Property is strictly prohibited, and any action that may render said Property unusable is considered misuse, unless when attempting to fix said Property.) Upon the end of use/lifecycle, the property should be disposed of in a swift and professional manner. Apart from that, all Corporation Personnel are to stay mature and professional while being on-site.
 
 *a) Nova Corporation Property includes, but is not limited to, Test Subjects, Vehicles, and crafted utilities (e.g. chairs or crates).*
 
