@@ -490,6 +490,10 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 *a) Beings afflicted by an entity such as 007, 020 armor and 020 orbs do not count as an entity breach, beings afflicted by 008, 013 and 012 do however count. Beings in possession of an entity such as 014 and 010 also count as an entity breach.*
 
+19) Corporation Personnel are not permitted on the pad/runway of landing zones whilst aircraft(s) are departing or arriving to prevent potential harm to person(s) or and/or aircraft.
+
+*a) Exceptions to said rule are Engineering Personnel or Security Personnel assisting the motion of the aircraft with call-outs, radio notifications, use of glowsticks, etc.*
+
 
 
 
@@ -731,12 +735,14 @@ Ratification of the Articles of Service requires signature denoting approval fro
 
 **DogePurpose**, Deputy Director, Innovation Department
 
-**AviatorCxxl**, Director of Regulations, Regulations Department
+**(Pending)**, Director of Regulations, Regulations Department
 
 **Ari_Grandelover16**, Assistant Director, Regulations Department
 
 **Rickew**, Assistant Director, Regulations Department
 
-**(Pending)**, Legislative Head, Regulations Department
+**Spagetti90**, Assistant Director, Regulations Department
+
+**obe1katoby**, Legislative Head, Regulations Department
 
 **(Pending)**, Executive Drone, Department of Operations
