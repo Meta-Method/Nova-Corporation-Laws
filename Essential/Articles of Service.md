@@ -66,7 +66,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *d) Security Corps personnel ranking "Security Major" through "Captain".*
 
-*e) Engineering Department personnel ranking Director of Engineering" through "Foreperson".*
+*e) Engineering Department personnel ranking "Director of Engineering" through "Foreperson".*
 
 7) Classification of "High Command", or commonly referred to as "Directorate" is bestowed upon the following ranks of each department.
 
@@ -244,7 +244,11 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 18) Corporation Personnel ranking Classification - A and above are granted permission to utilize unarmed humvees, and are able to enter tundra while in a vehicle.
 
-a) Classification-A, may not use the humvees stated in these locations: Security Corps Armoury; Engineering Department Spawn.
+*a) Classification-A, may not use the humvees stated in these locations: Security Corps Armoury; Engineering Department Spawn.*
+
+19) Any Corporation Personnel with access to Detain may not “Combat Detain”.
+
+*a) “Combat Detain” is the usage of Detain during combat without reason to gain an unfair advantage.
 
 
 
