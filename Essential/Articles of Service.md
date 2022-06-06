@@ -430,13 +430,13 @@ Any Personnel not yet listed
 
 6) The Entity Area in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
-*a) The Entity Area underground zone, the buildings leading to the underground zone, and all rooms in the underground zone are further restricted to Departmental Personnel.*
+*a) The Entity Area Threat Level Containment Sectors, Security Armory, Laboratory and Ore Deposit are restricted to departmental personnel.*
 
 *b) Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3. There is one exception to this subclause; "The Mineshaft" may be entered by Engineering personnel.*
 
 *c) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking "Triggermen" or above have been granted the ability to grant other personnel access to any area within the Entity Area, given they too have access, with proper reason.
 
-d) Any Corporation Personnel or Visitor being escorted by a Liaison personnel are allowed in the Lower Entity Area, and the first part of the Entity Chambers, but not the Containment Chamber itself. Visitors being escorted by a Liaison personnel are allowed to enter Green threat level entities, unless authorization for higher Threat Levels has been given by the Innovation Department directorate.
+*d) Any Corporation Personnel or Visitor being escorted by a Liaison personnel are allowed in the Threat Level Containment Sectors and the first part of the Entity Chambers, but not the Containment Chamber itself. Personnel and Visitors being escorted by a Liaison personnel are allowed to enter containment chambers housing Green threat level entities, unless authorization for higher Threat Levels has been given by the Innovation Department directorate.*
 
 7) The Test Subject Zone in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
