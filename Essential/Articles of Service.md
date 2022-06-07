@@ -258,6 +258,10 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *c) The law does not apply if the personnel is detained through fences or walls.*
 
+21) Nova Corporation Personnel are obligated to follow road laws while driving a vehicle, such as the following: Personnel are to stay on the right side of the road and yield at every intersection; If a checkpoint is manned, said Corporation Personnel are required to stop and interact with them; Personnel may only park within the dashed lines on the side of the road.
+
+*a) Pedestrians may only cross the road at intersections and walk on sidewalks, with the exception being an entity breach; a hostile attack; an emergency situation.*
+
 
 
 
