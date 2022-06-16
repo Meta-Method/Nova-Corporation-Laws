@@ -99,6 +99,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *b) Although 'banter' may be the intention, All Nova Corporation Personnel are disallowed to issue needless remarks with a hurtful and offensive tone to other personnel.*
 
+*c) Additionally, slander of departments in any form is covered by this clause.*
+
 2) Discussion, Hinting, and Distribution of restricted material are strictly prohibited in an area where personnel with no access to said material is present or could be present.
 
 *a) Should a breach of restricted material occur, actions dictated within the Information Breach Procedures are to be followed at all times.*
