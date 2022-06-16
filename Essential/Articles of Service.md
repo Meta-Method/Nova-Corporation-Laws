@@ -478,7 +478,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 *b) The only exception to this clause is for expeditions within "The Challenger" located in the ocean, which is restricted to Innovation Personnel, Security Personnel in Task Force Detachment "The Crazies" and personnel ranking Classification - O and above.*
 
-14) All personnel are not allowed to loiter around or repeatedly open the entrances to areas that they do not have access to. This includes the Test Subject Zone airlock, Entity Area hangar doors, etc.
+14) Personnel are not allowed to loiter around or continuously open the entrances to areas that they do technically have access to, but are not allowed inside ofThis includes the Test Subject Zone Airlock, Entity Area, Hangar Doors, Helipads, etc.
 
 15) Facilities owned by the Nova Corporation without proper legislation are restricted to Security, Regulations, Operations Personnel, and personnel ranking Classification-O with proper authorization and reason.
 
