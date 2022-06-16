@@ -181,7 +181,7 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *e) Any weapons that can only be obtained from the death of or dropping from a certain team or division may be regulated by that respective team or division, any command regarding those weapons must be followed.*
 
-*f) Non-Combative personnel are prohibited from utilizing any weaponry in the Regulations Department Courtroom.*
+*f) Non-Combative personnel with the exception of Operations Personnel are prohibited from utilizing any weaponry in the Regulations Department Courtroom regardless of circumstance.*
 
 7) A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.
 
