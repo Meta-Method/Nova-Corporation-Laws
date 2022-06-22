@@ -82,7 +82,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 8) All representatives from other groups are considered VIPs on-site at that given time. Foreign Personnel may be escorted by Liaison Ancillary Personnel and Security Corps Task Force Detachment “The Armed Gentlemen” if necessary.
 
-9) All departmental guidelines sanctioned by the respective C-X of the said department overrule the Articles of Service.
+9) Departmental personnel are exempt from certain clauses of the Articles of Service solely for the need to carry out their specific duties stated in their guidelines.
 
 
 
@@ -492,7 +492,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 *a) The Forward Operating Base is authorized by Security Corps Task Force Detachment “Iron Fist”. Any other area is authorized by the Security escort, as long as they have access to said area.*
 
-18)  Should an entity be spotted at any facility not currently under siege, Security Corps detachment “The Crazies” gain full control of the facilities personnel, utilities and vehicles. Operatives are also granted immunity should they need to bypass the law in order to recontain said entity.
+18)  Should an entity be spotted at any facility not currently under siege, Security Corps detachment “The Crazies” gain full control of the facilities personnel, utilities and vehicles.
 
 *a) Beings afflicted by an entity such as 007, 020 armor and 020 orbs do not count as an entity breach, beings afflicted by 008, 013 and 012 do however count. Beings in possession of an entity such as 014 and 010 also count as an entity breach.*
 
