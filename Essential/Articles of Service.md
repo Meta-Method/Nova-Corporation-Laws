@@ -526,7 +526,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 4) The Security Corps has been granted the ability to terminate all Nova Corporation Personnel found actively assisting hostile groups.
 
-5) For the UH-60 “Black Hawk” vehicles and CV-22 “Osprey” vehicles, the ability to regulate said vehicles is delegated to the respective authority whoever has ownership of said vehicle.
+5) For the UH-60 “Black Hawk” vehicles, CV-22 “Osprey” vehicles and the CH-47 "Chinook", the ability to regulate said vehicles is delegated to the respective authority whoever has ownership of said vehicle.
 
 6) Any Nova Corporation Personnel in violation of Article 2, Section 3, Sub-Section 3.1 may be terminated.
 
