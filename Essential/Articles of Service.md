@@ -520,7 +520,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 *a) Termination may ensue if Section 2, Clause 3 is satisfied.*
 
-2) Members of the Task Force Detachment “Iron Fist” have full ability to regulate; and maintain Vehicles designated for combat & Non-Combat purposes, such as The 2A6 Leopard; Armed Humvees; UH-60 “Black Hawk;” CV-22 “Osprey,” “MH-60A Blackhawk.”
+2) Members of the Task Force Detachment “Iron Fist” have full ability to regulate; and maintain Vehicles designated for combat & Non-Combat purposes, such as The 2A6 Leopard; Armed Humvees; the UH-60 “Black Hawk;” the CV-22 “Osprey,” MH-60A "Blackhawk” and the MRAP.
 
 3) The Security Corps have been granted the ability to regulate all Humvees, regardless of whether it is armed or not.
 
