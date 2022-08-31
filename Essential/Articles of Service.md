@@ -627,25 +627,13 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 *c) Said Innovation Personnel may disallow the listed Personnel above to question them and spectate if the test in question has been restricted by the Innovation Department’s assigned personnel ranking Classification - X; And proof must be provided at the time of request.*
 
-3) Internally enforced by the Innovation Department, Innovation Personnel are only allowed to test on Entity Threat Levels granted to them by their rank:
-
-*a) Green and Yellow Threat Level Entities may be tested by Novices and above without supervision.*
-
-*b) Orange Threat Level Entities may be tested by Innovators and above without supervision.*
-
-*c) Red Threat Level Entities may be tested by Innovators with permission from Innovation Head Innovators and above, and Advanced Innovators and above without supervision.*
-
-*d) Black Threat Level Entities may only be tested by Innovation Expert Innovators with supervision from the Innovation Deputy Director and above, Innovation Senior Innovators with permission from the Innovation Deputy Director and above, and Innovation Head Innovator and above without supervision.*
-
-*e) White Level Entities may only be tested by the Innovation Department Deputy Director and Director with permission from the Innovation Overseer, and the Innovation Overseer without permission.*
-
-4) All personnel present within a test must return to an area they have access to, as specified under Article 2, Subsection 3.1.
+3) All personnel present within a test must return to an area they have access to, as specified under Article 2, Subsection 3.1.
 
 *a) Test Subjects, remaining after the test is concluded, may not be terminated by Security Corps personnel and must be escorted back to the Test Subject Zone unless Articles 3 Section 2 Clause 3 is satisfied.
 
 *b) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it. Said Test Subject may decline being used in another test, as long as the tests are not conjoined.
 
-5) Innovation Department Members internally ranking as “Innovator.” And above may utilize the Unarmoured Humvees while having at least one Security Personnel as escort.
+4) Innovation Department Members internally ranking as “Innovator.” And above may utilize the Unarmoured Humvees while having at least one Security Personnel as escort.
 
 
 
