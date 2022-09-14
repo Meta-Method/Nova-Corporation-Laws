@@ -1,67 +1,46 @@
 ## Information Breach Procedures
-> An information breach is the name given to an event of Nova Corporation personnel spreading or leaking documents restricted to departments, Nova Corporation High Command, etc. At times, information breaches do not have to be documents as they could be Red Wolves raid info or departmental/high command discussions.
+> This document contains updated information regarding what Information Breaches are and how you are to deal with them. Any questions you have may be forwarded to a member of the Department of Operations. An information breach is a scenario in which someone with access to restricted information or material distributes that to someone who is not supposed to have access to said information or material. 
 
-https://docs.google.com/document/d/1duZa5iNegiYI2jdRoqtYDzAHKC6qDYYeIR-p8-CULqo/edit?usp=sharing
-
-### Section 1
-Departmental info breaches could include, but are not limited to;
-* Important departmental documents.
-* Recordings of important discussions that only regard the department at hand.
-* High-Rank Direct Messages on Nova Corporation-related topics.
-* General departmental topics.
-
-Some more examples are;
-* Images of the interior of the DoO facility.
-* DoO documents.
-* DoO discussions.
-* High Command discussions regarding the Nova Corporation Discord server and/or site.
-* Leakage of servers.
-* Leakage of important information in servers.
-
-In whole, anything related to DoO is strictly prohibited with no exceptions. High Command discussions or documents are not to be disclosed to any personnel unless chosen to by creators of the document in question.
-
-However, exceptions can be made if an individual had previously had access to said document and permissions had not been revoked, their High Command had allowed distribution of the document to another individual or group, or the document had been declassified for a group or multiple groups.
+https://docs.google.com/document/d/1Rt7kJIjdAkJBPJd7X9lhgHkTiVqTZGGTkTMoNf1Wzu8/edit?usp=sharing
 
 
-### Procedural Clauses
-> Violation of any of the Procedural Clauses will result in Class E sentences distributed by the Class X Overwatch or Department of Operations Command.
-
-1) Distribution of material relating to departmental topics is strictly prohibited.
-
-2) Information Breaches must be alerted to the Department of Operations Command as soon as possible to avoid any further spreading of breached material.
-
-3) Information Breaches must not be mentioned or referred to with personnel who have zero affiliation or lack proper clearance to be involved.
-
-4) There is a chain of command with Departmental Information Breaches;
-* *Contact the Overseer or Directorate of said Department.*
-* *Contact the corresponding High Ranks of said Department.*
-* *Contact Department of Operations High Command if no Departmental Command responds in decent timing to the situation.*
-
-5) If the Information Breach is located within any public discord channel of the Nova Corporation Discord Server, contact the Discord Moderation Team immediately.
-
-6) Any loopholes in regards to information breaches should be solved by the following;
-* *Attempting to get info about an information breach without authorization is strictly prohibited.*
-* *Attempting to discuss info about an information breach is prohibited.*
-* *Personnel involved in an information breach are required to respond to all Department of Operations Personnel and Nova Command Personnel questioning.*
-* *If you fail to report information breaches when coming across breached information, you are then found in accordance with the information breached.*
-* *Further distribution of the breached material is prohibited.*
-
-7) Any information related to the Department of Operations is required to be sent to the Department of Operations Command, if no Command is available contact a Class X to suppress the situation until Command is available.
-
-8) Any Departmental Based Information is protected under the Information Breach Clauses. Departmental Information is considered the following:
-* *Handbooks of ID, RD, SC, ED.*
-* *Sub-division & Task Force Detachment Handbooks.*
-* *Discord Invites and Trello Documents relating to any department.*
-* *Content stated within Department Discord Servers.*
-* *Any other material restricted by the Department's Overseer.*
-
-9) All Departmental Based Information and Nova Corporation Command information is not permitted to be shared without Authorization from proper command individuals within said Department or Classification-X Authorization.
-
-10) Any information that is not considered public should be considered confidential to share. In-turn, any information not mentioned in other clauses that is confidential is also protected by Information Breach Procedures.
+###### What are the punishments for an Information Breach?
+> An Information Breach may warrant a Class - E Sentence but the length entirely depends on the severity and the (sub-)department’s Overseer’s discretion. Furthermore, punishments may also differ from demotions to bans.
 
 
-### What happens after an information breach?
-The involved personnel will be investigated by the Department of Operations. On conclusion of investigation, punishment will be issued by the Department of Operations, in accordance with the Law Infractions Document, Article 2 - Section 1: Clause 2.
+###### What would be considered an Information Breach?
+> Many things can be considered an Information Breach but a few to the list are the following:
+1. Classified/Restricted departmental documents
+2. HC internal discussions regarding departments
+3. Private department server leaks
+4. Content within private channels
+5. Recordings of important Discussions the only regard the department at hand
+6. High-Rank Direct Messages on Nova Corporation related topics
+7. General departmental topics
+8. Leakage of important information in servers
 
-Steps will be taken to ensure that the breached material will not be breached again.
-Should you not know which authority you should report the breach to, report it to the Department of Operations, from there it will be reported to the right authorities.
+
+###### How can you help avoid Information Breaches?
+> Information Breaches are detrimental to the integrity of the Corporation and its departments. Knowledge regarding suspicious individuals that have a history of leaking information should be given to the Department of Operations, this allows them to keep an eye on the individual and take precautions if needed. Personnel are also encouraged to try to be more careful when discussing topics with other people to make sure classified information isn't accidentally leaked.
+
+
+
+
+### Procedures
+
+###### 1. Report the Information Breach immediately
+> Personnel involved in the information breach are required to report it immediately to members of the Department of Operations. If the information in the breach involves a department, the report should also be sent to the department’s Directorate and Overseer. All of the breached content must be handed over to the authorised personnel listed. 
+
+If the breach is located within any public discord channel of the Nova Corporation Discord Server, contact the Discord Moderation Team immediately. If you fail to report information breaches when coming across breached information, you are then found in accordance with the information breached.
+
+
+###### 2. Do not distribute the information any further 
+> Further distribution of the breached information with personnel not listed under Clause 1 with the breach is strictly prohibited, those who do so will be held equally accountable to the other person who breached it. Attempting to get info about an information breach without authorization is strictly prohibited, under Article 2, Section 1, clause 2 within the Articles of Service.
+
+
+###### 3. Do not mention the breach to unauthorised personnel
+> Personnel involved in the information breach cannot openly discuss the breach with those who are not authorised to investigate the case (refer to Clause 1). This avoids unnecessary attention and makes the investigation less complicated. Attempting to discuss in full about an information breach is prohibited.
+
+
+###### 4. Cooperate with the investigators
+> Cooperation and proper communication are key to mutual understanding. Personnel involved in the information breach are required to fully cooperate with the authorised personnel listed under Clause 1. You are not allowed to fabricate false information regarding a breach, doing so will result in punishment.
