@@ -420,7 +420,7 @@ Any Personnel not yet listed
 
 4) Areas that can be reasonably deduced as being within the “tundra”, unincorporated, organized space outside of bounds of any establishment, have been restricted to only personnel ranking Classification - O and Security Personnel.
 
-*a) Tram tunnels between locations are considered as "tundra", and are restricted to only personnel ranking Classification - O and Security Personnel, EXCEPT for when on a tram.*
+*a) Tram tunnels between locations are considered as "tundra", and are restricted to only personnel ranking Classification - O and Security Personnel, EXCEPT for when on a tram which is limited to departmental personnel.*
 
 *b) Engineering Personnel may be allowed access to areas of the tundra under the circumstance that they are transporting items or personnel, or per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to build a structure or fortification.*
 
