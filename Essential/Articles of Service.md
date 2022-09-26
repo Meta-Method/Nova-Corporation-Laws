@@ -157,6 +157,8 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 *f) Security personnel have been granted the ability to regulate entities, following the corresponding department’s internal guidelines.*
 
+*g) Members of the Regulations Department are allowed to utilize Entity - 004's Gray Threat Level drinks.*
+
 4) All Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
 *a) Any article worn must not be immature, inappropriate, suggestive, or subversive in any form from all distances.*
