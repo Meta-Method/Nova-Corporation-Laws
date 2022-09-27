@@ -111,6 +111,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) Personnel may not falsely file a report against an individual, claim to be a witness in an infraction, or forge any evidence. In addition, personnel may not abstain from questioning to either protect the infractor or intend to cause defamation.*
 
+*b) All personnel are forbidden from fabricating false reports on departmental members stating they violated internal regulations to a departmental high command member.*
+
 b) Any Corporation Personnel may not abstain from reporting any Article of Service violations in exchange of any benefits and/or incentives. In addition, Corporation Personnel may not attempt to, or succeed in, preventing one from reporting any violations.
 
 6) All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel or hostile forces, within any Nova Corporation Site, neither it should be done on any communications platform of the Nova Corporation. Impersonation of personnel or hostile forces includes the following actions:
@@ -498,9 +500,9 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 *a) Beings afflicted by an entity such as 007, 020 armor and 020 orbs do not count as an entity breach, beings afflicted by 008, 013 and 012 do however count. Beings in possession of an entity such as 014 and 010 also count as an entity breach.*
 
-19) Corporation Personnel are not permitted on the pad/runway of landing zones whilst aircraft(s) are departing or arriving to prevent potential harm to person(s) or and/or aircraft.
+19) Corporation Personnel are not permitted on the pad/runway of landing zones whilst aircraft(s) are departing or arriving to prevent potential harm to person(s)  and/or aircraft.
 
-*a) Exceptions to said rule are Engineering Personnel or Security Personnel assisting the motion of the aircraft with call-outs, radio notifications, use of glowsticks, etc.*
+*a) Exceptions to said rule are Engineering Personnel or Security Personnel assisting the motion of the aircraft with call-outs, radio notifications, use of glowsticks, and all other tools that provide auditory and/or visual assistance to aircraft pilots.*
 
 
 
@@ -662,7 +664,7 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 
 2) Operations Personnel may not directly override departmental commands from said Department's or Sub-Department’s High Command, unless the situation is in a critical state and an improper decision could result in a major loss of Nova Corporation Personnel, Property, and Information.
 
-3) Operations Personnel may terminate any Corporation Personnel below the ranking of Classification - X, should their lives be directly put in any danger by the stated Corporation Personnel.
+3) Operations Personnel may terminate any Corporation Personnel below the ranking of Classification - X, should their lives be purposefully put in any danger by the stated Corporation Personnel.
 
 
 ## **Section 6: The Engineering Department**
