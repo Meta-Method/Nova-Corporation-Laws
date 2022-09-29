@@ -452,7 +452,7 @@ Any Personnel not yet listed
 
 *b) The Briefing Area is restricted to Departmental Personnel and Corporation Personnel ranking Classification - A and above only.*
 
-*c) The Guidance booth is restricted to Regulations Department personnel, if none are using it, other departmental personnel **and Corporation Personnel ranking Classification - A and above may take their place. Unmentioned Corporation** Personnel are not allowed inside unless taking shelter from an active hostile threat.*
+*c) The Guidance booth is restricted to Regulations Department personnel, if none are using it, other departmental personnel and Corporation Personnel ranking Classification - A and above may take their place. Unmentioned Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.*
 
 *d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to Departmental Members only. However, locations within the sector such as Offices, Meeting rooms, Interrogation room, Medical Wing and Court room require authorization from respective Departmental Members to enter.*
 
