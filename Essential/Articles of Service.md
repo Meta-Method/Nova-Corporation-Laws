@@ -29,7 +29,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 **Engineering Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Engineering Department team.
 
-**Engineering Property:** Engineering Property: Any and all Ore Depots, Engineering Department Warehouses, Refinery and the Cafeteria, the entirety of Power Plant and Naval Port, crafted vehicles, buildings, and tools, within Corporation-owned Sites, and resources that Engineering Personnel are actively transporting.
+**Engineering Property:** Engineering Property: Any and all Ore Depots, Engineering Department Warehouses, Refinery and the Cafeteria, the entirety of Power Plant and Naval Port, crafted vehicles, buildings, and tools, within Corporation-owned Sites, and resources that Engineering Personnel are actively transporting, and the Lithium Mine.
 
 
 
@@ -177,7 +177,7 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
-*b) Non-Combative Corporation Personnel may only utilize weapons classified as "handguns", any other weapon is therefore considered banned from being used, and if picked up should be given to Security Personnel.*
+*b) Non-Combative Corporation Members may only utilize weapons classified as 'handguns', unless if there is an immediate threat to their own life, or the lives of those around them, where they may utilize weapons not classified as a 'handgun', not including the following weapons; RPG-7, Dimensional weaponry, laser weaponry, anomalous weaponry, and flamethrower. Upon the threat being removed, such corporation member is required to drop any weapon not classified as a handgun, or hand it to the nearest Security Corps member.*
 
 *c) Engineering Personnel are granted the right to craft any weapon and hold it on their person as long as it is not used, and is given to Security Corps Members, with the exception of handguns when requested by and for a Departmental Member. Security Personnel may not craft items using the crafting tables unless Engineering Personnel are unavailable, and the crafted object is absolutely necessary.*
 
@@ -325,8 +325,6 @@ Personnel as “Security Corps” as Task Force Detachment “The Crazies”
 ↓
 Personnel as “Security Corps” not yet listed
 ↓
-Personnel as “Regulations Department”, internally ranking “Chief Regulating Official” or above
-↓
 Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
 ↓
 Personnel ranking Classification - A
@@ -452,9 +450,9 @@ Any Personnel not yet listed
 
 *a) Areas within the Test Subject Zone used solely for the purpose of guarding by Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel and Corporation Personnel ranking Classification - O and above. The allocated lower parking areas are only to be used by personnel for travel, transportation, and evacuation.*
 
-b) The Briefing Area is restricted to Departmental Personnel and Corporation Personnel ranking Classification - A and above only.
+*b) The Briefing Area is restricted to Departmental Personnel and Corporation Personnel ranking Classification - A and above only.*
 
-c) The Guidance booth is restricted to Regulations Department personnel, if none are using it, other departmental personnel may take their place. Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.
+*c) The Guidance booth is restricted to Regulations Department personnel, if none are using it, other departmental personnel and Corporation Personnel ranking Classification - A and above may take their place. Unmentioned Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.*
 
 *d) The Executive Sectors for both Regulations and Innovation Personnel are restricted to Departmental Members only. However, locations within the sector such as Offices, Meeting rooms, Interrogation room, Medical Wing and Court room require authorization from respective Departmental Members to enter.*
 
@@ -463,6 +461,8 @@ c) The Guidance booth is restricted to Regulations Department personnel, if none
 *f) Catwalks located at Upper Test Subject Zone are restricted to departmental members only.*
 
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
+
+*a) The generator room is to be accessed only by Personnel Ranking Classification - O, Security and Engineering personnel.*
 
 9) Areas that can be reasonably described as being owned by a force that is not the Nova Corporation are restricted to all personnel except personnel ranking Classification - O and Security Personnel.*
 
