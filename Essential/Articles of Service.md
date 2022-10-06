@@ -62,7 +62,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *c) Innovation Department personnel ranking "Head innovator" and "Expert Innovator".*
 
-*d) Security Corps personnel ranking "Security Major" through "Captain".*
+*d) Security Corps personnel ranking "Security Major" through "Security Supervisor".*
 
 *e) Engineering Department personnel ranking "Director of Engineering" through "Foreperson".*
 
