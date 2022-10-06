@@ -131,6 +131,7 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 8) All Corporation Personnel are forbidden from encouraging others to break the clauses in the Articles of Service.
 
+9) Corporation Personnel may not use false information for personal gain; in any way that changes the outcome of said action; or to give themselves the authority to do things they cannot.
 
 ## **Section 2: On-Site Behaviour**
 > Any clause within this section is to be followed on any and all official Nova Corporation sponsored sites. Current sites include the Nova Corporation Research Installment, designation 11.
@@ -389,6 +390,8 @@ Personnel ranking Classification - O
 ↓
 Personnel as “Security Corps”
 ↓
+Personnel as “Engineering Department”, internally ranking “Foreperson” or above
+↓
 Personnel ranking Classification - A
 ↓
 Any Personnel not yet listed
@@ -422,7 +425,7 @@ Any Personnel not yet listed
 
 4) Areas that can be reasonably deduced as being within the “tundra”, unincorporated, organized space outside of bounds of any establishment, have been restricted to only personnel ranking Classification - O and Security Personnel.
 
-*a) Tram tunnels between locations are considered as "tundra", and are restricted to only personnel ranking Classification - O and Security Personnel, EXCEPT for when on a tram which is limited to departmental personnel.*
+*a) Tram tunnels between locations are considered as "tundra", and are restricted to only personnel ranking Classification - O and Security Personnel, EXCEPT for when on a tram which is limited to departmental personnel and Classification - A+.*
 
 *b) Engineering Personnel may be allowed access to areas of the tundra under the circumstance that they are transporting items or personnel, or per request of personnel ranking Classification - O and Security Personnel under the circumstance that their intention is to build a structure or fortification.*
 
