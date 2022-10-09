@@ -463,6 +463,8 @@ Any Personnel not yet listed
 
 *f) Catwalks located at Upper Test Subject Zone are restricted to departmental members only.*
 
+*g) The TZS Norstar can only be used/accessed by Departmental Personnel and Classification - A and above.*
+
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
 *a) The generator room is to be accessed only by Personnel Ranking Classification - O, Security and Engineering personnel.*
