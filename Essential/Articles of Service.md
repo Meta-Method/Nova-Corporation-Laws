@@ -463,7 +463,7 @@ Any Personnel not yet listed
 
 *f) Catwalks located at Upper Test Subject Zone are restricted to departmental members only.*
 
-*g) The TZS Norstar can only be used/accessed by Departmental Personnel and Classification - A and above.*
+*g) The TZS Norstar can only be used/accessed by Departmental Personnel under any circumstances and Classification - A and above Personnel when there is an urgent situation in progress.*
 
 8) The Main Encampment in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
