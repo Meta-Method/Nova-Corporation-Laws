@@ -411,6 +411,27 @@ Any Personnel not yet listed
 6) During a “High Threat Level” at any designated location, all control of the location is transferred to the Security Corps and the Engineering Department, and all Non-Combative Corporation Personnel are to be evacuated immediately.
 
 
+7) For dealing with infractors, the hierarchy is as follows:
+
+Personnel as “Department of Operations”
+↓
+Personnel as “Regulations Department”
+↓
+Personnel as “Security Corps”
+
+
+8) Within any area outside location boundaries, including unlisted locations within the tundra, the hierarchy is as follows:
+
+Personnel ranking Classification - O
+↓
+Personnel as “Security Corps” internally ranking “TFD” or higher
+↓
+Personnel as Engineering Department
+↓
+Any Personnel not yet listed
+
+
+
 ## **Subsection 3.1: Area Restrictions**
 > Any clause within this subsection details restrictions for all Nova Corporation Personnel on locations throughout the Nova Corporation Research Installment, designation 11. Restriction is written through descending priority. When describing a tangible location, it is to be assumed that the affected area also includes the 20 stud radius around the described location, or otherwise close to a tangible border.
 
@@ -509,6 +530,7 @@ Any Personnel not yet listed
 
 *a) Exceptions to said rule are Engineering Personnel or Security Personnel assisting the motion of the aircraft with call-outs, radio notifications, use of glowsticks, and all other tools that provide auditory and/or visual assistance to aircraft pilots.*
 
+20) Regulations Department and Operations personnel may restrict access from non-essential members to perform important duties such as: Investigation, Interrogation, or other duties.
 
 
 
