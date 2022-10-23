@@ -82,6 +82,16 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 8) Departmental personnel are exempt from certain clauses of the Articles of Service solely for the need to carry out their specific duties stated in their guidelines.
 
+9) All Corporation Personnel have the right to send a formal request for information regarding their punishments from the Regulations Department and Discord Moderation.
+
+*a) All formal requests for information must be made with the intention of aiding them in the appeals process for each specific department/sub-component.*
+
+*b) Formal requests may be denied for cases where their punishment is unappealable.*
+
+*c) For appeals regarding Class-E, the appealee must be shown where to find details about their punishment.*
+
+*d) Certain personnel/information involved in the cases can be blacked out if there is strong evidence that suggests the personnel's safety may be endangered or that information may cause future problems.*
+
 
 
 
@@ -197,6 +207,8 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 8) Corporation Personnel being detained by the Regulations Department, Security Corps, or Department of Operations may not evade or attempt to evade being detained.
 
 *a) A detain evade is any attempt or successful attempt in being un-detained without the original detain user undetaining you.*
+
+*b) Personnel that change to the Test Subject team to detain evade may be detained as a Test Subject for interrogations.*
 
 9) No Corporation member besides those given explicit access to said materials, may not access or use Nova Corporation Property unless given access by those allowed to grant access go said materials. This includes but is not limited to, NCQE cameras for ID tests, ore boxes for crafting, bullet proof vests for those allowed to utilize them, and any other unwritten, yet stated materials for situations pertaining to departments and their duties.
 
