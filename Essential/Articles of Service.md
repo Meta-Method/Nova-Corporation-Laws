@@ -113,7 +113,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) Should a breach of restricted material occur, actions dictated within the Information Breach Procedures are to be followed at all times.*
 
-3) Should a Corporation Personnel state that they violated or will violate the Articles of Service, they may be treated as suspects of a violation, and evidence of such is to be added to any subsequent investigations.
+3) Should a Corporation Personnel state that they violated or will violate the Articles of Service, they may be treated as suspects of a violation, and evidence of such is to be added to any subsequent investigations. Should the person lie about said violation, it is to be considered a violation of this clause and a violation of Article 2; Section 2; Clause 5 and will be punished as such.
 
 4) Should a Corporation Personnel witness a perceived violation of the Articles of Service, they are to report such violation in the Regulations Department Public server.
 
