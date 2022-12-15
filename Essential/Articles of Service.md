@@ -335,14 +335,16 @@ Any Personnel not yet listed
 Personnel ranking Classification - O
 ↓
 Personnel as “Security Corps” as Task Force Detachment “The Crazies”
-↓
+             ↓
 Personnel as “Security Corps” not yet listed
 ↓
 Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
 ↓
+**Personnel as “Innovation Department”, internally ranking “Head Innovator” or above**
+↓
 Personnel ranking Classification - A
 ↓
-Personnel as “Innovation Department”
+**Personnel as “Innovation Department” not yet listed**
 ↓
 Personnel as "Engineering Department" utilizing Entity - 004 or conducting Containment Chamber checks
 ↓
