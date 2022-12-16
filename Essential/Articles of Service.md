@@ -697,6 +697,7 @@ Any Personnel not yet listed
 
 4) Regulations Personnel internally ranking Regulating Official and above on the Regulations Department team are granted permission to utilize the Unarmoured Humvees.
 
+5) Liaison Ancillary personnel may temporarily override location access for the purpose of touring. Security Corps TFD “The Armed Gentlemen” must be present at all times and Security Corps TFD “The Crazies” must be present as an escort in dimensions. This does not apply to areas restricted to the Class - X Overwatch nor the Department of Operations.
 
 ## **Section 5: The Department of Operations**
 > The Department of Operations has been tasked with maintaining the security of the Nova Corporation, and managing the Nova Corporation's overall operations within all of the Nova Corporation’s holdings and subsidiaries.
