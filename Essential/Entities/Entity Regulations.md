@@ -55,7 +55,7 @@ The following are general regulations that apply to all entities unless stated o
 
 * **Entity - 018:** ID has priority for testing purposes. Only TC/NTSH or Test Subjects may enter E-018-D for valid purposes such as exploration, or the obtaining of a Foreign Power Core.
 
-* **Entity - 020:** ED may enter the first layer ONLY to enter the second layer of E-020 with Test Subjects for the purpose of mining valuable resources. ID may send Test Subjects into all layers for the purpose of testing, but may not enter the mineshaft themselves. SC are not permitted in E-020, except for TC/NTSH. The NP416, and E-020-4 may only be utilized by TC/NTSH.
+* **Entity - 020:** ED may enter the ONLY the first and second layer of E-020 for the purpose of mining valuable resources. ID may send Test Subjects into all layers for the purpose of testing, but may not enter the mineshaft themselves. SC are not permitted in E-020, except for TC/NTSH. The NP416, and E-020-4 may only be utilized by TC/NTSH.
 
 
 #### Orange TL Entities
