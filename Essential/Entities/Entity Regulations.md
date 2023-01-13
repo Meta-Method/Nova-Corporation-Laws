@@ -88,4 +88,4 @@ The following are general regulations that apply to all entities unless stated o
 ### Super Soldier Regulations
 “Super Soldier” is a term used to define an individual who has multiple anomalous effects on them and/or is utilizing anomalous gear to further their advantage in combat. Due to the nature of how many variants there are, and the constant growing nature of these combinations, the specific combinations in question will be kept to the eyes of the proper authorized personnel, mainly SC and ID.
 
-* For any reason that a combative is to utilize entities/anomalous gear for the purpose of “Super Soldier,” are they to properly relay such information to RD for logging purposes, as to ensure no abuse of permissions takes place.
+* For any reason that a combative is to utilize entities/anomalous gear for the purpose of “Super Soldier", are they to properly relay such information to RD for logging purposes, as to ensure no abuse of permissions takes place.
