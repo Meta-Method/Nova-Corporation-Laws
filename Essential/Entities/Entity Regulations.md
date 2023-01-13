@@ -23,3 +23,17 @@ The following are general regulations that apply to all entities unless stated o
 * ID are not permitted to be inside of Entity Containment Chambers.
 * No combative or non-combative personnel are permitted to interact with entities. SC may be permitted to interact with an entity if authorized by SC command as per internal department regulation.
 
+
+### Specific Regulations
+
+#### Green TL Entities
+
+* **Entity - 004:** ID has priority for testing usage on 004. ED is the only department permitted to order drinks from E-004 unless the cafeteria is set to open, in which any departmental member may order Grey TL drinks. Green and Yellow TL drinks may only be ordered by SC with authorization from SC command during emergency situations (such as a raid, or a large-scale riot) or for TAG via their VIP, and Red+ TL drinks may only be ordered for testing purposes. For reference on the levels of drinks, read Entity 004 Output List
+
+
+
+
+
+
+
+
