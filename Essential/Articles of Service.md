@@ -158,19 +158,13 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 3) All Corporation Personnel are not allowed to willingly allow themselves or others to interact with an entity in any way.
 
-*a) The ability to regulate and authorize the usage of Entity - 004 has been fully delegated to the Innovation Department directorate.*
+*a) In the event of a valid Innovation Department test described under Article 2, Section 3, Clause 1, only a Test Subject may interact with the entity, unless the entity is obtainable.*
 
-*b) In the event of a valid Innovation Department test described under Article 2, Section 3, Clause 1, only a Test Subject may interact with the entity, unless the entity is obtainable.*
+*b) Obtainable entities may only be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Personnel host require the usage of them for that specific test.*
 
-*c) Obtainable entities may only be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Personnel host require the usage of them for that specific test.*
+*c) Personnel ranking Classification - A, are allowed to utilize Entity 004's Gray Threat Level drinks; and Green Threat Level drinks if necessary. You may find the common grey threat level drinks here.*
 
-*d) Engineering Personnel are granted permission to utilise Entity-004 should any corporation personnel request a drink(s). However, Innovation Department tests are prioritised should a clash happen.*
-
-*e) Personnel ranking Classification - A, are allowed to utilize Entity 004's Gray Threat Level drinks; and Green Threat Level drinks if necessary. You may find the common grey threat level drinks here.*
-
-*f) Security personnel have been granted the ability to regulate entities, following the corresponding department’s internal guidelines.*
-
-*g) Members of the Regulations Department are allowed to utilize Entity - 004's Gray Threat Level drinks.*
+*d) Any other regulations on entity interactions can be found here.
 
 4) All Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
@@ -761,7 +755,7 @@ Ratification of the Articles of Service requires signature denoting approval fro
 
 **(Pending)**, C-X Commandant, Department of Operations
 
-**(Pending)**, General, Security Corps
+**AstralVectris**, General, Security Corps
 
 **Scorpio0270**, Overseer, Innovation Department
 
@@ -769,20 +763,18 @@ Ratification of the Articles of Service requires signature denoting approval fro
 
 **(Pending)**, Head Commander, Security Corps
 
-**AstralVectris**, Commander, Security Corps
+**(Pending)**, Commander, Security Corps
 
-**Lizarynth**, Director, Innovation Department
+**DogePurpose**, Director, Innovation Department
 
-**DogePurpose**, Deputy Director, Innovation Department
+**(Pending)**, Deputy Director, Innovation Department
 
-**(Pending)**, Director of Regulations, Regulations Department
-
-**Ari_Grandelover16**, Assistant Director, Regulations Department
+**Ari_Grandelover16**, Director of Regulations, Regulations Department
 
 **Rickew**, Assistant Director, Regulations Department
 
 **Spagetti90**, Assistant Director, Regulations Department
 
-**obe1katoby**, Legislative Head, Regulations Department
+**DrP1xels**, Legislative Head, Regulations Department
 
 **(Pending)**, Executive Drone, Department of Operations
