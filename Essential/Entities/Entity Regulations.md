@@ -39,6 +39,27 @@ The following are general regulations that apply to all entities unless stated o
 
 #### Yellow TL Entities
 
+* **Entity - 002:** General Regulations apply.
+
+* **Entity - 003:** ID has priority over E-003 for testing purposes. Security Corps may use E-003 for the pursuit of hostiles into the 016 bunker.
+
+* **Entity - 011:** General Regulations apply.
+
+* **Entity - 012-E:** ID has priority for testing purposes. SC may use E-012-E in emergency situations (such as raids, or a large-scale riot) in which SC needs the anomalous properties of E-012-E and is authorized by SC command, or for TAG via their VIP. In the scenario that a test is done with E-012-E, the holder of the entity must be administered an “acid” drink from E-004 to return the entity.
+
+* **Entity - 012-D "Blue Layer”:** ID may send Test Subjects into the Blue Layer, but they may not enter it themselves. Only SC TFDs may only enter the Blue Layer with the express purpose of pursuing hostiles, utilizing DI-012-4 “Plasma Orb”, or if they are authorized to join a squad of TC/NTSH for an expedition. SC must still adhere to internal regulations.
+
+* **Entity - 012-D “Red Layer”:** ID may send Test Subjects into the Red Layer, but they may not enter it themselves. TFDs may only enter the Red Layer with the express purpose of pursuing hostiles, utilizing DI-012-6 “Collapse Orb” and DI-012-7 “Red Orb”, or if they are authorized to join a squad of TC/NTSH for an expedition. SC must still adhere to internal regulations.
+
+* **Entity - 014:** General Regulations apply.
+
+* **Entity - 018:** ID has priority for testing purposes. Only TC/NTSH or Test Subjects may enter E-018-D for valid purposes such as exploration, or the obtaining of a Foreign Power Core.
+
+* **Entity - 020:** ED may enter the first layer ONLY to enter the second layer of E-020 with Test Subjects for the purpose of mining valuable resources. ID may send Test Subjects into all layers for the purpose of testing, but may not enter the mineshaft themselves. SC are not permitted in E-020, except for TC/NTSH. The NP416, and E-020-4 may only be utilized by TC/NTSH.
+
+
+#### Orange TL Entities
+
 
 
 
