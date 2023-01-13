@@ -162,9 +162,9 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 *b) Obtainable entities may only be picked up and interacted with during an official Innovation Department test described under Article 3, Section 3, should the Innovation Personnel host require the usage of them for that specific test.*
 
-*c) Personnel ranking Classification - A, are allowed to utilize Entity 004's Gray Threat Level drinks; and Green Threat Level drinks if necessary. You may find the common grey threat level drinks here.*
+*c) Personnel ranking Classification - A, are allowed to utilize Entity 004's Gray Threat Level drinks; and Green Threat Level drinks if necessary.*
 
-*d) Any other regulations on entity interactions can be found here.
+*d) Any other regulations on entity interactions can be found here (https://docs.google.com/document/d/1omLww_tFqFf02OsD6_BA5ZGSfyB167mlU3YcL-Ih3Vk/edit).*
 
 4) All Corporation Personnel below Classification - O are to follow proper attire rules, to which extent may be enforced.
 
