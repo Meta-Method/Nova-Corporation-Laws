@@ -143,6 +143,9 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 9) Corporation Personnel may not use false information for personal gain; in any way that changes the outcome of said action; or to give themselves the authority to do things they cannot.
 
+10) Corporation Personnel may not use any alternative accounts in the Nova Corporation and its departments.
+
+
 ## **Section 2: On-Site Behaviour**
 > Any clause within this section is to be followed on any and all official Nova Corporation sponsored sites. Current sites include the Nova Corporation Research Installment, designation 11.
 
