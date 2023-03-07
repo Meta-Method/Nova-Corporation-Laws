@@ -181,7 +181,7 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 5) All Corporation Personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another Corporation Personnel’s duties.
 
-6) All Corporation Personnel, with the exception of those who have access to weapons at-spawn, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self-defense of themselves and those around them and shall not directly or indirectly threaten the lives of other personnel.
+6) All Corporation Personnel, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self-defense of themselves and those around them and shall not directly or indirectly threaten the lives of other personnel.
 
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
