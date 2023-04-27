@@ -35,7 +35,7 @@ A Special Request created as a referendum for the rank status of someone within 
 * Representatives must maintain good standing within their Department and the Corporation, removal from their department they are representing means an automatic removal from the Board of Advisors, unless through special case allowed by the Class-X Overwatch.
 * Representatives must maintain professionalism within proposals.
 * Representatives must issue a show an opinion (Aye or Nay) on a minimum of 1 out of every 2 global votes, else risking dismissal from the Board of Advisors.
-* This document seeks to establish this discord as an official system, setup rules, and make guidelines on proposals. It is recommended that suggested changes be passed through mystery3525 for wording consistency.
+* This document seeks to establish this discord as an official system, setup rules, and make guidelines on proposals.
 * Demanding somebody votes on a law is always punishable, this is not allowed to be done. You may tell somebody why you believe they should vote in a certain manner and encourage them to with reasoning that is plausible and makes sense and hasn't been changed or missing context.
 * Only Regulations Department personnel ranking as Senior Regulating Official and above may be able to announce new proposals to the Department Legislation voting channel. Only the Legislative Head Leader+ may add proposals from the Department Legislation voting channel to the Nova Corporation Law discord server, unless specifically told by the Legislative Head Leader+ that is it okay to do so.
 * Anything proposed in the Board of Advisors server may be in voting for only a week. If 1 week has passed after submitting the proposal, it will be automatically declined.
