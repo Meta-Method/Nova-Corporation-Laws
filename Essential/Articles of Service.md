@@ -515,7 +515,7 @@ Any Personnel not yet listed
 
 *b) Security Personnel may access the ore vault under the circumstance that there is an ongoing Hostile Raid in that area or to help in the apprehension of an infractor.*
 
-13) The "Ocean" is restricted to the members of the Security Corps Task Force Detachment "The Crazies", relevant Security and Regulations Personnel, personnel at the rank of Classification - O and Test Subjects participating in the test.
+13) The "Ocean" is restricted to the members of the Security Corps Task Force Detachment "The Crazies".
 
 *a) The only exception to this clause is for expeditions within "The Challenger" located in the ocean, which is restricted to Innovation Personnel, Security Personnel in Task Force Detachment "The Crazies" and personnel ranking Classification - O and above.*
 
