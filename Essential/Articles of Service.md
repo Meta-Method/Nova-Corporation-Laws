@@ -483,7 +483,7 @@ Any Personnel not yet listed
 
 7) The Test Subject Zone in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
-*a) Areas within the Test Subject Zone used solely for the purpose of guarding by Security personnel, including watchtowers, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel and Corporation Personnel ranking Classification - O and above. The allocated lower parking areas are only to be used by personnel for travel, transportation, and evacuation.*
+*a) Areas within the Test Subject Zone used solely for the purpose of guarding by Security personnel, including watchtowers, areas housing Test Subjects, lower Test Subject Zone airlock, and the Test Subject Zone hills, are restricted to Security Personnel and Corporation Personnel ranking Classification - O and above. The allocated lower parking areas are only to be used by personnel for travel, transportation, and evacuation.*
 
 *b) The Briefing Area is restricted to Departmental Personnel and Corporation Personnel ranking Classification - A and above only.*
 
