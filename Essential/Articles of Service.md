@@ -463,7 +463,7 @@ Any Personnel not yet listed
 
 *d) Any Personnel may be allowed access to cross the tundra on a vehicle driven by an Engineering Personnel with a clear and reasonable intention.*
 
-*e) Innovation personnel are allowed to access tundra during an official Innovation Department test described under Article 3, Section 3.*
+*e) Innovation personnel are allowed to access tundra during during the conduct of official Innovation Department duties that primarily include travel across/within the tundra, such as exploration events and tests, described under Article 3, Section 3. Security Personnel will be required to escort these events, unless there is no probability of a hostile encounter.*
 
 5) The Forward Operating Base has been restricted to Security Personnel and Engineering Personnel under normal circumstances. The Forward Operating Base can be unrestricted to all Corporation Personnel pending Security Corps High Command order, due to a site-wide evacuation or other calamities of equal magnitude.
 
