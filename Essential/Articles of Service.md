@@ -293,7 +293,7 @@ Personnel ranking Classification - X
 ↓
 Personnel ranking Classification - O
 ↓
-Personnel as “Department of Operations” internally ranking “Autonomous Sentinel” and above
+Personnel as “Department of Operations"
 ↓
 ...
 
