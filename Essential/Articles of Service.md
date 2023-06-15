@@ -54,7 +54,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 4) When considering any action ‘On-Site’, the Articles Of Service Is only bound on ‘public servers’. The Articles Of Service is exempt only from ‘private servers’.
 
-5) Classification of "High Rank". or commonly referred to as "High Command" is bestowed upon the following ranks of each department.
+5) Classification of "High Command" is bestowed upon the following ranks of each department.
 
 *a) Department of Operations Personnel ranking “Drone”.*
 
@@ -66,7 +66,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *e) Engineering Department personnel ranking "Coordinator" through "Foreperson".*
 
-6) Classification of "High Command", or commonly referred to as "Directorate" is bestowed upon the following ranks of each department.
+6) Classification of "Directorate" is bestowed upon the following ranks of each department.
 
 *a) Department of Operations personnel ranking “Class - X Commandant” through “Executive Drone”.*
 
