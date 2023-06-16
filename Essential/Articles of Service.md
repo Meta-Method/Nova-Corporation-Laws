@@ -694,6 +694,13 @@ Any Personnel not yet listed
 
 5) Liaison Ancillary personnel may temporarily override location access for the purpose of touring. Security Corps TFD “The Armed Gentlemen” must be present at all times and Security Corps TFD “The Crazies” must be present as an escort in dimensions. This does not apply to areas restricted to the Class - X Overwatch nor the Department of Operations.
 
+6) Regulations Personnel may ask the suspect(s) to plead guilty to the charges against him or her. The relevant clauses must be clearly cited, with all evidence provided to the suspect(s), explaining how the suspect violated said clauses, in the request for a confession. A plea may only be requested after all relevant evidence has been gathered.
+
+*a) Corporation Personnel have the right to plead 'not guilty' during an investigation.*
+
+*b) Corporation Personnel must not be coerced into a confession.*
+
+
 ## **Section 5: The Department of Operations**
 > The Department of Operations has been tasked with maintaining the security of the Nova Corporation, and managing the Nova Corporation's overall operations within all of the Nova Corporation’s holdings and subsidiaries.
 
