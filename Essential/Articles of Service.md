@@ -101,13 +101,11 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 ## **Section 1: Overall Etiquette**
 > Any clause within this section is to be followed at all times within any Nova Corporation related system or forum, whether it be On-Site, or within a communication platform.
 
-1) All Corporation Personnel are to treat all other Corporation Personnel with respect, with no discrimination or exception. Furthermore, Nova Corporation Property is to be utilized to its fullest extent to prevent the wastage of valuable resources and items. (Misuse of Property is strictly prohibited, and any action that may render said Property unusable is considered misuse, unless when attempting to fix said Property.) Upon the end of use/lifecycle, the property should be disposed of in a swift and professional manner. Apart from that, all Corporation Personnel are to stay mature and professional while being on-site.
+1) All Corporation Personnel are to treat all other Corporation Personnel with respect, with no discrimination or exception. Apart from that, all Corporation Personnel are to stay mature and professional while being on-site. They should also stay mature and professional while being on-site.
 
-*a) Nova Corporation Property includes, but is not limited to, Test Subjects, Entities, Vehicles, and crafted utilities (e.g. chairs or crates).*
+*a) Although 'banter' may be the intention, All Nova Corporation Personnel are disallowed to issue needless remarks with a hurtful and offensive tone to other personnel.*
 
-*b) Although 'banter' may be the intention, All Nova Corporation Personnel are disallowed to issue needless remarks with a hurtful and offensive tone to other personnel.*
-
-*c) Additionally, slander of departments in any form is covered by this clause.*
+*b) Additionally, slander of departments in any form is covered by this clause.*
 
 2) Discussion, Hinting, and Distribution of restricted material are strictly prohibited in an area where personnel with no access to said material is present or could be present.
 
@@ -145,6 +143,12 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 10) Corporation Personnel may not use any alternative accounts in the Nova Corporation and its departments.
 
+11) Nova Corporation Property is to be utilized to its fullest extent to prevent the wastage of valuable resources and items. (Misuse of Property is strictly prohibited, and any action that may render said Property unusable is considered misuse unless when attempting to fix said Property).
+
+*a) Upon the end of use/lifecycle, the property should be disposed of in a swift and professional manner.*
+
+*b) Nova Corporation Property includes but is not limited to, Test Subjects, Entities, Vehicles, and crafted utilities (e.g. chairs or crates).*
+
 
 ## **Section 2: On-Site Behaviour**
 > Any clause within this section is to be followed on any and all official Nova Corporation sponsored sites. Current sites include the Nova Corporation Research Installment, designation 11.
@@ -181,7 +185,7 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 5) All Corporation Personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another Corporation Personnel’s duties.
 
-6) All Corporation Personnel, have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, to utilize in self-defense of themselves and those around them and shall not directly or indirectly threaten the lives of other personnel.
+6) All Corporation Personnel have been granted the ability to utilize any weapon, found without breaking any other clause within this Articles of Service, only to utilize in self-defense of themselves and those around them and shall not directly or indirectly threaten the lives of other personnel.
 
 *a) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
@@ -276,7 +280,7 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 *a) Pedestrians may only cross the road at intersections and walk on sidewalks or sides of roads, with the exception being an entity breach; a hostile attack; an emergency situation.*
 
-
+22) Corporation Personnel are not allowed to pick up keycards with higher clearances.
 
 
 
