@@ -19,15 +19,15 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 ### **Clarification**
 **Corporation Personnel:** Anyone who is ranked Classification - D to Classification - O in the Nova Corporation.
 
-**Innovation Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Innovation Department team.
+**Innovation Personnel:** Any and all applicable personnel that have access to or are on the Innovation Department team.
 
-**Operations Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Department of Operations team.
+**Operations Personnel:** Any and all applicable personnel that have access to or are on the Department of Operations team.
 
-**Regulations Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Regulations Department team.
+**Regulations Personnel:** Any and all applicable personnel that have access to or are on the Regulations Department team.
 
-**Security Personnel:** Any and all applicable personnel that are normally tasked with defending sites/Corporation personnel/Corporation property and such. Examples of Security Personnel are, of course, the Security Corps and it's respective Task Force Detachments.
+**Security Personnel:** Any and all applicable personnel that are normally tasked with defending sites/Corporation personnel/Corporation property and such. Examples of Security Personnel are the Security Corps and its respective Task Force Detachments.
 
-**Engineering Personnel:** Any and all applicable personnel that, when speaking outside of Nova Corporation’s sites, have access to or, when speaking inside Nova Corporation’s sites, are on the Engineering Department team.
+**Engineering Personnel:** Any and all applicable personnel that have access to or are on the Engineering Department team.
 
 **Engineering Property:** Engineering Property: Any and all Ore Depots, Engineering Department Warehouses, Refinery and the Cafeteria, the entirety of Power Plant and Naval Port, crafted vehicles, buildings, and tools, within Corporation-owned Sites, and resources that Engineering Personnel are actively transporting, and the Lithium Mine.
 
