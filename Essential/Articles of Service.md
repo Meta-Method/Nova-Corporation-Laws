@@ -163,7 +163,7 @@ c) Enacting on behalf of a department or sub-department or individual, without e
 
 *a) “Within reason” is defined as an order that does not directly violate, or cause an indirect violation of the Articles of Service.*
 
-3) All Corporation Personnel are not allowed to willingly allow themselves or others to interact with an entity in any way.
+3) All Corporation Personnel are not allowed to willingly allow themselves or others to interact with an entity in any way, including Vending Machine-dispensed drinks which have anomalous effects.
 
 *a) In the event of a valid Innovation Department test described under Article 2, Section 3, Clause 1, only a Test Subject may interact with the entity, unless the entity is obtainable.*
 
