@@ -473,7 +473,7 @@ Any Personnel not yet listed
 
 6) The Entity Area in general is restricted only to which areas a Corporation Personnel may access with their default keycard.
 
-*a) The Entity Area Threat Level Containment Sectors, Security Armory, Road Areas outside of Containment sectors if re-containment is ongoing, Laboratory and Ore Deposit are restricted to departmental personnel. However, Corporation Personnel Ranking Classification - A and above may enter Green Threat Level Containment Sectors. The Courtroom is restricted to, and authorization access may only be granted by Regulations Personnel.*
+*a) The entirety of the lower Entity Area is restricted to departmental personnel and Corporation Personnel ranking Class - A. Security Personnel may grant temporary access to restricted areas to Non-Departmental Personnel if necessary during emergency situations.*
 
 *b) Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3. There is one exception to this subclause; "The Mineshaft" may be entered by Engineering personnel.*
 
