@@ -280,6 +280,15 @@ d) Dimension altered weapons (anomalous weaponry) may be authorized for usage by
 
 22) Corporation Personnel are not allowed to pick up keycards with higher clearances.
 
+23) The Black Market Shop may only be used by Corporation Personnel with authorization into the upper Test Subject Zone's inner area which encloses Test Subjects (Refer to Article 2, Subsection 3.1: Clause 7). Any item may be bought, given that the following conditions are satisfied:
+
+*a) Article 2, Section 2: Clause 3, including purchases such as Entity-008-M1 outbreak which is prohibited.*
+
+*b) Article 2, Section 2: Clause 6*
+
+*c) Article 2, Section 2: Clause 22*
+
+
 
 
 
