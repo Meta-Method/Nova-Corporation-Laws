@@ -98,7 +98,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 9) RIGHT TO REQUEST INFORMATION ABOUT PUNISHMENTS:
 
-*a) All Corporation Personnel have the right to send a formal request for information regarding their punishments from the Regulations Department and Discord Moderation.
+*a) All Corporation Personnel have the right to send a formal request for information regarding their punishments from the Regulations Department and Discord Moderation.*
 
 *b) All formal requests for information must be made with the intention of aiding them in the appeals process for each specific department/sub-component.*
 
