@@ -229,7 +229,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *d) Any article worn must not obscure rank title or name title to the point where it can no longer be reasonably discerned a precise rank or name.*
 
-*e) Corporation Personnel may not wear official uniforms that are associated or are very similar to a group's uniform that is hostile to Nova Corporation, with the exception of old and outdated uniforms no longer in use, however, this law does not apply to Operations Personnel or the Security Corps Task Force Detachment “Nothing To See Here”.
+*e) Corporation Personnel may not wear official uniforms that are associated or are very similar to a group's uniform that is hostile to Nova Corporation, with the exception of old and outdated uniforms no longer in use, however, this law does not apply to Operations Personnel or the Security Corps Task Force Detachment “Nothing To See Here”.*
 
 5) IMPEDING DUTIES:
 
@@ -249,9 +249,11 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *c) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
-*d) Engineering Personnel are granted the right to craft and possess any weapon, as long as it is not used and is given to Security Personnel. 
-*i) Handguns may be requested by and given to departmental members as per subclause (b)
-*ii) Security Personnel may only craft weapons when Engineering Personnel are unavailable, provided the crafted object is absolutely necessary.
+*d) Engineering Personnel are granted the right to craft and possess any weapon, as long as it is not used and is given to Security Personnel.*
+
+*i) Handguns may be requested by and given to departmental members as per subclause (b).*
+
+*ii) Security Personnel may only craft weapons when Engineering Personnel are unavailable, provided the crafted object is absolutely necessary.*
 
 *e) Dimension altered weapons (anomalous weaponry) may be authorised for usage by operatives of Task Force Detachment ‘Nothing to See Here’ and ‘The Crazies’ internally ranking ‘Crazy Advisor’ or above.*
 
@@ -295,7 +297,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 11) RESOURCE MANAGEMENT:
 
-*a) Only Corporation Personnel who spawn with weapons and Engineering Personnel may manipulate, manage, and store all mineral resources, and non-anomalous drinks.
+*a) Only Corporation Personnel who spawn with weapons and Engineering Personnel may manipulate, manage, and store all mineral resources, and non-anomalous drinks.*
 
 *i) Engineering Personnel internally ranking "Foreperson" or above may terminate personnel beneath in command as listed in Article 2 Section 3 violating this clause within reason.*
 
@@ -311,7 +313,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 13) ACCESS TO OUTER DIMENSIONS:
 
-*a) Outer dimensions of any kind may not be accessed or used in any way. 
+*a) Outer dimensions of any kind may not be accessed or used in any way.*
 
 *i) Security Corps Task Force Detachment "The Crazies" is exempt from this law and is authorized to fully have access to all dimensions in every shape or form.*
 
@@ -319,7 +321,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 14) ROPING BODIES:
 
-*a) All Corporation Personnel should not rope more than one body at a given time.
+*a) All Corporation Personnel should not rope more than one body at a given time.*
 
 *i) Engineering Personnel may rope more than 1 body for the purposes of discarding it.*
 
@@ -331,7 +333,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 16) RADIO ABUSE:
 
-*a) Misuse of the radio is strictly prohibited, which includes but is not limited to:
+*a) Misuse of the radio is strictly prohibited, which includes but is not limited to:*
 
 *i) Providing misinformation to Nova Corporation Staff for scenarios including, but not limited to: Hostile locations, Hostage scenarios, Test subjects riots, Entity Breaches, and Law Infractors.*
 
@@ -360,7 +362,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 20) HOSTAGE SITUATION:
 
-*a) Corporation Personnel during hostage situations must abide by rules such as the following:
+*a) Corporation Personnel during hostage situations must abide by rules such as the following:*
 
 *i) When taken hostage, the said hostage may not redeploy, reset, or leave the game to avoid the situation, unless there is a good reason.*
 
@@ -382,7 +384,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 23) BLACK MARKET USAGE:
 
-*a) The Black Market Shop may only be used by Corporation Personnel with authorization into the upper Test Subject Zone's inner area which encloses Test Subjects (Refer to Article 2, Section 4: Clause 7). Any item may be bought, given that the following conditions are satisfied:
+*a) The Black Market Shop may only be used by Corporation Personnel with authorization into the upper Test Subject Zone's inner area which encloses Test Subjects (Refer to Article 2, Section 4: Clause 7). Any item may be bought, given that the following conditions are satisfied:*
 
 *i) Article 2, Section 2: Clause 3, including purchases such as Entity-008-M1 outbreak which is prohibited.*
 
@@ -600,7 +602,7 @@ Any Personnel not yet listed
 
 *ii) Chambers that house entities located in the Entity Area are restricted to relevant Security Personnel and Test Subjects participating in a valid Innovation Personnel test, described in Article 3, Section 3. There is one exception to this subclause; "The Mineshaft" may be entered by Engineering personnel.*
 
-*iii) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking "Triggermen" or above have been granted the ability to grant other personnel access to any area within the Entity Area, given they too have access, with proper reason.
+*iii) Security Personnel within the Task Force Detachment “The Crazies”, internally ranking "Triggermen" or above have been granted the ability to grant other personnel access to any area within the Entity Area, given they too have access, with proper reason.*
 
 *iv) Any Corporation Personnel or Visitor being escorted by a Liaison personnel are allowed in the Threat Level Containment Sectors and the first part of the Entity Chambers, but not the Containment Chamber itself. Personnel and Visitors being escorted by a Liaison personnel are allowed to enter containment chambers housing Green threat level entities, unless authorization for higher Threat Levels has been given by the Innovation Department directorate.*
 
@@ -705,7 +707,7 @@ Any Personnel not yet listed
 
 *i) Termination may ensue if Section 2, Clause 3 is satisfied.*
 
-*b) Said ‘Test Subjects’ have the right to decline tests; interviews; or Site Showcases.
+*b) Said ‘Test Subjects’ have the right to decline tests; interviews; or Site Showcases.*
 
 2) VEHICLE MAINTENANCE AND REGULATION:
 
@@ -846,9 +848,9 @@ Any Personnel not yet listed
 
 *a) All personnel present within a test must return to an area they have access to, as specified under Article 2, Section 4.*
 
-*i) Test Subjects, remaining after the test is concluded, may not be terminated by Security Corps personnel and must be escorted back to the Test Subject Zone unless Articles 3 Section 2 Clause 3 is satisfied.
+*i) Test Subjects, remaining after the test is concluded, may not be terminated by Security Corps personnel and must be escorted back to the Test Subject Zone unless Articles 3 Section 2 Clause 3 is satisfied.*
 
-*ii) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it. Said Test Subject may decline being used in another test, as long as the tests are not conjoined.
+*ii) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it. Said Test Subject may decline being used in another test, as long as the tests are not conjoined.*
 
 4) HUMVEE UTILISATION BY INNOVATION PERSONNEL:
 
@@ -937,7 +939,7 @@ Any Personnel not yet listed
 
 6) UTILISATION OF WEAPONS AROUND WORK ZONES:
 
-*a) Engineering Department Members may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and sub-clauses.
+*a) Engineering Department Members may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and sub-clauses.*
 
 
 
