@@ -727,7 +727,7 @@ Any Personnel not yet listed
 
 6) TERMINATION OF TRESPASSING PERSONNEL:
 
-*a) Any Nova Corporation Personnel in violation of Article 2, Section 3, Sub-Section 3.1 may be terminated.*
+*a) Any Nova Corporation Personnel in violation of Article 2, Section 3, Section 4 may be terminated.*
 
 7) TRUCK REGULATIONS:
 *a) The Engineering Department has been granted the ability to regulate all Regular Trucks.*
