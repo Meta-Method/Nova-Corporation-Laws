@@ -253,7 +253,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 *iv) Anomalous weaponry*
 *v) Flamethrowers*
 
-*b) Any weaponry excluding ‘handguns’ must be dropped or given to the nearest Security Personnel after all immediate threats to one’s life have been neutralised.*
+*b) Any weaponry excluding ‘handguns’ must be dropped or given to the nearest Security Personnel after all active and imminent threats to one’s life have been neutralised.*
 
 *c) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
