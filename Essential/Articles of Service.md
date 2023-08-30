@@ -191,6 +191,14 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *ii) Nova Corporation Property includes but is not limited to, Test Subjects, Entities, Vehicles, and crafted utilities (e.g. chairs or crates).*
 
+12) CORRUPTION:
+
+*a) Bribery is strictly prohibited under any circumstances;*
+
+*i) "Bribery" is defined as "to dishonestly persuade to act in one's favour by anything of monetary value";*
+
+*b) Dishonest conduct or abuse of power for one’s personal gain is also prohibited;*
+
 
 ## **Section 2: On-Site Behaviour**
 > Any clause within this section is to be followed on any and all official Nova Corporation sponsored sites. Current sites include the Nova Corporation Research Installment, designation 11.
