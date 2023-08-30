@@ -951,6 +951,8 @@ Any Personnel not yet listed
 
 *a) Engineering Department Members may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and sub-clauses.*
 
+*i) Engineering "Work zones" are defined as physical locations that are owned by Engineering personnel such as Engineering Department Warehouses, the Refinery, the Cafeteria, the entirety of Power Plant, Lithium Mines, and the Naval Port.*
+
 
 
 # **Article 4: Amending the Articles of Service**
