@@ -191,6 +191,14 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *ii) Nova Corporation Property includes but is not limited to, Test Subjects, Entities, Vehicles, and crafted utilities (e.g. chairs or crates).*
 
+12) CORRUPTION:
+
+*a) Bribery is strictly prohibited under any circumstances;*
+
+*i) "Bribery" is defined as "to dishonestly persuade to act in one's favour by anything of monetary value";*
+
+*b) Dishonest conduct or abuse of power for one’s personal gain is also prohibited;*
+
 
 ## **Section 2: On-Site Behaviour**
 > Any clause within this section is to be followed on any and all official Nova Corporation sponsored sites. Current sites include the Nova Corporation Research Installment, designation 11.
@@ -245,7 +253,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 *iv) Anomalous weaponry*
 *v) Flamethrowers*
 
-*b) Any weaponry excluding ‘handguns’ must be dropped or given to the nearest Security Personnel after all immediate threats to one’s life have been neutralised.*
+*b) Any weaponry excluding ‘handguns’ must be dropped or given to the nearest Security Personnel after all active and imminent threats to one’s life have been neutralised.*
 
 *c) Any Corporation Personnel superior in authority to a given Corporation Personnel, as described in Article 2, Section 3, may order said Corporation Personnel to respawn, given probable cause of a perceived violation of this clause.*
 
@@ -788,6 +796,8 @@ Any Personnel not yet listed
 
 *viii) Said Test Subject intentionally passes the white line in front of the Lower Test Subject Zone airlock gate, or comes into physical contact with the airlock windows.*
 
+*ix) Said Test Subject is impeding Security Personnel during a combat situation
+
 4) LEGISLATIVE IMMUNITIES:
 
 *a) Security Corps Task Force Detachment “The Armed Gentleman” have been unequivocally granted the special ability to if a Corporation Personnel ranking Classification - O or greater requests such, for any Security Personnel of the Task Force Detachment to inherit the Legislative Immunities of such a Personnel, and act on behalf of said personnel allows such.*
@@ -940,6 +950,8 @@ Any Personnel not yet listed
 6) UTILISATION OF WEAPONS AROUND WORK ZONES:
 
 *a) Engineering Department Members may use an "AK-47" for self-defense while around their work zones, at all other times they must follow the normal clause and sub-clauses.*
+
+*i) Engineering "Work zones" are defined as physical locations that are owned by Engineering personnel such as Engineering Department Warehouses, the Refinery, the Cafeteria, the entirety of Power Plant, Lithium Mines, and the Naval Port.*
 
 
 
