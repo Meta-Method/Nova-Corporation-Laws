@@ -796,7 +796,9 @@ Any Personnel not yet listed
 
 *viii) Said Test Subject intentionally passes the white line in front of the Lower Test Subject Zone airlock gate, or comes into physical contact with the airlock windows.*
 
-*ix) Said Test Subject is impeding Security Personnel during a combat situation
+*ix) Said ‘Test Subjects’ have the ability to decline tests; interviews; or Site Showcases.
+
+*x) Said Test Subject is impeding Security Personnel during a combat situation.
 
 4) LEGISLATIVE IMMUNITIES:
 
