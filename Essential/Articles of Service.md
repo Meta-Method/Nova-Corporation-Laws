@@ -796,6 +796,8 @@ Any Personnel not yet listed
 
 *viii) Said Test Subject intentionally passes the white line in front of the Lower Test Subject Zone airlock gate, or comes into physical contact with the airlock windows.*
 
+*ix) Said Test Subject is impeding Security Personnel during a combat situation
+
 4) LEGISLATIVE IMMUNITIES:
 
 *a) Security Corps Task Force Detachment “The Armed Gentleman” have been unequivocally granted the special ability to if a Corporation Personnel ranking Classification - O or greater requests such, for any Security Personnel of the Task Force Detachment to inherit the Legislative Immunities of such a Personnel, and act on behalf of said personnel allows such.*
