@@ -12,9 +12,13 @@ The Board of Advisors is a collection of Departmental Representatives charged wi
 ### Procedure
 > Example Format
 
-**PROPOSAL:**
+**LAW PROPOSAL:**
 A Proposal is a formal act of legality for the Class-X Overwatch to follow.
 > Establishment of the Class-X Transparency Act.
+
+**MOTION:**
+A Change to an existing law document or entity pertaining to the Nova Corporation.
+> Amendment to the Class-X Transparency Act.
 
 **LEGISLATION:**
 A special proposal that is related to Corporation Legislation, proposed by the Legislative Branch of the Regulations Department, for changes to the primary legal document of the Corporation.
@@ -28,7 +32,7 @@ A Request is a formal expression of opinion from one group or individual to anot
 
 **RANK CHANGE:**
 A Special Request created as a referendum for the rank status of someone within the Corporation.
-> A formal request for the processing of the promotion for "JaneDoe" to Class-A. 
+> A formal request for the processing of the promotion for "JaneDoe" to Class-O. 
 
 ### Rules
 * Representatives must show respect from one to another.
