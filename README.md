@@ -7,4 +7,4 @@ https://www.roblox.com/groups/4965800/Nova-Corporation
 http://nova-corporation.wikidot.com  
 https://discord.com/invite/nc  
 
-**For a comprehensive list of recent changes, refer to:** https://github.com/realmaster42/Nova-Corporation-Laws/commits
+**For a comprehensive list of recent changes, refer to:** https://github.com/Meta-Method/Nova-Corporation-Laws/commits
