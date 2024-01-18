@@ -1,1 +1,1 @@
-4 | 04/11/2023
+THIS IS NOW OUTDATED, CONSIDER UPGRADING TO DELTA BUILD 5 OR ABOVE https://dev.metamethod.pt/delta/build.txt
