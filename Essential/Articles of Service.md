@@ -400,6 +400,15 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *iii) Article 2, Section 2: Clause 22*
 
+24) HOSTAGE BEHAVIOUR:
+
+*a) When taken hostage by any hostile forces/parties of the Nova Corporation, a corporation member is permitted and recommended to abide by requests that are made by the hostage takers, including the breach of the Articles of Service or departmental regulations, given that they can find no other way of self-preservation.*
+
+*i) If any requests from the abductors are made that would require the hostage to give away especially valuable or important information or property, as much attempt should be made as reasonably possible to delay or stop such transfer of assets.*
+
+*b) Only members of the corporation ranking Classification-A and above are required and permitted to follow the above. Lower ranking individuals are not permitted nor recommended to do so.*
+
+
 
 
 
