@@ -724,7 +724,7 @@ Any Personnel not yet listed
 
 *i) Termination may ensue if Section 2, Clause 3 is satisfied.*
 
-*b) Said ‘Test Subjects’ have the right to decline tests; interviews; or Site Showcases.*
+*b) Said ‘Test Subjects’ have the right to decline interviews; or Site Showcases.*
 
 2) VEHICLE MAINTENANCE AND REGULATION:
 
