@@ -836,7 +836,25 @@ Any Personnel not yet listed
 
 *i) “Reasonable in nature” is defined as needed for the test and does not pose a threat to other Corporation Personnel.*
 
+7) HOSTAGE REGULATIONS:
 
+*a) Upon a Corporation Personnel being taken hostage, members of the Task Force Detachment “The Armed Gentlemen” should take immediate control over the situation when available. *
+
+*i) If there are no members of the detachment on-site, a request should be made swiftly, and the following hierarchy is to be followed:*
+
+Members of Task Force Detachment “Nothing to See Here.”
+↓
+Members of the Security Corps ranking “Security Supervisor” or above.
+↓
+Members of Task Force Detachment “Iron Fist”.
+
+*b) When handling the situation, the main priority at all times for the handlers is to ensure the wellbeing of the hostage, unless a situation progresses to the point where it has become impossible to seek any form of rescue.*
+
+*i) This does not mean that all demands should be accepted. Internal Security guidelines will include necessary recommendations and/or for negotiating demands to ensure the safe return of the hostages.*
+
+*c) Only members of the corporation ranking Classification-A or above are priorities for recovery, and the same regards mentioned above are not required  for lower ranking individuals.*
+
+   
 
 ## **Section 3: The Innovation Department**
 > The Innovation Department has been tasked with research and development of the Nova Corporation’s various anomalies. The following regulation clauses apply to all personnel of the Innovation Department, while being on their own team, and also include any regulations stated in the Innovation Departmental Guidelines:
