@@ -724,7 +724,7 @@ Any Personnel not yet listed
 
 *i) Termination may ensue if Section 2, Clause 3 is satisfied.*
 
-*b) Said ‘Test Subjects’ have the right to decline tests; interviews; or Site Showcases.*
+*b) Said ‘Test Subjects’ have the right to decline interviews; or Site Showcases.*
 
 2) VEHICLE MAINTENANCE AND REGULATION:
 
@@ -889,7 +889,7 @@ Members of Task Force Detachment “Iron Fist”.
 
 *i) Test Subjects, remaining after the test is concluded, may not be terminated by Security Corps personnel and must be escorted back to the Test Subject Zone unless Articles 3 Section 2 Clause 3 is satisfied.*
 
-*ii) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it. Said Test Subject may decline being used in another test, as long as the tests are not conjoined.*
+*ii) Test Subjects, remaining after the test is concluded, may not be tested on again, unless there is the personnel necessary to conduct the test and both the test host and Security Corps personnel present agree upon it.*
 
 4) HUMVEE UTILISATION BY INNOVATION PERSONNEL:
 
