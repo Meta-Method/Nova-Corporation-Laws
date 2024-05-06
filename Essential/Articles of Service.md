@@ -17,7 +17,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 **Threat Level:** A method of classification for entities. Threat Levels range from, in ascending order of security, Green, Yellow, Orange, Red, Black, and White.
 
 ### **Clarification**
-**Corporation Personnel:** Anyone who is ranked Classification - D to Classification - O in the Nova Corporation.
+**Corporation Personnel:** Anyone who is ranked Classification - D to Classification - O in the Nova Corporation and are currently employed and actively on-duty or are on the ‘Corporation Team’ when interpreted in Article 2, Section 2.
 
 **Innovation Personnel:** Any and all applicable personnel that have access to or are on the Innovation Department team.
 
