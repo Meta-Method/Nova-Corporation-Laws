@@ -17,7 +17,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 **Threat Level:** A method of classification for entities. Threat Levels range from, in ascending order of security, Green, Yellow, Orange, Red, Black, and White.
 
 ### **Clarification**
-**Corporation Personnel:** Anyone who is ranked Classification - D to Classification - O in the Nova Corporation.
+**Corporation Personnel:** Anyone who is ranked Classification - D to Classification - O in the Nova Corporation and are currently employed and actively on-duty or are on the ‘Corporation Team’ when interpreted in Article 2, Section 2.
 
 **Innovation Personnel:** Any and all applicable personnel that have access to or are on the Innovation Department team.
 
@@ -153,15 +153,19 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *ii) All personnel are forbidden from fabricating false reports on departmental members stating they violated internal regulations to a departmental high command member.*
 
+*(b) Only Regulations Personnel may conduct formal inquiries with probable cause.*
+
+*(c) Formal inquiries conducted by any other personnel are inadmissible as evidence.*
+
+*(d) Operations Personnel may conduct a formal inquiry under any circumstances.*
+
 6) IMPERSONATION:
 
 *a) All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel or hostile forces, within any Nova Corporation Site, neither it should be done on any communications platform of the Nova Corporation. Impersonation of personnel or hostile forces includes the following actions:*
 
-*i) Wearing an official, or something closely resembling that of a department or sub-department uniform without being a member of said department or sub-department*
+*i) Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.*
 
-*ii) Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.*
-
-*iii) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.*
+*ii) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.*
 
 7) COOPERATION WITH HOSTILE FORCES:
 
@@ -467,9 +471,11 @@ Personnel as “Security Corps” as Task Force Detachment “The Crazies”
              ↓
 Personnel as “Security Corps” not yet listed
 ↓
-Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
+Personnel as “Regulations Department”, internally ranking “Division Director” or above
 ↓
-**Personnel as “Innovation Department”, internally ranking “Head Innovator” or above**
+**Personnel as “Innovation Department”, internally ranking “Head Innovator” or above; Personnel as “Regulations Department”, internally ranking “Chief Regulating Official”**
+↓
+Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
 ↓
 Personnel ranking Classification - A
 ↓
@@ -635,7 +641,7 @@ Any Personnel not yet listed
 
 *iii) The Guidance booth is restricted to Regulations Department personnel, if none are using it, other departmental personnel and Corporation Personnel ranking Classification - A and above may take their place. Unmentioned Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.*
 
-*iv) The Executive Sectors for both Regulations and Innovation Personnel are restricted to Departmental Members only. However, locations within the sector such as Offices, Meeting rooms, Interrogation room, Medical Wing and Court room require authorization from respective Departmental Members to enter.*
+*iv) The Executive Sectors for both Regulations and Innovation Personnel are restricted to Departmental Members and Corporation Personnel ranking Classification - A within said sector’s department. However, locations within the sector such as Offices, Meeting rooms, Interrogation room, Medical Wing and Court room require authorization from respective Departmental Members to enter.*
 
 *v) The Refinery is restricted to members of the Engineering Department and Security Corps. Personnel from the Engineering Department may grant temporary authorization.*
 
@@ -805,9 +811,7 @@ Any Personnel not yet listed
 
 *viii) Said Test Subject intentionally passes the white line in front of the Lower Test Subject Zone airlock gate, or comes into physical contact with the airlock windows.*
 
-*ix) Said ‘Test Subjects’ have the ability to decline tests; interviews; or Site Showcases.
-
-*x) Said Test Subject is impeding Security Personnel during a combat situation.
+*ix) Said Test Subject is impeding Security Personnel during a combat situation.
 
 4) LEGISLATIVE IMMUNITIES:
 
