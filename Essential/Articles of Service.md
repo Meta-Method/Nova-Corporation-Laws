@@ -163,11 +163,9 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *a) All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel or hostile forces, within any Nova Corporation Site, neither it should be done on any communications platform of the Nova Corporation. Impersonation of personnel or hostile forces includes the following actions:*
 
-*i) Wearing an official, or something closely resembling that of a department or sub-department uniform without being a member of said department or sub-department*
+*i) Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.*
 
-*ii) Informing another Corporation Personnel that you are a member of a department or sub-department, although you are not one.*
-
-*iii) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.*
+*ii) Enacting on behalf of a department or sub-department or individual, without explicit, undeniable permission given by the departmental command, sub-departmental command, or individual respectively.*
 
 7) COOPERATION WITH HOSTILE FORCES:
 
