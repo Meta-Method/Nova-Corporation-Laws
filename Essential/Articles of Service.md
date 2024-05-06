@@ -153,6 +153,12 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *ii) All personnel are forbidden from fabricating false reports on departmental members stating they violated internal regulations to a departmental high command member.*
 
+*(b) Only Regulations Personnel may conduct formal inquiries with probable cause.*
+
+*(c) Formal inquiries conducted by any other personnel are inadmissible as evidence.*
+
+*(d) Operations Personnel may conduct a formal inquiry under any circumstances.*
+
 6) IMPERSONATION:
 
 *a) All Corporation Personnel are forbidden from directly, or indirectly, impersonating any personnel or hostile forces, within any Nova Corporation Site, neither it should be done on any communications platform of the Nova Corporation. Impersonation of personnel or hostile forces includes the following actions:*
