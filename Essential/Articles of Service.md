@@ -641,7 +641,7 @@ Any Personnel not yet listed
 
 *iii) The Guidance booth is restricted to Regulations Department personnel, if none are using it, other departmental personnel and Corporation Personnel ranking Classification - A and above may take their place. Unmentioned Corporation Personnel are not allowed inside unless taking shelter from an active hostile threat.*
 
-*iv) The Executive Sectors for both Regulations and Innovation Personnel are restricted to Departmental Members only. However, locations within the sector such as Offices, Meeting rooms, Interrogation room, Medical Wing and Court room require authorization from respective Departmental Members to enter.*
+*iv) The Executive Sectors for both Regulations and Innovation Personnel are restricted to Departmental Members and Corporation Personnel ranking Classification - A within said sector’s department. However, locations within the sector such as Offices, Meeting rooms, Interrogation room, Medical Wing and Court room require authorization from respective Departmental Members to enter.*
 
 *v) The Refinery is restricted to members of the Engineering Department and Security Corps. Personnel from the Engineering Department may grant temporary authorization.*
 
