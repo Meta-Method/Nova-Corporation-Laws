@@ -471,9 +471,11 @@ Personnel as “Security Corps” as Task Force Detachment “The Crazies”
              ↓
 Personnel as “Security Corps” not yet listed
 ↓
-Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
+Personnel as “Regulations Department”, internally ranking “Division Director” or above
 ↓
-**Personnel as “Innovation Department”, internally ranking “Head Innovator” or above**
+**Personnel as “Innovation Department”, internally ranking “Head Innovator” or above; Personnel as “Regulations Department”, internally ranking “Chief Regulating Official”**
+↓
+Personnel as “Regulations Department”, internally ranking “Regulating Official” or above
 ↓
 Personnel ranking Classification - A
 ↓
