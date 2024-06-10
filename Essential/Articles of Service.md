@@ -963,6 +963,8 @@ Members of Task Force Detachment “Iron Fist”.
 *i) The Department of Operations base.*
 
 *ii) The innermost area of the Entity Area.*
+
+*iii) The Red Wolves Encampment.*
  
 2) CRAFTING:
 
