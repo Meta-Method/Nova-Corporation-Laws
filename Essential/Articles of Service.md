@@ -273,6 +273,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *g) Non-combative Personnel with the exception of Operations Personnel are prohibited from utilising any weaponry in the Regulations Department Courtroom under any circumstances.*
 
+*h) Authorized department personnel and visitors attending events have been granted the ability to fire any weaponry at the shooting range located in the Forward Operating Base if they receive direct approval and supervision from a member of the Iron Fist Task Force Detachment. Additionally, weapons that are restricted under sub-clause (a) of this clause are prohibited from being used.*
+
 7) KILL ON SIGHT DESIGNATION:
 
 *a) A Corporation Personnel designated “Kill on Sight” may be terminated in any condition by any Corporation Personnel.*
