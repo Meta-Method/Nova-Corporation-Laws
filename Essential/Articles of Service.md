@@ -139,7 +139,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *b) Any evidence of said statements will be added as evidence during the investigations.*
 
-*c) Should any Corporation Personnel lie about violations of the Articles of Service, or is to be considered a violation of this clause and a violation of  Article 2; Section 2; Clause 5.*
+*c) Should any Corporation Personnel lie about violations of the Articles of Service, or is to be considered a violation of this clause and a violation of  Article 2; Section 1; Clause 9.*
 
 4) OBSTRUCTION OF JUSTICE:
 
@@ -272,6 +272,8 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 *f) Weapons that can only be obtained from a certain team or division may be regulated by that respective team or division.*
 
 *g) Non-combative Personnel with the exception of Operations Personnel are prohibited from utilising any weaponry in the Regulations Department Courtroom under any circumstances.*
+
+*h) Authorized department personnel and visitors attending events have been granted the ability to fire any weaponry at the shooting range located in the Forward Operating Base if they receive direct approval and supervision from a member of the Iron Fist Task Force Detachment. Additionally, weapons that are restricted under sub-clause (a) of this clause are prohibited from being used.*
 
 7) KILL ON SIGHT DESIGNATION:
 
