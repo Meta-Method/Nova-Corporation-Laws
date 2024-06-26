@@ -139,7 +139,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 *b) Any evidence of said statements will be added as evidence during the investigations.*
 
-*c) Should any Corporation Personnel lie about violations of the Articles of Service, or is to be considered a violation of this clause and a violation of  Article 2; Section 2; Clause 5.*
+*c) Should any Corporation Personnel lie about violations of the Articles of Service, or is to be considered a violation of this clause and a violation of  Article 2; Section 1; Clause 9.*
 
 4) OBSTRUCTION OF JUSTICE:
 
