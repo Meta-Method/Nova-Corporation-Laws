@@ -3,14 +3,35 @@
 
 The Board of Advisors is a collection of Departmental Representatives charged with introduction, discussion, and authorization of laws and policies for the entire Nova Corporation. Members of the Class-X Overwatch are inheritly not a part of the Board of Advisors, as the Board of Advisors reports to them directly.
 
-### Membership
-* Representatives must be a member of the Department they intend to represent.
-* Representatives must have good standing within their Department and the Corporation.
-* Amount of Representatives are controlled by the Class-X of the Department they are representing.
-* Personnel ranking Class-O and above who are not within a department are granted the ability to become a Representative, as an Independent or "NCM Representative".
 
-### Procedure
-> Example Format
+### BoA Representatives
+> The limit of members in the Board of Advisors is 42 Representatives split up into groups of 7 across the 6 groups (Security Corps, Innovation Department, Regulations Department, Engineering Department, Department of Operations, Red Wolves).
+* Representatives must be a member of the Department they intend to represent.
+* Representatives must have good standing within their Department and the Corporation, removal from their department they are representing means an automatic removal from the Board of Advisors, unless through special cases allowed by the Class-X Overwatch.
+* Each Department is guaranteed two voting members.
+* Each Department is given a maximum of seven voting members, not including the Departments Class - X.
+* The amount of Representatives is controlled by the Class-X of the Department they are representing.
+
+
+### Removal of BoA Members
+> Changes to departmental representation may be done at the 1st of each given month, or the earliest possible time, for the remainder of the month.
+A Voting Member may not be removed unless said voting member:
+* Is removed from their representative department, OR their removal from BoA is approved by their department's Directorate or Class - X representative.
+* Is not regularly voting on proposals.
+* Is otherwise ineligible for their position through other proposals.
+
+
+### BoA Rules
+* Representatives must show respect to each other.
+* Representatives must maintain professionalism within their proposals.
+* Representatives must issue a show an opinion (Aye or Nay) and must state their reason for their vote on a minimum of 1 out of every 2 global votes, or else risk dismissal from the Board of Advisors. 
+* Voting Members may not be punished in any means due to their voting position in the Board of Advisors.
+* Any Voting Members who vote on a given proposal may not be changed by anyone other than the original Voting Member, even if they have been removed from BoA.
+* Only Regulations Department personnel ranking as Senior Regulating Official and above may be able to announce new proposals to the Department Legislation voting channel. Only the Legislative Head Leader+ may add proposals from the Department Legislation voting channel to the Nova Corporation Law discord server, unless specifically told by the Legislative Head Leader+ that it is okay to do so.
+
+
+### BoA Voting
+As a member of the Board of Advisors you have been given the ability to make and vote on proposals. Below are the formats accompanied with examples. 
 
 **LAW PROPOSAL:**
 A Proposal is a formal act of legality for the Class-X Overwatch to follow.
@@ -34,40 +55,19 @@ A Request is a formal expression of opinion from one group or individual to anot
 A Special Request created as a referendum for the rank status of someone within the Corporation.
 > A formal request for the processing of the promotion for "JaneDoe" to Class-O. 
 
-### Rules
-* Representatives must show respect from one to another.
-* Representatives must maintain good standing within their Department and the Corporation, removal from their department they are representing means an automatic removal from the Board of Advisors, unless through special case allowed by the Class-X Overwatch.
-* Representatives must maintain professionalism within proposals.
-* Representatives must issue a show an opinion (Aye or Nay) on a minimum of 1 out of every 2 global votes, else risking dismissal from the Board of Advisors.
-* This document seeks to establish this discord as an official system, setup rules, and make guidelines on proposals.
-* Demanding somebody votes on a law is always punishable, this is not allowed to be done. You may tell somebody why you believe they should vote in a certain manner and encourage them to with reasoning that is plausible and makes sense and hasn't been changed or missing context.
-* Only Regulations Department personnel ranking as Senior Regulating Official and above may be able to announce new proposals to the Department Legislation voting channel. Only the Legislative Head Leader+ may add proposals from the Department Legislation voting channel to the Nova Corporation Law discord server, unless specifically told by the Legislative Head Leader+ that is it okay to do so.
+
+### Voting Procedures 
+These procedures must be followed by all BoA members regardless of their rank within their represented department.
 * Anything proposed in the Board of Advisors server may be in voting for only a week. If 1 week has passed after submitting the proposal, it will be automatically declined.
+* Ceasefire raiding conditions must also be approved by the Board of Advisors.
+* Any future raiding conditions beyond Regular Raiding and Ceasefire raiding must also be approved by the Board of Advisors.
 * Members ranking Classification-A may not vote on legislation changes that are directed towards them.
 * Members ranking Classification-O may not vote on legislation changes that are directed towards them.
-“Directed towards them” means any legislation specifically directed towards their classification. Not legislation directed towards Nova Corporation Members as a whole or legislation directed towards multiple classifications.
-* Ceasefire raiding conditions must also be approved by the Board of Advisors
-* Any future raiding conditions beyond Regular Raiding and Ceasefire raiding must also be approved by the Board of Advisors
-
-**Definitions:**
-* Voting Member: An abled-body individual able to cast a vote Yea or Nay for their approved categories, including Department Class-Os.
-* Department Members: The total amount of members within one department on the Roblox group.
-* NonQuota Members: The total amount of members within one department not required to do a quota, excluding directorate and high command.
-
-### Appropriation Act
-**Clauses:**
-* The changes to the representation may be calculated at the 1st of each given month, or the earliest possible time, for the remainder of the month.
-* Departments are to prioritize Departmental Class-Os above all other possible Voting Member Canidates, and may surpass this mandated limit however lacking non-Departmental Class-Os.
-* Each Department is guaranteed two voting members.
-* Each Department is given a maximum of seven voting members, including the Department Class - X.
-* The limit of members in the Board of Advisors follow the calculation of limits to the Huntington-Hill method. This method shall guarantee that there shall not be any more than 32 Representatives in total for all 6 groups (Security Corps, Innovation Department, Regulations Department, Engineering Department, Department of Operations, Red Wolves).
+> “Directed towards them” means any legislation specifically directed towards their classification. Not legislation directed towards Nova Corporation Members as a whole or legislation directed towards multiple classifications.
 
 
 ### Vote-Swaying Act
-A given department may not remove a Voting Member unless a voting member:
-* is removed from their representative department, or otherwise demoted beyond applicable for a Voting Member.
-* is not regularly voting on proposals.
-* consistently votes on proposals representative of their department, decided on a case-by-case basis.
-* is otherwise ineligible for their position through other proposals.
-* One Voting Member may not be punished or otherwise reduced in any means due to their voting position in the Board of Advisors
-* One Voting Member's vote on a given proposal may not be changed by anyone other than the original Voting Member, even after being removed.
+> Vote swaying is defined as any attempt to influence or manipulate someone's vote through the use of persuasive language, promises, false/misleading information, or threats. It is prohibited, and any attempt to force or ask a member to vote a certain way is punishable. Members may, however, express their opinions and reasoning for a specific vote as long as they do not engage in any coercion or manipulation.
+
+> Members of BoA who suspect or witness any attempt to sway a vote, whether it be theirs or a peers vote must report it to a member of the Class-X Overwatch.
+
