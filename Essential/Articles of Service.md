@@ -386,11 +386,7 @@ https://docs.google.com/document/d/1NS_tWlnM6g0ph_R3YFj0kZ7RMa9SmWwMx5g0kJeYq0Q/
 
 21) ROAD LAWS:
 
-*a) Nova Corporation Personnel are obligated to follow road laws while driving a vehicle, such as the following: Personnel are to stay on the right side of the road and yield at every intersection.*
-
-*b) If a checkpoint is manned, said Corporation Personnel are required to stop and interact with them; Personnel may only park within the dashed lines on the side of the road or designated parking lots.*
-
-*c) Pedestrians may only cross the road at intersections and walk on sidewalks or sides of roads, with the exception being an entity breach; a hostile attack; an emergency situation.*
+*a) [REMOVED]*
 
 22) KEYCARDS:
 
