@@ -1,5 +1,5 @@
 ## The Board of Advisors
-> This law, upon admitance into the general Nova Corporation Base Law, commissions this document as the primary charter of the Board of Advisors.
+> This act, upon admittance into the general Nova Corporation Base Law, commissions this document as the primary charter of the Board of Advisors.
 
 The Board of Advisors is a collection of Departmental Representatives charged with introduction, discussion, and authorization of laws and policies for the entire Nova Corporation. Members of the Class-X Overwatch are inheritly not a part of the Board of Advisors, as the Board of Advisors reports to them directly.
 
