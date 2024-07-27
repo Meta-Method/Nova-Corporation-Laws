@@ -1,1 +1,1 @@
-3 | 10/08/2023
+THIS IS NOW OUTDATED, CONSIDER UPGRADING TO DELTA BUILD 4 OR ABOVE https://dev.metamethod.pt/metaai/build.txt
