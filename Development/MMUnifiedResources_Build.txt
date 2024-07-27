@@ -1,1 +1,1 @@
-1 | 08/11/2023
+THIS IS NOW OUTDATED, CONSIDER UPGRADING TO DELTA BUILD 2 OR ABOVE https://dev.metamethod.pt/mmunifiedresources/build.txt
