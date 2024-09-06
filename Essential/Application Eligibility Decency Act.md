@@ -12,4 +12,3 @@ Departments may not refuse applications that fall under the following conditions
 
 Additionally, to combat improper enforcement of this act, or simple incompetence from application readers, a higher ranked member than the first rank that can read applications must review each denied application. This can be done by more than one person if needed. If a denied application is deemed incorrectly rejected, this high rank may request the person to be invited to the department (whether by delegating this to someone else with permissions to accept people to handle, or by doing it themselves).
 
-**This act is important in order to preserve a bright future for the Corporation. Given our recent high volume of applications, we shouldn't be wasting out potential new members.**
