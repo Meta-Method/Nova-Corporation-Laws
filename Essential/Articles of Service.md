@@ -1447,7 +1447,7 @@ Security Personnel, internally designated “Security Supervisor” or above.
 
 **↓**
 
-Regulations Personnel, internally designated “Regulating Official” or above.
+Regulations Personnel, internally designated “Senior Regulating Official” or above.
 
 **↓**
 
@@ -1475,7 +1475,7 @@ Personnel ranking Class-A or above.
 
 **↓**
 
-Regulations Personnel, internally designated “Regulating Official” or above.
+Regulations Personnel, internally designated “Senior Regulating Official” or above.
 
 **↓**
 
@@ -1495,7 +1495,7 @@ Innovation Personnel, internally designated “Expert Innovator” or above.
 
 **↓**
 
-Regulations Personnel, internally designated “Regulating Official” or above.
+Regulations Personnel, internally designated “Senior Regulating Official” or above.
 
 **↓**
 
@@ -1523,7 +1523,7 @@ Engineering Personnel, internally designated “Foreperson” or above.
 
 **↓**
 
-Regulations Personnel, internally designated “Regulating Official” or above.
+Regulations Personnel, internally designated “Senior Regulating Official” or above.
 
 **↓**
 
@@ -1555,7 +1555,7 @@ Engineering Personnel, internally designated “Foreperson” or above.
 
 **↓**
 
-Regulations Personnel, internally designated “Regulating Official” or above.
+Regulations Personnel, internally designated “Senior Regulating Official” or above.
 
 **↓**
 
@@ -1579,7 +1579,7 @@ Task Force Detachment “Iron Fist”.
 
 **↓**
 
-Regulations Personnel, internally designated “Regulating Official” or above.
+Regulations Personnel, internally designated “Senior Regulating Official” or above.
 
 **↓**
 
@@ -1603,7 +1603,7 @@ Engineering Personnel, internally designated “Foreperson” or above.
 
 **↓**
 
-Regulations Personnel, internally designated “Regulating Official” or above.
+Regulations Personnel, internally designated “Senior Regulating Official” or above.
 
 **↓**
 
@@ -1635,7 +1635,7 @@ Security Personnel.
 
 **↓**
 
-Regulations Personnel, internally designated “Regulating Official” or above.
+Regulations Personnel, internally designated “Senior Regulating Official” or above.
 
 **↓**
 
@@ -1737,51 +1737,4 @@ Any Personnel not yet listed
 
 At any designated location, all control of the location is transferred to the Security Corps Officers and Task Force Detachment “Iron Fist”. Non-Combative Corporation Personnel are to be evacuated immediately.
 
-# **Article 4 - Ratification**
 
----
-
-Ratification of the Articles of Service requires signatures denoting approval from at least one directorate representative from each valid Nova Corporation Department, and the signatures denoting approval from the Overseers of such Departments if applicable. Above that, any Personnel ranking Class-O who is part of a Department’s directorate, any Personnel ranking Class-X, and the Legislative Head may additionally sign the Articles of Service.
-
----
-
-Upon submitting a signature to be placed below, you hereby affirm you hold a position that satisfies the condition mentioned in Article 4 and agree to establish the Article of Service as the Supreme Law of the Land, until otherwise unanimously voted to be removed by the same body voting to establish the Articles of Service.
-
-**(PENDING),** *Overseer, Regulations Department*
-
-**(PENDING),** *C-X Commandant, Department of Operations*
-
-**(PENDING),** *General, Security Corps*
-
-**(PENDING),** *Overseer, Innovation Department*
-
-**(PENDING),** *Chairman, Engineering Department*
-
-**(PENDING)**, *Director of Regulations, Regulations Department*
-
-**(PENDING)**, *Assistant Director, Regulations Department*
-
-**(PENDING)**, *Legislative Head, Regulations Department*
-
-**(PENDING)**, *Cardinal Drone, Department of Operations*
-
-**(PENDING)**, *Executive Drone, Department of Operations*
-
-**(PENDING)**, *Head Commander, Security Corps*
-
-**(PENDING)**, *Commander, Security Corps*
-
-**(PENDING)**, *Director, Innovation Department*
-
-**(PENDING)**, *Deputy Director, Innovation Department*
-
-**(PENDING)**, *Director of Engineering, Engineering Department*
-
-**(PENDING)**, *Associate Director, Engineering Department*
-
----
-
-**(PENDING)**
-
-*The Administrator*
-)
