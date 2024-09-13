@@ -1495,7 +1495,19 @@ Innovation Personnel, internally designated “Expert Innovator” or above.
 
 **↓**
 
-Regulations Personnel, internally designated “Regulating Official” or above.
+The Crazies, internally designated “Crazy Advisor” or above.
+
+**↓**
+
+Security Personnel, internally designated “Security Supervisor” or above.
+
+**↓**
+
+Personnel ranking Class-A or above.
+
+**↓**
+
+Regulations Personnel, internally designated “Senior Regulating Official” or above.
 
 **↓**
 
