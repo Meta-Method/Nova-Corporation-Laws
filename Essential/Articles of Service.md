@@ -1437,7 +1437,7 @@ Operations Personnel, internally designated “Sentinel” or above.
 
 Any Personnel not yet listed
 
-1. **Unless otherwise overridden by area-specific or situational hierarchy the following describes the basic site hierarchy while on site.**
+2. **Unless otherwise overridden by area-specific or situational hierarchy the following describes the basic site hierarchy while on site.**
 
 Personnel ranking Class-A or above.
 
@@ -1461,9 +1461,9 @@ Security Personnel.
 
 Any Personnel not yet listed.
 
-1. **Within the following locations, including the land surrounding up to 50 studs,**
+3. **Within the following locations, including the land surrounding up to 50 studs,**
 
-**during a Safe status.**
+i) **during a Safe status.**
 
 **The Test Subject Zone:**
 
@@ -1525,7 +1525,7 @@ Innovation Personnel.
 
 Any Personnel not yet listed.
 
-**The Main Encampment:**
+ii) **The Main Encampment:**
 
 Engineering Personnel, internally designated “Foreperson” or above.
 
@@ -1553,7 +1553,7 @@ Security Personnel.
 
 Any Personnel not yet listed.
 
-**The Serpent Research area:**
+iii) **The Serpent Research area:**
 
 Innovation Personnel, internally designated “Expert Innovator” or above.
 
@@ -1577,7 +1577,7 @@ Security Personnel.
 
 Any Personnel not yet listed.
 
-**The Forward Operating Base:**
+iv) **The Forward Operating Base:**
 
 Iron Fist Personnel, internally designated “Captain” or above.
 
@@ -1605,7 +1605,7 @@ Personnel ranking Class-A or above.
 
 Any Personnel not yet listed.
 
-**The Solar Panels:**
+v) **The Solar Panels:**
 
 Engineering Personnel, internally designated “Foreperson” or above.
 
@@ -1625,7 +1625,7 @@ Security Personnel.
 
 Any Personnel not yet listed.
 
-1. **Within all of the listed locations in Clause 3, including the land surrounding it up to 50 studs, during a Warning status.**
+4. **Within all of the listed locations in Clause 3, including the land surrounding it up to 50 studs, during a Warning status.**
 
 Security Personnel, internally designated “Captain” or above.
 
@@ -1653,7 +1653,7 @@ Personnel ranking Class-A or above.
 
 Personnel not yet listed.
 
-1. **Within all of the above-listed locations, including the land surrounding it up to 50 studs, during an evacuation.**
+5. **Within all of the above-listed locations, including the land surrounding it up to 50 studs, during an evacuation.**
 
 Task Force Detachment “Iron Fist”.
 
@@ -1677,7 +1677,7 @@ Personnel ranking Class-A or above.
 
 Any Personnel not yet listed.
 
-1. **Within all of the above-listed locations, including the land surrounding it up to 50 studs, during an Unsafe Status.**
+6. **Within all of the above-listed locations, including the land surrounding it up to 50 studs, during an Unsafe Status.**
 
 Task Force Detachment “Iron Fist”.
 
@@ -1697,7 +1697,32 @@ Personnel ranking Class-A or above.
 
 Any Personnel not yet listed.
 
-1. **Within all of the above-listed locations, including the land surrounding it up to 50 studs, while dealing with an infractor.**
+i) **Entity Area**
+
+Task Force Detachment “The Crazies”.
+
+**↓**
+
+Security Personnel, internally designated “Security Supervisor” or above.
+
+**↓**
+
+Task Force Detachment “Iron Fist”.
+
+**↓**
+
+Task Force Detachment “The Armed Gentlemen”.
+
+**↓**
+
+Personnel ranking Class-A or above.
+
+**↓**
+
+Any Personnel not yet listed.
+
+
+7. **Within all of the above-listed locations, including the land surrounding it up to 50 studs, while dealing with an infractor.**
 
 Operations Personnel.
 
@@ -1709,7 +1734,7 @@ Regulations Personnel.
 
 Security Personnel.
 
-1. **Within any area outside location boundaries, including unlisted locations within the Tundra, the hierarchy is as follows:**
+8. **Within any area outside location boundaries, including unlisted locations within the Tundra, the hierarchy is as follows:**
 
 Task Force Detachment “Iron Fist”.
 
@@ -1725,7 +1750,7 @@ Engineering Personnel.
 
 Any Personnel not yet listed.
 
-1. **Within all of the above-listed locations, including the land surrounding up to 50 studs, during a Biological Attack:**
+9. **Within all of the above-listed locations, including the land surrounding up to 50 studs, during a Biological Attack:**
 
 Task Force Detachment “The Crazies”
 
@@ -1741,7 +1766,7 @@ Security Corps
 
 Any Personnel not yet listed
 
-1. **Within all of the above-listed locations, including the land surrounding up to 50 studs, during a High Threat Level:**
+10. **Within all of the above-listed locations, including the land surrounding up to 50 studs, during a High Threat Level:**
 
 At any designated location, all control of the location is transferred to the Security Corps Officers and Task Force Detachment “Iron Fist”. Non-Combative Corporation Personnel are to be evacuated immediately.
 
